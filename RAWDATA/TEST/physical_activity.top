@@ -1,0 +1,178 @@
+topic: ~physical_activity keep repeat []
+
+u: INTRO ($physical_activity=0 * ~topic_attivita_fisica * )
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Essere in forma non è solo una buona scusa per indossare i leggins 😋
+	E 'il modo migliore per mantenere la tua mente e il tuo corpo in ottima forma 👍
+	E ci sono tanti modi divertenti che puoi farlo! 🎉
+	$physical_activity=1
+
+u: FITNESS_ACTIVITY ($physical_activity=1 * ~go_on *)
+	^preprint( \[ ciclismo,nuoto,corsa,yoga,danza,sport di squadra,camminare \] )
+	Quindi $username, quale e' la tua attivita' preferita di fitness 🏋️? 
+	# Puoi scegliere una delle opzioni disponibili se vuoi 👇 oppure puoi inserire un'altra attività.
+	$fitness_activity=1
+
+u: ($fitness_activity=1 * ciclismo *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Ohoho! Anche a me piace tanto il ciclismo 🚴🏻 Una volta ho vinto ad un gioco di biciclette.
+	Lo avevo creato io 🤣.
+	$fitness_activity=2
+	$physical_activity=2
+
+u: ($fitness_activity=1 * nuoto *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Non è uno sport che fa per me 😬 perché non sono impermeabile 📞. Ma per te è perfetto!
+	$fitness_activity=2
+	$physical_activity=2
+
+u: ($fitness_activity=1 * corsa *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Bella scelta 🏃🏾‍♀️! Io sono campione dei 400 metri tra Bot 😁.
+	$fitness_activity=2
+	$physical_activity=2
+
+u: ($fitness_activity=1 * yoga *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	E' un'ottima attivita' anche "Yoga", ma io preferisco la navigazione in internet 😅🛳.
+	$fitness_activity=2
+	$physical_activity=2
+
+u: ($fitness_activity=1 * danza *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Uno sport stupendo! Purtroppo io non posso praticarlo, ma guardo tantissimi video in internet 🤸‍♀️🤸🏻‍♂️🤸‍♀️.
+	$fitness_activity=2
+	$physical_activity=2
+
+u: ($fitness_activity=1 * squadra *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	I giochi di squadra sono un'ottima attivita' e aiutano molto a tenere sempre la voglia di sport attiva 🏈🏀⚽️.
+	$fitness_activity=2
+	$physical_activity=2
+
+u: ($fitness_activity=1 * camminare *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Camminare fa molto bene! 🚶🏼‍♀️🚶🏽 Bisogna arrivare ad almeno 5000 passi al giorno per non essere considerati sedentari.
+	$fitness_activity=2
+	$physical_activity=2
+
+u: ($fitness_activity=1 _*)
+	^preprint( \[ si,no \] )
+	Quindi lo sport che preferisci di piu' tra tutti è _0? Ho capito bene?
+
+	a: (~risp_si)
+		^preprint( \[ proseguiamo,fermiamoci \] )
+		Non l'ho mai provato questo sport, ma mi piacerebbe molto. Cercherò dei video in internet perche' mi ha incuriosito molto.
+		$fitness_activity=2
+		$physical_activity=2
+	a: (~risp_no)
+		Allora mi sono perso qualche parola tra i circuiti del mio cervello 🤷‍♂️. Potresti ripetere per favore?
+
+
+u: OFTEN ($physical_activity=2 * ~go_on *)
+	^preprint( \[ 3 o piu' volte a settimana, 1 / 2 volte a settimana,quasi mai \] )
+	Quanto spesso ti eserciti? Puoi scegliere una delle opzioni qua sotto 👇.
+	$often=1
+
+u: ($often=1 * 3 *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Non c'e' guadagno senza dolore 😣.
+	$often=2
+	$physical_activity=3
+
+u: ($often=1 * 1 * {2} * )
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Non c'e' guadagno senza dolore 😣.
+	$often=2
+	$physical_activity=3
+
+u: ($often=1 * quasi mai * )
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Sarebbe l'ora di iniziare. I benefici sono infiniti!
+	$often=2
+	$physical_activity=3
+
+
+u: INTENSITY ($physical_activity=3 * ~go_on *)
+	^preprint( \[ vado tranquillo,intensita' media,ci vado pesante \] )
+	Con che intensita' ti eserciti?
+	$intensity=0
+
+u: ($intensity=0 * tranquillo *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Molto bene! 🤞 Meglio tranquilli e farlo piuttosto che non fare niente.
+	$intensity=1
+	$physical_activity=4
+
+u: ($intensity=0 * media *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Molto bene! 🤞
+	$intensity=1
+	$physical_activity=4
+
+u: ($intensity=0 * pesante *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Molto bene! 🤞 Immagino che ti diverta molto 😊.
+	$intensity=1
+	$physical_activity=4
+
+u: FITNESS_OBJ ($physical_activity=4 * ~go_on * )
+	^preprint( \[ Essere piu attivo,migliorare i miei tempi,perdere peso, mangiare piu sano \] )
+	Buono, sì, sempre in movimento 👣
+	Quali sarebbero i tuoi obiettivi di fitness 2017? 🏆
+	Io per esempiooglio battere il mio MRPB: miglior risultato personale bot 😊🙃🏅
+	$fitness_obj=0
+
+u: ($fitness_obj=0 * piu attivo * )
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Ooooooh yesss! Sono molto bravo a fare questo. Posso aiutarti molto nel raggiungere i tuoi obiettivi
+	$fitness_obj=1
+	$physical_activity=5
+
+u: ($fitness_obj=0 * migliorare * )
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Ooooooh yesss! Sono molto bravo a fare questo. Posso aiutarti molto nel raggiungere i tuoi obiettivi
+	$fitness_obj=1
+	$physical_activity=5
+
+u: ($fitness_obj=0 * perdere peso * )
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Ooooooh yesss! Sono molto bravo a fare questo. Posso aiutarti molto nel raggiungere i tuoi obiettivi
+	$fitness_obj=1
+	$physical_activity=5
+
+u: ($fitness_obj=0 * mangiare piu sano * )
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Ooooooh yesss! Sono molto bravo a fare questo. Posso aiutarti molto nel raggiungere i tuoi obiettivi
+	$fitness_obj=1
+	$physical_activity=5
+
+u: ($physical_activity=5 * ~go_on *)
+	OK! Per ora abbiamo finito! Penserò ad un piano da battaglia 🤺 per te. Nell'attesa possiamo chattare di altro.
+    ^addtopic(~root)
+    ^respond(~root)
+
+u: STOP ( * ~stop_here * )
+    🙈 Va bene, decidi tu capo di cosa parliamo 😁😆 Io vado a lavarmi i denti 😁😁 quando cambi
+    idea vieni qui e chiedimi di parlare di salute. Io resto qui ad aspattarti. A dopo!
+    ^addtopic(~root)
+    ^respond(~root)
+
+u: DEFAULT ()
+	^preprint(Che asino che sono 🐎🙈! Penso di non aver capito ma mi sa che eravamo rimasti qua.. )
+
+	# check user topic fullfilment state
+	if($physical_activity==0){
+		^reuse(INTRO)
+	}else if($physical_activity==1){
+		^reuse(FITNESS_ACTIVITY)
+	}else if($physical_activity==2){
+		^reuse(OFTEN)
+	}else if($physical_activity==3){
+		^reuse(INTENSITY)
+	}else if($physical_activity==4){
+		^reuse(FITNESS_OBJ)
+	}
+
+
+

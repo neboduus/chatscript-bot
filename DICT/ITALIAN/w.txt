@@ -1,0 +1,124 @@
+﻿ W. ( ) 
+ Wagner ( ) 
+ Waigel ( ) 
+ Waldheim ( ) 
+ Walesa ( ) 
+ Wall ( ) 
+ Walt ( ) 
+ Walter ( ) 
+ Warner ( ) 
+ Warren ( ) 
+ Washington ( ) 
+ Wayne ( ) 
+ Weah ( ) 
+ Weber ( ) 
+ Welfare ( ) 
+ Welles ( ) 
+ Wembley ( ) 
+ Wenders ( ) 
+ Werner ( ) 
+ West ( ) 
+ Westminster ( ) 
+ White ( ) 
+ Wilde ( ) 
+ William ( ) 
+ Williams ( ) 
+ Willy ( ) 
+ Wilson ( ) 
+ Wim ( ) 
+ Wimbledon ( ) 
+ Wind ( ) 
+ Winter ( ) 
+ Wojtyla ( ) 
+ Wolf ( ) 
+ Wolfgang ( ) 
+ Woody ( ) 
+ World ( ) 
+ Wright ( ) 
+ Wwf ( ) 
+ wagon ( ) 
+ walkie-talkie ( ) 
+ walkman ( ) 
+ walseriana ( ) lemma=walseriano 
+ walseriano ( ) 
+ walseriane ( ) lemma=walseriano 
+ walseriani ( ) lemma=walseriano 
+ walserianissima ( ) lemma=walseriano 
+ walserianissime ( ) lemma=walseriano 
+ walserianissimi ( ) lemma=walseriano 
+ walserianissimo ( ) lemma=walseriano 
+ washingtoniana ( ) lemma=washingtoniano 
+ washingtoniano ( ) 
+ washingtoniane ( ) lemma=washingtoniano 
+ washingtoniani ( ) lemma=washingtoniano 
+ washingtonianissima ( ) lemma=washingtoniano 
+ washingtonianissime ( ) lemma=washingtoniano 
+ washingtonianissimi ( ) lemma=washingtoniano 
+ washingtonianissimo ( ) lemma=washingtoniano 
+ water ( ) 
+ watussi ( ) lemma=watusso 
+ watusso ( ) 
+ wc ( ) 
+ web ( ) 
+ weberiana ( ) lemma=weberiano 
+ weberiano ( ) 
+ weberiane ( ) lemma=weberiano 
+ weberiani ( ) lemma=weberiano 
+ weberianissima ( ) lemma=weberiano 
+ weberianissime ( ) lemma=weberiano 
+ weberianissimi ( ) lemma=weberiano 
+ weberianissimo ( ) lemma=weberiano 
+ week-end ( ) 
+ weekend ( ) 
+ welfare ( ) 
+ wellesiana ( ) lemma=wellesiano 
+ wellesiano ( ) 
+ wellesiane ( ) lemma=wellesiano 
+ wellesiani ( ) lemma=wellesiano 
+ wellesianissima ( ) lemma=wellesiano 
+ wellesianissime ( ) lemma=wellesiano 
+ wellesianissimi ( ) lemma=wellesiano 
+ wellesianissimo ( ) lemma=wellesiano 
+ welter ( ) 
+ wendersiana ( ) lemma=wendersiano 
+ wendersiano ( ) 
+ wendersiane ( ) lemma=wendersiano 
+ wendersiani ( ) lemma=wendersiano 
+ wendersianissima ( ) lemma=wendersiano 
+ wendersianissime ( ) lemma=wendersiano 
+ wendersianissimi ( ) lemma=wendersiano 
+ wendersianissimo ( ) lemma=wendersiano 
+ wertheriana ( ) lemma=wertheriano 
+ wertheriano ( ) 
+ wertheriane ( ) lemma=wertheriano 
+ wertheriani ( ) lemma=wertheriano 
+ wertherianissima ( ) lemma=wertheriano 
+ wertherianissime ( ) lemma=wertheriano 
+ wertherianissimi ( ) lemma=wertheriano 
+ wertherianissimo ( ) lemma=wertheriano 
+ west ( ) 
+ western ( ) 
+ westinghouse ( ) 
+ westinghouses ( ) lemma=westinghouse 
+ whisky ( ) 
+ whitmaniana ( ) lemma=whitmaniano 
+ whitmaniano ( ) 
+ whitmaniane ( ) lemma=whitmaniano 
+ whitmaniani ( ) lemma=whitmaniano 
+ whitmanianissima ( ) lemma=whitmaniano 
+ whitmanianissime ( ) lemma=whitmaniano 
+ whitmanianissimi ( ) lemma=whitmaniano 
+ whitmanianissimo ( ) lemma=whitmaniano 
+ windsurf ( ) 
+ wojtyliana ( ) lemma=wojtyliano 
+ wojtyliano ( ) 
+ wojtyliane ( ) lemma=wojtyliano 
+ wojtyliani ( ) lemma=wojtyliano 
+ wojtylianissima ( ) lemma=wojtyliano 
+ wojtylianissime ( ) lemma=wojtyliano 
+ wojtylianissimi ( ) lemma=wojtyliano 
+ wojtylianissimo ( ) lemma=wojtyliano 
+ won ( ) 
+ workshop ( ) 
+ workstation ( ) 
+ wurstel ( ) 

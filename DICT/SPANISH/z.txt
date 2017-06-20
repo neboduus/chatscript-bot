@@ -1,0 +1,144 @@
+﻿ Z ( ) 
+ ZCZC ( ) 
+ ZKWA ( ) 
+ ZKWZ ( ) 
+ ZOK ( ) 
+ ZS0 ( ) 
+ ZSO ( ) lemma=ZS0 
+ ZSU ( ) 
+ ZYA ( ) 
+ ZYC ( ) 
+ ZYK ( ) 
+ ZYM ( ) 
+ ZYN ( ) 
+ ZYP ( ) 
+ Zacatecas ( ) 
+ Zaire ( ) 
+ Zambia ( ) 
+ Zambrano ( ) 
+ Zamcheck ( ) 
+ Zamora ( ) 
+ Zanzíbar ( ) 
+ Zapata ( ) 
+ Zaragoza ( ) 
+ Zea ( ) 
+ Zedillo ( ) 
+ Zelanda ( ) 
+ Ziehl-Neelsen ( ) 
+ Zihuatanejo ( ) 
+ Zimbabwe ( ) 
+ Zollverein ( ) 
+ Zondek ( ) 
+ Zorita ( ) 
+ Zorrilla ( ) 
+ Zterm ( ) 
+ Zuidema ( ) 
+ Zulema ( ) 
+ Zulia ( ) 
+ z ( ) 
+ zacatecana ( ) lemma=zacatecano 
+ zacatecano ( ) 
+ zafiro-titanio ( ) 
+ zaga ( ) 
+ zaguero ( ) 
+ zaguán ( ) 
+ zaino ( ) 
+ zambos ( ) lemma=zambo 
+ zambo ( ) 
+ zamorano ( ) 
+ zampando ( ) lemma=zampar 
+ zampar ( ) 
+ zanahoria ( ) 
+ zanahorias ( ) lemma=zanahoria 
+ zancada ( ) 
+ zancadilla ( ) 
+ zancadillas ( ) lemma=zancadilla 
+ zanco ( ) 
+ zanja ( ) lemma=zanjar 
+ zanjar ( ) 
+ zanjaba ( ) lemma=zanjar 
+ zanjada ( ) lemma=zanjar 
+ zanjadas ( ) lemma=zanjar 
+ zanjado ( ) lemma=zanjar 
+ zanjan ( ) lemma=zanjar 
+ zanjas ( ) lemma=zanja 
+ zanje ( ) lemma=zanjar 
+ zanjen ( ) lemma=zanjar 
+ zanjó ( ) lemma=zanjar 
+ zapata ( ) 
+ zapateaba ( ) lemma=zapatear 
+ zapatear ( ) 
+ zapatero ( ) 
+ zapatería ( ) 
+ zapatilla ( ) 
+ zapatillas ( ) lemma=zapatilla 
+ zapatista ( ) 
+ zapatistas ( ) lemma=zapatista 
+ zapato ( ) 
+ zapatos ( ) lemma=zapato 
+ zar ( ) 
+ zarcero ( ) 
+ zares ( ) lemma=zar 
+ zarpado ( ) lemma=zarpar 
+ zarpar ( ) 
+ zarpan ( ) lemma=zarpar 
+ zarparán ( ) lemma=zarpar 
+ zarpen ( ) lemma=zarpar 
+ zarpó ( ) lemma=zarpar 
+ zarza ( ) 
+ zarzamora ( ) 
+ zarzuela ( ) 
+ zarzuelas ( ) lemma=zarzuela 
+ zas ( ) 
+ zeolitas ( ) lemma=zeolita 
+ zeolita ( ) 
+ zero ( ) 
+ zig-zag ( ) lemma=zig 
+ zig ( ) 
+ zigomicosis ( ) 
+ zinc ( ) 
+ zodiaco ( ) 
+ zodíaco ( ) 
+ zona ( ) 
+ zonal ( ) 
+ zonas ( ) lemma=zona 
+ zone ( ) 
+ zoo ( ) 
+ zooide ( ) 
+ zoología ( ) 
+ zoológico ( ) 
+ zoológicos ( ) lemma=zoológico 
+ zoonosis ( ) 
+ zooplancton ( ) 
+ zooplanctónico ( ) 
+ zoos ( ) lemma=zoo 
+ zoosanitario ( ) 
+ zootécnico ( ) 
+ zorra ( ) lemma=zorro 
+ zorro ( ) 
+ zorras ( ) lemma=zorro 
+ zorros ( ) lemma=zorro 
+ zoster ( ) 
+ zozobra ( ) lemma=zozobrar 
+ zozobrar ( ) 
+ zozobras ( ) lemma=zozobrar 
+ zozobró ( ) lemma=zozobrar 
+ zulú ( ) 
+ zulúes ( ) lemma=zulú 
+ zumaque ( ) lemma=zumacar 
+ zumacar ( ) 
+ zumaques ( ) lemma=zumacar 
+ zumbido ( ) 
+ zumo ( ) 
+ zumos ( ) lemma=zumo 
+ zurcir ( ) 
+ zurda ( ) lemma=zurdo 
+ zurdo ( ) 
+ zurdería ( ) 
+ zurdos ( ) lemma=zurdo 
+ zurra ( ) lemma=zurrar 
+ zurrar ( ) 
+ zurró ( ) lemma=zurrar 
+ zurzan ( ) lemma=zurcir 
+ zócalo ( ) 
+ zócalos ( ) lemma=zócalo 

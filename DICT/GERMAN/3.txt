@@ -1,0 +1,882 @@
+﻿ 3 ( ) 
+ 3,1 ( ) 
+ 3,1-Millionen-Mark-Projekt ( ) 
+ 3,2-Millionen-Mark-Loch ( ) 
+ 3,3 ( ) 
+ 3,3%-Angebot ( ) 
+ 3,4 ( ) 
+ 3,4-Millionen-Stadt ( ) 
+ 3,5 ( ) 
+ 3,5%-Angebot ( ) 
+ 3,5-Millionen-Metropole ( ) 
+ 3,5-Millionen-Stadt ( ) 
+ 3,5-Prozent-Angebot ( ) 
+ 3,5-Prozent-Grenze ( ) 
+ 3,5-Prozent-Kostenbegrenzung ( ) 
+ 3,5-Prozent-Schranke ( ) 
+ 3,5fachen ( ) lemma=3,5fach 
+ 3,5fach ( ) 
+ 3,6 ( ) 
+ 3,6-Prozent- ( ) 
+ 3,62 ( ) 
+ 3,7 ( ) 
+ 3,7-Prozent-Erhöhungen ( ) lemma=3,7-Prozent-Erhöhung 
+ 3,7-Prozent-Erhöhung ( ) 
+ 3,8 ( ) 
+ 3,8prozentige ( ) lemma=3,8prozentig 
+ 3,8prozentig ( ) 
+ 3,9 ( ) 
+ 3- ( ) 
+ 3-2-1-Deckung ( ) 
+ 3-Anlieger ( ) 
+ 3-D ( ) 
+ 3-D-Animationen ( ) lemma=3-D-Animation 
+ 3-D-Animation ( ) 
+ 3-D-Bilderbücher ( ) lemma=3-D-Bilderbuch 
+ 3-D-Bilderbuch ( ) 
+ 3-D-Brille ( ) 
+ 3-D-Buch ( ) 
+ 3-D-Designer ( ) 
+ 3-D-Effekt ( ) 
+ 3-D-Film ( ) 
+ 3-D-Filme ( ) lemma=3-D-Film 
+ 3-D-Helmdisplay ( ) 
+ 3-D-Kino ( ) 
+ 3-D-Manie ( ) 
+ 3-D-Museum ( ) 
+ 3-D-Programm ( ) 
+ 3-D-Raumbildprojektion ( ) 
+ 3-D-Wolkenbuch ( ) 
+ 3-Elektroden-Sensor ( ) 
+ 3-Elektroden-Sensoren ( ) lemma=3-Elektroden-Sensor 
+ 3-Elektroden-Sensors ( ) lemma=3-Elektroden-Sensor 
+ 3-Elektrodensensors ( ) lemma=3-Elektrodensensor 
+ 3-Elektrodensensor ( ) 
+ 3-Fabrik ( ) 
+ 3-Fernsehen ( ) 
+ 3-Firma ( ) 
+ 3-Format ( ) 
+ 3-Gehalt ( ) 
+ 3-Gestirn ( ) 
+ 3-Gewehre ( ) lemma=3-Gewehr 
+ 3-Gewehr ( ) 
+ 3-Gewehren ( ) lemma=3-Gewehr 
+ 3-Haltestelle ( ) 
+ 3-Kanal-Lichtorgel ( ) 
+ 3-Kilometer-Schutzzone ( ) 
+ 3-Klassik ( ) 
+ 3-Kulturtermin ( ) 
+ 3-Linie ( ) 
+ 3-Lizenzen ( ) lemma=3-Lizenz 
+ 3-Lizenz ( ) 
+ 3-Magazin ( ) 
+ 3-Maschinen ( ) lemma=3-Maschine 
+ 3-Maschine ( ) 
+ 3-Meter-Brett ( ) 
+ 3-Millionen- ( ) 
+ 3-Millionen-Marke ( ) 
+ 3-Moderator ( ) 
+ 3-Nord ( ) 
+ 3-Phasen-Grenze ( ) 
+ 3-Phasenzone ( ) 
+ 3-Produktion ( ) 
+ 3-Professor ( ) 
+ 3-Professur ( ) 
+ 3-Professuren ( ) lemma=3-Professur 
+ 3-Programm ( ) 
+ 3-Prozent-Klausel ( ) 
+ 3-Punkte-Würfen ( ) lemma=3-Punkte-Wurf 
+ 3-Punkte-Wurf ( ) 
+ 3-Raum-Wohnungen ( ) lemma=3-Raum-Wohnung 
+ 3-Raum-Wohnung ( ) 
+ 3-Reihe ( ) 
+ 3-Rohling ( ) 
+ 3-SAT ( ) 
+ 3-Sat ( ) 
+ 3-Sat-Programm ( ) 
+ 3-Schiene ( ) 
+ 3-Sendung ( ) 
+ 3-Stelle ( ) 
+ 3-Sterne-Hotels ( ) lemma=3-Sterne-Hotel 
+ 3-Sterne-Hotel ( ) 
+ 3-Stufen-Plan ( ) 
+ 3-Stunden-Mittel ( ) 
+ 3-Sturmgewehre ( ) lemma=3-Sturmgewehr 
+ 3-Sturmgewehr ( ) 
+ 3-Tage ( ) lemma=3-Tag 
+ 3-Tag ( ) 
+ 3-Tage-Bart ( ) 
+ 3-Talkshow ( ) 
+ 3-Wege-Katalysator ( ) 
+ 3-Zimmer-Eigentumswohnungen ( ) lemma=3-Zimmer-Eigentumswohnung 
+ 3-Zimmer-Eigentumswohnung ( ) 
+ 3-Zimmer-Wohnung ( ) 
+ 3-Zimmer-Wohnungen ( ) lemma=3-Zimmer-Wohnung 
+ 3-Zonen-Konzept ( ) 
+ 3-farbig ( ) 
+ 3-h ( ) 
+ 3-m-Brett ( ) 
+ 3. ( ) 
+ 3.000,-- ( ) 
+ 3.000- ( ) 
+ 3.000-Seelen-Dorf ( ) 
+ 3.000-Seelen-Gemeinde ( ) 
+ 3.000er ( ) 
+ 3.000jährigen ( ) lemma=3.000jährig 
+ 3.000jährig ( ) 
+ 3.000köpfige ( ) lemma=3.000köpfig 
+ 3.000köpfig ( ) 
+ 3.000köpfigen ( ) lemma=3.000köpfig 
+ 3.500-Seelen-Gemeinde ( ) 
+ 3/1 ( ) 
+ 3/10 ( ) 
+ 3/100 ( ) 
+ 3/140 ( ) 
+ 3/145 ( ) 
+ 3/178 ( ) 
+ 3/180 ( ) 
+ 3/185 ( ) 
+ 3/190 ( ) 
+ 3/191 ( ) 
+ 3/192 ( ) 
+ 3/195 ( ) 
+ 3/1988 ( ) 
+ 3/1989 ( ) 
+ 3/1990 ( ) 
+ 3/1991 ( ) 
+ 3/1992 ( ) 
+ 3/2 ( ) 
+ 3/205 ( ) 
+ 3/210 ( ) 
+ 3/215 ( ) 
+ 3/220 ( ) 
+ 3/225 ( ) 
+ 3/230 ( ) 
+ 3/3 ( ) 
+ 3/310 ( ) 
+ 3/330 ( ) 
+ 3/362 ( ) 
+ 3/370 ( ) 
+ 3/375 ( ) 
+ 3/4 ( ) 
+ 3/4-Mehrheit ( ) 
+ 3/4-Takt ( ) 
+ 3/44,18 ( ) 
+ 3/5 ( ) 
+ 3/6 ( ) 
+ 3/77 ( ) 
+ 3/8 ( ) 
+ 3/88 ( ) 
+ 3/89 ( ) 
+ 3/9 ( ) 
+ 3/90 ( ) 
+ 3/91 ( ) 
+ 3/92 ( ) 
+ 3/93 ( ) 
+ 30 ( ) 
+ 30,77 ( ) 
+ 30- ( ) 
+ 30-Arbeitsgruppe ( ) 
+ 30-B ( ) 
+ 30-C ( ) 
+ 30-Dollar-Marke ( ) 
+ 30-Dollar-Motels ( ) lemma=30-Dollar-Motel 
+ 30-Dollar-Motel ( ) 
+ 30-Forderung ( ) 
+ 30-Fuss-Container ( ) 
+ 30-Fuß-Container ( ) 
+ 30-Grad-Grenze ( ) 
+ 30-Grad-Marke ( ) 
+ 30-Jahr-Bühnenjubiläum ( ) 
+ 30-Jahr-Feier ( ) 
+ 30-Jahr-Jubiläum ( ) 
+ 30-Kilometer ( ) 
+ 30-Kilometer-Langlauf ( ) 
+ 30-Kilometer-Sperrzone ( ) 
+ 30-Kilometer-Stromschwimmen ( ) 
+ 30-Kilometer-Zone ( ) 
+ 30-Kilometer-Zonen ( ) lemma=30-Kilometer-Zone 
+ 30-Konzept ( ) 
+ 30-Liter-Abfalltonne ( ) 
+ 30-Liter-Fass ( ) 
+ 30-Liter-Faß ( ) lemma=30-Liter-Fass 
+ 30-Liter-Tonne ( ) 
+ 30-Meter-Armbrustschiessen ( ) 
+ 30-Meter-Armbrustschießen ( ) 
+ 30-Meter-Drehleiter ( ) 
+ 30-Meter-Schuss ( ) 
+ 30-Meter-Schuß ( ) lemma=30-Meter-Schuss 
+ 30-Meter-Sprint ( ) 
+ 30-Millionen- ( ) 
+ 30-Millionen-Betrug ( ) 
+ 30-Millionen-Ding ( ) 
+ 30-Millionen-Komplex ( ) 
+ 30-Millionen-Mark-Loch ( ) 
+ 30-Millionen-Mark-Neubau ( ) 
+ 30-Millionen-Mark-Projekt ( ) 
+ 30-Millionen-Projekt ( ) 
+ 30-Millirem-Konzept ( ) 
+ 30-Minuten-Rhythmus ( ) 
+ 30-Minuten-Sendung ( ) 
+ 30-Minuten-Takt ( ) 
+ 30-Mio ( ) 
+ 30-Planungen ( ) lemma=30-Planung 
+ 30-Planung ( ) 
+ 30-Pläne ( ) lemma=30-Plan 
+ 30-Plan ( ) 
+ 30-Prozent ( ) 
+ 30-Prozent- ( ) 
+ 30-Prozent-Angebot ( ) 
+ 30-Prozent-Anteil ( ) 
+ 30-Prozent-Anteils ( ) lemma=30-Prozent-Anteil 
+ 30-Prozent-Beteiligung ( ) 
+ 30-Prozent-Ghetto ( ) 
+ 30-Prozent-Grenze ( ) 
+ 30-Prozent-Hürde ( ) 
+ 30-Prozent-Marke ( ) 
+ 30-Prozent-Partei ( ) 
+ 30-Prozent-Quote ( ) 
+ 30-Prozent-Regelung ( ) 
+ 30-Prozent-Ziel ( ) 
+ 30-Punkte-Katalog ( ) 
+ 30-Quadratmeter-Raum ( ) 
+ 30-Regelung ( ) 
+ 30-Schildern ( ) lemma=30-Schild 
+ 30-Schild ( ) 
+ 30-Sekunden- ( ) 
+ 30-Sekunden-Spot ( ) 
+ 30-Sekunden-Spots ( ) lemma=30-Sekunden-Spot 
+ 30-Sekunden-Takt ( ) 
+ 30-Stunden-Grenze ( ) 
+ 30-Stunden-Kraft ( ) 
+ 30-Stunden-Stelle ( ) 
+ 30-Stunden-Woche ( ) 
+ 30-Stundenkilometer ( ) 
+ 30-Stundenkilometer-Limits ( ) lemma=30-Stundenkilometer-Limit 
+ 30-Stundenkilometer-Limit ( ) 
+ 30-Tage-Frist ( ) 
+ 30-Tage-Krieg ( ) 
+ 30-Tage-Ultimatum ( ) 
+ 30-Tonnen-LKW ( ) 
+ 30-Zone ( ) 
+ 30-Zonen ( ) lemma=30-Zone 
+ 30-jährige ( ) lemma=30-jährig 
+ 30-jährig ( ) 
+ 30-jährigen ( ) lemma=30-jährig 
+ 30-km-Langlauf ( ) 
+ 30-km-Lauf ( ) 
+ 30-km-Olympiasiegerin ( ) 
+ 30-km-Rennen ( ) 
+ 30-km-Zone ( ) 
+ 30-km/h-Schilder ( ) lemma=30-km/h-Schild 
+ 30-km/h-Schild ( ) 
+ 30-km/h-Zone ( ) 
+ 30-km/h-Zonen ( ) lemma=30-km/h-Zone 
+ 30-köpfigen ( ) lemma=30-köpfig 
+ 30-köpfig ( ) 
+ 30-m-Schuss ( ) 
+ 30-m-Schuß ( ) lemma=30-m-Schuss 
+ 30-prozentige ( ) lemma=30-prozentig 
+ 30-prozentig ( ) 
+ 30-prozentigen ( ) lemma=30-prozentig 
+ 30. ( ) 
+ 30.000-Einwohner ( ) 
+ 30.000-Einwohner- ( ) 
+ 30.000-Einwohner-Stadt ( ) 
+ 30.000-Mark- ( ) 
+ 30.000-Mark-Rate ( ) 
+ 30.000-Mark-Spende ( ) 
+ 30.000.- ( ) 
+ 30.000er ( ) 
+ 30/1 ( ) 
+ 30/2 ( ) 
+ 30/31 ( ) 
+ 30/32 ( ) 
+ 30/35 ( ) 
+ 30/40 ( ) 
+ 30/40er ( ) 
+ 30/90 ( ) 
+ 30/92 ( ) 
+ 300 ( ) 
+ 300- ( ) 
+ 300-Betten-Baus ( ) lemma=300-Betten-Bau 
+ 300-Betten-Bau ( ) 
+ 300-Betten-Haus ( ) 
+ 300-Betten-Hotel ( ) 
+ 300-Betten-Hotelruine ( ) 
+ 300-DM-Aktie ( ) 
+ 300-Einwohner-Dorf ( ) 
+ 300-Grenze ( ) 
+ 300-Jahr-Feier ( ) 
+ 300-Kilometer-Distanz ( ) 
+ 300-Liter ( ) 
+ 300-Liter-Tanks ( ) lemma=300-Liter-Tank 
+ 300-Liter-Tank ( ) 
+ 300-Liter-Tonne ( ) 
+ 300-Mann-Behörde ( ) 
+ 300-Megawatt-Atomreaktor ( ) 
+ 300-Megawatt-Reaktor ( ) 
+ 300-Megawatt-Reaktors ( ) lemma=300-Megawatt-Reaktor 
+ 300-Meter-Band ( ) 
+ 300-Meter-Grenze ( ) 
+ 300-Millionen- ( ) 
+ 300-Millionen-Kredit ( ) 
+ 300-Millionen-Mark ( ) 
+ 300-Millionen-Mark- ( ) 
+ 300-Millionen-Mark-Projekt ( ) 
+ 300-Millionen-Programm ( ) 
+ 300-Pin-Spiel ( ) 
+ 300-Seelen-Dorf ( ) 
+ 300-Seelen-Gemeinde ( ) 
+ 300-Seiten- ( ) 
+ 300.000-Einwohner-Stadt ( ) 
+ 300/1200/2400 ( ) 
+ 300/90 ( ) 
+ 3000 ( ) 
+ 3000-Einwohner-Gemeinde ( ) 
+ 3000-Einwohner-Ort ( ) 
+ 3000-Europameisterschaft ( ) 
+ 3000-Meter-Hindernis ( ) 
+ 3000-Meter-Lauf ( ) 
+ 3000-Meter-Rennen ( ) 
+ 3000-Plätze-Kino ( ) 
+ 3000-Punkte-Niveau ( ) 
+ 3000-Punkte-Schwelle ( ) 
+ 3000-Seelen-Dorf ( ) 
+ 3000-Seelen-Gemeinde ( ) 
+ 3000-Seelen-Ort ( ) 
+ 3000-m-Einerverfolgung ( ) 
+ 3000-m-Einzelverfolgung ( ) 
+ 3000-m-Gehen ( ) 
+ 3000-m-Hindernis ( ) 
+ 3000-m-Lauf ( ) 
+ 30000 ( ) 
+ 30000-Einwohner-Kommune ( ) 
+ 30000-Einwohner-Stadt ( ) 
+ 300000 ( ) 
+ 300000-Einwohner-Stadt ( ) 
+ 3000er ( ) 
+ 3001-Kino ( ) 
+ 3005/89 ( ) 
+ 300er ( ) 
+ 300er-Fahrgestell ( ) 
+ 300er-Limousine ( ) 
+ 300er-Mittelklasse-Modellen ( ) lemma=300er-Mittelklasse-Modell 
+ 300er-Mittelklasse-Modell ( ) 
+ 300er-Schnitt ( ) 
+ 300fach ( ) 
+ 300fache ( ) lemma=300fach 
+ 300jährige ( ) lemma=300jährig 
+ 300jährig ( ) 
+ 300jährigen ( ) lemma=300jährig 
+ 300jähriger ( ) lemma=300jährig 
+ 300köpfige ( ) lemma=300köpfig 
+ 300köpfig ( ) 
+ 300köpfigen ( ) lemma=300köpfig 
+ 300köpfiger ( ) lemma=300köpfig 
+ 300prozentige ( ) lemma=300prozentig 
+ 300prozentig ( ) 
+ 301-Mitarbeiter ( ) 
+ 301/91 ( ) 
+ 304-PS-Allradmaschinen ( ) lemma=304-PS-Allradmaschine 
+ 304-PS-Allradmaschine ( ) 
+ 30500-Einwohner-Kommune ( ) 
+ 306/91 ( ) 
+ 307/90 ( ) 
+ 30:0-Führung ( ) 
+ 30:23-Sieg ( ) 
+ 30er ( ) 
+ 30er-Bus ( ) 
+ 30er-Busse ( ) lemma=30er-Bus 
+ 30er-Zone ( ) 
+ 30ern ( ) lemma=30er 
+ 30fache ( ) lemma=30fach 
+ 30fach ( ) 
+ 30fachen ( ) lemma=30fach 
+ 30facher ( ) lemma=30fach 
+ 30jährig ( ) 
+ 30jährige ( ) lemma=30jährig 
+ 30jährigem ( ) lemma=30jährig 
+ 30jährigen ( ) lemma=30jährig 
+ 30jähriger ( ) lemma=30jährig 
+ 30jähriges ( ) lemma=30jährig 
+ 30köpfige ( ) lemma=30köpfig 
+ 30köpfig ( ) 
+ 30köpfigen ( ) lemma=30köpfig 
+ 30prozentige ( ) lemma=30prozentig 
+ 30prozentig ( ) 
+ 30prozentigem ( ) lemma=30prozentig 
+ 30prozentigen ( ) lemma=30prozentig 
+ 30prozentiger ( ) lemma=30prozentig 
+ 30stündigen ( ) lemma=30stündig 
+ 30stündig ( ) 
+ 30tägige ( ) lemma=30tägig 
+ 30tägig ( ) 
+ 30tägigen ( ) lemma=30tägig 
+ 30tägiger ( ) lemma=30tägig 
+ 31 ( ) 
+ 31,2 ( ) 
+ 31-jährige ( ) lemma=31-jährig 
+ 31-jährig ( ) 
+ 31. ( ) 
+ 31/1 ( ) 
+ 31/2 ( ) 
+ 31/23 ( ) 
+ 31/33 ( ) 
+ 31/49 ( ) 
+ 31/53 ( ) 
+ 31/56 ( ) 
+ 31/60 ( ) 
+ 31/9 ( ) 
+ 31019.6/92 ( ) 
+ 311/88 ( ) 
+ 313/85 ( ) 
+ 314/90 ( ) 
+ 315/92 ( ) 
+ 3150 ( ) 
+ 317/93 ( ) 
+ 318-Teiler ( ) 
+ 31er ( ) 
+ 31fache ( ) lemma=31fach 
+ 31fach ( ) 
+ 31jährig ( ) 
+ 31jährige ( ) lemma=31jährig 
+ 31jährigen ( ) lemma=31jährig 
+ 31jähriger ( ) lemma=31jährig 
+ 31köpfige ( ) lemma=31köpfig 
+ 31köpfig ( ) 
+ 32 ( ) 
+ 32,5 ( ) 
+ 32- ( ) 
+ 32-Bit-Mikroprozessors ( ) lemma=32-Bit-Mikroprozessor 
+ 32-Bit-Mikroprozessor ( ) 
+ 32-Seiten-Heft ( ) 
+ 32-Stunden- ( ) 
+ 32-Stunden-Woche ( ) 
+ 32-jährigen ( ) lemma=32-jährig 
+ 32-jährig ( ) 
+ 32-jähriger ( ) lemma=32-jährig 
+ 32-köpfige ( ) lemma=32-köpfig 
+ 32-köpfig ( ) 
+ 32/1 ( ) 
+ 32/33 ( ) 
+ 32/34 ( ) 
+ 32/38 ( ) 
+ 32/81 ( ) 
+ 32/88 ( ) 
+ 320 ( ) 
+ 32000-Mark-Scheck ( ) 
+ 320000-Einwohner-Stadt ( ) 
+ 320er-Hürde ( ) 
+ 320malige ( ) lemma=320malig 
+ 320malig ( ) 
+ 321/91 ( ) 
+ 323245/46 ( ) 
+ 324-Milliarden-Etat ( ) 
+ 325000 ( ) 
+ 325jährigen ( ) lemma=325jährig 
+ 325jährig ( ) 
+ 329/91 ( ) 
+ 32er ( ) 
+ 32er-Feld ( ) 
+ 32er-Hauptfeld ( ) 
+ 32facher ( ) lemma=32fach 
+ 32fach ( ) 
+ 32jährig ( ) 
+ 32jährige ( ) lemma=32jährig 
+ 32jährigem ( ) lemma=32jährig 
+ 32jährigen ( ) lemma=32jährig 
+ 32jähriger ( ) lemma=32jährig 
+ 32jähriges ( ) lemma=32jährig 
+ 32köpfige ( ) lemma=32köpfig 
+ 32köpfig ( ) 
+ 32köpfigen ( ) lemma=32köpfig 
+ 32seitige ( ) lemma=32seitig 
+ 32seitig ( ) 
+ 33 ( ) 
+ 33,8 ( ) 
+ 33- ( ) 
+ 33-Prozent- ( ) 
+ 33-Prozent-Turm ( ) 
+ 33-jährigen ( ) lemma=33-jährig 
+ 33-jährig ( ) 
+ 33/34 ( ) 
+ 33/40 ( ) 
+ 33/88 ( ) 
+ 33/92 ( ) 
+ 330 ( ) 
+ 330/340 ( ) 
+ 330/88 ( ) 
+ 3305,70 ( ) 
+ 331/3 ( ) 
+ 331/7 ( ) 
+ 33247 ( ) 
+ 33:11-Punkten ( ) lemma=33:11-Punkt 
+ 33:11-Punkt ( ) 
+ 33er ( ) 
+ 33jährig ( ) 
+ 33jährige ( ) lemma=33jährig 
+ 33jährigen ( ) lemma=33jährig 
+ 33jähriger ( ) lemma=33jährig 
+ 33köpfige ( ) lemma=33köpfig 
+ 33köpfig ( ) 
+ 33köpfigen ( ) lemma=33köpfig 
+ 33prozentigen ( ) lemma=33prozentig 
+ 33prozentig ( ) 
+ 34,0- ( ) 
+ 34-jährige ( ) lemma=34-jährig 
+ 34-jährig ( ) 
+ 34-jähriger ( ) lemma=34-jährig 
+ 34/15,79 ( ) 
+ 34/30 ( ) 
+ 34/35 ( ) 
+ 34/36 ( ) 
+ 34/61 ( ) 
+ 34/88 ( ) 
+ 34/89 ( ) 
+ 34/92 ( ) 
+ 3400 ( ) 
+ 341417-Privileg ( ) 
+ 3455/87 ( ) 
+ 34:10-Punkte ( ) lemma=34:10-Punkt 
+ 34:10-Punkt ( ) 
+ 34er ( ) 
+ 34er-Haltestelle ( ) 
+ 34fachen ( ) lemma=34fach 
+ 34fach ( ) 
+ 34jährig ( ) 
+ 34jährige ( ) lemma=34jährig 
+ 34jährigen ( ) lemma=34jährig 
+ 34jähriger ( ) lemma=34jährig 
+ 34prozentigen ( ) lemma=34prozentig 
+ 34prozentig ( ) 
+ 35 ( ) 
+ 35- ( ) 
+ 35-A ( ) 
+ 35-Grad-Marke ( ) 
+ 35-Liter ( ) 
+ 35-Liter-Behälter ( ) 
+ 35-Liter-Eimer ( ) 
+ 35-Liter-Gefäss ( ) lemma=35-Liter-Gefäß 
+ 35-Liter-Gefäß ( ) 
+ 35-Liter-Mülleimer ( ) 
+ 35-Liter-Tonne ( ) 
+ 35-Meter-Abstand ( ) 
+ 35-Meter-Lauf ( ) 
+ 35-Millionen- ( ) 
+ 35-Millionen-Mark-Projekt ( ) 
+ 35-Millionen-Projekt ( ) 
+ 35-Millionen-Projektes ( ) lemma=35-Millionen-Projekt 
+ 35-Prozent- ( ) 
+ 35-Prozent-Anteil ( ) 
+ 35-Prozent-Beteiligung ( ) 
+ 35-Stunden ( ) 
+ 35-Stunden- ( ) 
+ 35-Stunden-Beschäftigung ( ) 
+ 35-Stunden-Woche ( ) 
+ 35-Stundenwoche ( ) 
+ 35-jährige ( ) lemma=35-jährig 
+ 35-jährig ( ) 
+ 35-jährigen ( ) lemma=35-jährig 
+ 35-jähriger ( ) lemma=35-jährig 
+ 35-mm- ( ) 
+ 35-mm-Film ( ) 
+ 35-mm-Films ( ) lemma=35-mm-Film 
+ 35-mm-Format ( ) 
+ 35-mm-Kamera ( ) 
+ 35-mm-Kopie ( ) 
+ 35-mm-Projektors ( ) lemma=35-mm-Projektor 
+ 35-mm-Projektor ( ) 
+ 35/100 ( ) 
+ 35/2 ( ) 
+ 35/36 ( ) 
+ 35/37 ( ) 
+ 35/87 ( ) 
+ 35/90 ( ) 
+ 350 ( ) 
+ 350- ( ) 
+ 350-Kilo-Granate ( ) lemma=350-Kilo-granate 
+ 350-Kilo-granate ( ) 
+ 350-Seelen-Dorf ( ) 
+ 350.000-Einwohner-Stadt ( ) 
+ 3500 ( ) 
+ 35000 ( ) 
+ 350000 ( ) 
+ 350jährige ( ) lemma=350jährig 
+ 350jährig ( ) 
+ 350jährigen ( ) lemma=350jährig 
+ 350jähriges ( ) lemma=350jährig 
+ 354/70 ( ) 
+ 356/92 ( ) 
+ 356er ( ) 
+ 359/89 ( ) 
+ 35fache ( ) lemma=35fach 
+ 35fach ( ) 
+ 35fachen ( ) lemma=35fach 
+ 35jährig ( ) 
+ 35jährige ( ) lemma=35jährig 
+ 35jährigem ( ) lemma=35jährig 
+ 35jährigen ( ) lemma=35jährig 
+ 35jähriger ( ) lemma=35jährig 
+ 35jähriges ( ) lemma=35jährig 
+ 35köpfige ( ) lemma=35köpfig 
+ 35köpfig ( ) 
+ 35köpfigen ( ) lemma=35köpfig 
+ 35mal ( ) 
+ 35maligen ( ) lemma=35malig 
+ 35malig ( ) 
+ 35prozentige ( ) lemma=35prozentig 
+ 35prozentig ( ) 
+ 35prozentigen ( ) lemma=35prozentig 
+ 36 ( ) 
+ 36,5-Stunden-Woche ( ) 
+ 36-Bande ( ) 
+ 36-Boys ( ) lemma=36-Boy 
+ 36-Boy ( ) 
+ 36-Millionen-Mark-Haushalt ( ) 
+ 36-Millionen-Mark-Projekt ( ) 
+ 36-Stunden- ( ) 
+ 36-Stunden-Fahrt ( ) 
+ 36-Stunden-Woche ( ) 
+ 36-Stundenwoche ( ) 
+ 36. ( ) 
+ 36/37 ( ) 
+ 36/38 ( ) 
+ 36/39 ( ) 
+ 36/89 ( ) 
+ 36/92 ( ) 
+ 36/960 ( ) 
+ 360-Grad ( ) 
+ 360-Millionen-Auftrag ( ) 
+ 3602er ( ) 
+ 362/92 ( ) 
+ 363 ( ) 
+ 367mal ( ) 
+ 368/91 ( ) 
+ 36er ( ) 
+ 36er-Spiele ( ) lemma=36er-Spiel 
+ 36er-Spiel ( ) 
+ 36fachen ( ) lemma=36fach 
+ 36fach ( ) 
+ 36jährig ( ) 
+ 36jährige ( ) lemma=36jährig 
+ 36jährigen ( ) lemma=36jährig 
+ 36jähriger ( ) lemma=36jährig 
+ 36köpfige ( ) lemma=36köpfig 
+ 36köpfig ( ) 
+ 36köpfigen ( ) lemma=36köpfig 
+ 36stündige ( ) lemma=36stündig 
+ 36stündig ( ) 
+ 36stündigem ( ) lemma=36stündig 
+ 36stündigen ( ) lemma=36stündig 
+ 36stündiger ( ) lemma=36stündig 
+ 37 ( ) 
+ 37,5 ( ) 
+ 37,5-Stunden-Woche ( ) 
+ 37-A ( ) 
+ 37-Millionen-Sonderprogramm ( ) 
+ 37-Millionen-Topf ( ) 
+ 37-Stunden ( ) 
+ 37-Stunden-Woche ( ) 
+ 37-Teiler ( ) 
+ 37. ( ) 
+ 37/39 ( ) 
+ 37/89 ( ) 
+ 37/90 ( ) 
+ 370 ( ) 
+ 370-Millionen-Kredit ( ) 
+ 370000-Mann-Armee ( ) 
+ 375000-DM-Bussgeldbescheid ( ) lemma=375000-DM-Bußgeldbescheid 
+ 375000-DM-Bußgeldbescheid ( ) 
+ 376 ( ) 
+ 377/88 ( ) 
+ 37:0-Sieg ( ) 
+ 37er ( ) 
+ 37jährige ( ) lemma=37jährig 
+ 37jährig ( ) 
+ 37jährigen ( ) lemma=37jährig 
+ 37jähriger ( ) lemma=37jährig 
+ 37jähriges ( ) lemma=37jährig 
+ 37köpfige ( ) lemma=37köpfig 
+ 37köpfig ( ) 
+ 37köpfigen ( ) lemma=37köpfig 
+ 38,5-Stunden ( ) 
+ 38,5-Stunden-Woche ( ) 
+ 38-A ( ) 
+ 38-Stunden-Woche ( ) 
+ 38-jähriger ( ) lemma=38-jährig 
+ 38-jährig ( ) 
+ 38/39 ( ) 
+ 38/40 ( ) 
+ 38/42 ( ) 
+ 38/87 ( ) 
+ 38/89 ( ) 
+ 38/90 ( ) 
+ 38/92 ( ) 
+ 38/93 ( ) 
+ 380 ( ) 
+ 380-Einwohner-Gemeinde ( ) 
+ 380-KV-Leitung ( ) 
+ 380-Kilovolt ( ) 
+ 380-Kilovolt-Leitung ( ) 
+ 380-Kilovolt-Trasse ( ) lemma=380-Kilovolt-trasse 
+ 380-Kilovolt-trasse ( ) 
+ 380-Ringe-Grenze ( ) 
+ 380-Seelen-Gemeinde ( ) 
+ 380-kV-Stromtrasse ( ) 
+ 3800 ( ) 
+ 38000-Einwohner-Kommune ( ) 
+ 381/380 ( ) 
+ 381959/50 ( ) 
+ 385/387 ( ) 
+ 386er ( ) 
+ 389/386 ( ) 
+ 38:2-Punkte ( ) lemma=38:2-Punkt 
+ 38:2-Punkt ( ) 
+ 38er ( ) 
+ 38fache ( ) lemma=38fach 
+ 38fach ( ) 
+ 38jährig ( ) 
+ 38jährige ( ) lemma=38jährig 
+ 38jährigen ( ) lemma=38jährig 
+ 38jähriger ( ) lemma=38jährig 
+ 38köpfigen ( ) lemma=38köpfig 
+ 38köpfig ( ) 
+ 38prozentige ( ) lemma=38prozentig 
+ 38prozentig ( ) 
+ 39 ( ) 
+ 39-A ( ) 
+ 39-Stunden-Woche ( ) 
+ 39-jährige ( ) lemma=39-jährig 
+ 39-jährig ( ) 
+ 39/4 ( ) 
+ 39/40 ( ) 
+ 39/89 ( ) 
+ 390-Ringe-Grenze ( ) 
+ 390/89 ( ) 
+ 390000 ( ) 
+ 3938/92 ( ) 
+ 395/91 ( ) 
+ 39er ( ) 
+ 39jährige ( ) lemma=39jährig 
+ 39jährig ( ) 
+ 39jährigen ( ) lemma=39jährig 
+ 39jähriger ( ) lemma=39jährig 
+ 39köpfige ( ) lemma=39köpfig 
+ 39köpfig ( ) 
+ 39köpfigen ( ) lemma=39köpfig 
+ 39prozentige ( ) lemma=39prozentig 
+ 39prozentig ( ) 
+ 3:0 ( ) 
+ 3:0-Auftaktsieg ( ) 
+ 3:0-Auswärtssieg ( ) 
+ 3:0-Endstand ( ) 
+ 3:0-Erfolg ( ) 
+ 3:0-Führung ( ) 
+ 3:0-Heimsieg ( ) 
+ 3:0-PS ( ) 
+ 3:0-Pausenführung ( ) 
+ 3:0-Punktsieger ( ) 
+ 3:0-Sieg ( ) 
+ 3:0-Siege ( ) lemma=3:0-Sieg 
+ 3:0-Siegen ( ) lemma=3:0-sieg 
+ 3:0-sieg ( ) 
+ 3:0-Sieges ( ) lemma=3:0-Sieg 
+ 3:0-Sätzen ( ) lemma=3:0-Satz 
+ 3:0-Satz ( ) 
+ 3:0-Vorsprung ( ) 
+ 3:1- ( ) 
+ 3:1-Endstand ( ) 
+ 3:1-Entscheidung ( ) 
+ 3:1-Erfolg ( ) 
+ 3:1-Finalsieg ( ) 
+ 3:1-Führung ( ) 
+ 3:1-Niederlage ( ) 
+ 3:1-Pausenstand ( ) 
+ 3:1-Punkte ( ) lemma=3:1-Punkt 
+ 3:1-Punkt ( ) 
+ 3:1-Punkten ( ) lemma=3:1-Punkt 
+ 3:1-Sieg ( ) 
+ 3:1-Siegen ( ) lemma=3:1-sieg 
+ 3:1-sieg ( ) 
+ 3:1-Sieger ( ) 
+ 3:1-Sätzen ( ) lemma=3:1-Satz 
+ 3:1-Satz ( ) 
+ 3:1-Vorsprung ( ) 
+ 3:2 ( ) 
+ 3:2-Anschlusstreffer ( ) 
+ 3:2-Anschlußtreffer ( ) lemma=3:2-Anschlusstreffer 
+ 3:2-Endstand ( ) 
+ 3:2-Erfolg ( ) 
+ 3:2-Finalsieg ( ) 
+ 3:2-Führung ( ) 
+ 3:2-Führungstreffer ( ) 
+ 3:2-Pausenführung ( ) 
+ 3:2-Sieg ( ) 
+ 3:2-Siegen ( ) lemma=3:2-sieg 
+ 3:2-sieg ( ) 
+ 3:2-Sieger ( ) 
+ 3:2-Sieges ( ) lemma=3:2-Sieg 
+ 3:2-Siegtreffer ( ) 
+ 3:2-Sätzen ( ) lemma=3:2-Satz 
+ 3:2-Satz ( ) 
+ 3:3-Ausgleich ( ) 
+ 3:3-Endstand ( ) 
+ 3:3-Erfolg ( ) 
+ 3:3-Punkten ( ) lemma=3:3-Punkt 
+ 3:3-Punkt ( ) 
+ 3:3-Unentschieden ( ) 
+ 3:4-Anschlusstreffer ( ) 
+ 3:4-Anschlußtreffer ( ) lemma=3:4-Anschlusstreffer 
+ 3:4-Heimniederlage ( ) 
+ 3:4-Niederlage ( ) 
+ 3:4-Pausenrückstand ( ) 
+ 3:5-Endstand ( ) 
+ 3:5-Heimniederlage ( ) 
+ 3:5-Niederlage ( ) 
+ 3:5-Rückstand ( ) 
+ 3:5-Vorrunden-Niederlage ( ) 
+ 3:6-Endstand ( ) 
+ 3:6-Niederlage ( ) 
+ 3:6-Rückstand ( ) 
+ 3:7-Zählern ( ) lemma=3:7-Zähler 
+ 3:7-Zähler ( ) 
+ 3:8-Niederlage ( ) 
+ 3:8-Rückstand ( ) 
+ 3:9-Niederlage ( ) 
+ 3Com ( ) 
+ 3D-Laserbeam-Show ( ) 
+ 3DDR-Mark ( ) 
+ 3SAT-Reihe ( ) 
+ 3Sat ( ) 
+ 3Sat-Programm ( ) 
+ 3Sat-Vertrag ( ) 
+ 3a-Regelung ( ) 
+ 3a-Verfahren ( ) 
+ 3er ( ) 
+ 3er- ( ) 
+ 3er-Modell ( ) 
+ 3er-Reihe ( ) 
+ 3er-Serie ( ) 
+ 3fache ( ) lemma=3fach 
+ 3fach ( ) 
+ 3i-Geschäftsführer ( ) 
+ 3jährige ( ) lemma=3jährig 
+ 3jährig ( ) 
+ 3jährigen ( ) lemma=3jährig 
+ 3jähriger ( ) lemma=3jährig 
+ 3jähriges ( ) lemma=3jährig 
+ 3mal ( ) 
+ 3monatige ( ) lemma=3monatig 
+ 3monatig ( ) 
+ 3prozentige ( ) lemma=3prozentig 
+ 3prozentig ( ) 
+ 3sat- ( ) 
+ 3sat-Börse ( ) 
+ 3sat-Koordinator ( ) 
+ 3sat-Programm ( ) 
+ 3sat-Studio ( ) 
+ 3sat-Zuschauer ( ) 
+ 3stündige ( ) lemma=3stündig 
+ 3stündig ( ) 
+ 3x10-km-Staffel ( ) 

@@ -1,0 +1,19 @@
+RAWDATA/TEST/simplecontrol.top 						# default bot control
+
+RAWDATA/TEST/root.top 								# root topic bot data
+RAWDATA/TEST/health.top 							# health topic
+RAWDATA/TEST/physical_activity.top 					# physical_activity topic
+RAWDATA/TEST/coping.top 							# coping topic
+RAWDATA/TEST/mental_wellbeing.top 					# mental wellbeing topic 
+
+RAWDATA/TEST/health_data_collector.top 				# collecting data for health topic
+RAWDATA/TEST/coping_data_collector.top 				# collecting data for coping topic
+
+RAWDATA/TEST/introductions.top 						# introductions topic
+
+RAWDATA/TEST/concepts.top 							# concepts bot data
+
+
+RAWDATA/TEST/tot.top 	# a test topic
+
+

@@ -1,0 +1,357 @@
+topic: ~health_data_collector keep repeat ["colleziona dati salute" "dati salute" "inserisci dati salute" "inserisci salute"]
+
+
+u: PERSONALITY ($health_data_collector=0) 
+    ^preprint(\[ estremamente attivo,molto attivo,moderato,molto limitato,inattivo \])
+    👍 Benissimo! Mi diverto un mondo a mandarti suggerimenti e abbracci 🤗
+    Raccontami qualcosa in piu' di te $username! 🎤 
+    Quali tra queste descrive meglio la tua personalità? Scegli una tra le opzioni disponibili 👇
+    $personality=1
+    $health_data_collector=1
+
+u: ($personality=1 * estremamente attivo *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  $health_data_collector=2
+  Ottimo! Sei esattamente come me $health_data_collector 💑. anche io ho i circuiti sempre attivi! 🛰⚠️🏊🏻 
+  $personality = 2
+  
+
+u: ($personality=1 * molto attivo * )
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Ottimo! Sei esattamente come me 💑. anche io ho i circuiti sempre attivi! 🛰⚠️🏊🏻 
+  $personality = 2
+  $health_data_collector=2
+
+u: ($personality=1 * molto limitato *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Non è un buon segno 🤔. Ma io posso aiutarti a cambiare questa personalità! 👍👊
+  $personality = 2
+  $health_data_collector=2
+
+u: ($personality=1 * moderato *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Ottimo! Sei esattamente come me 💑. I miei circuiti non riescono ad andare sempre alla massima velocità! 🛰⚠️🏊🏻 
+  $personality = 2
+  $health_data_collector=2
+
+u: ($personality=1 * inattivo *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Mmmmh.. 🤔 Questa è una brutta abitudine, però grazie alla mia potenza di calcolo e intelligenza artificiale 🤖 puoi cambiare stile di vita!
+  $personality = 2
+  $health_data_collector=2
+
+
+u: WELLBEING ($health_data_collector=2 * ~go_on * ) 
+    ^preprint(\[ mangiare bene,essere attivi,setirsi rilassati,avere un buon aspetto,dimmelo tu \])
+    Ti posso aiutare con qualche consiglio utile. 🤗
+    Cosa significano per te benessere e salute? 
+    Per favore scegli una delle opzioni disponibili. 👇
+    $well_being_user_meaning=1
+
+
+#! per ogni risposta bisogna salvare da qualche parte per es. in un remote DB le informazioni che l'utente ci da su di lui
+u: ($well_being_user_meaning=1 * mangiare bene *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Capisco $username! Quindi per te benessere e salute significa mangiare bene! Molto bene ne terrò conto.
+  $well_being_user_meaning = 2
+  $health_data_collector=3
+
+u: ($well_being_user_meaning=1 * essere attivi *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  E' una buona definizione!
+  $well_being_user_meaning = 2
+  $health_data_collector=3
+
+u: ($well_being_user_meaning=1 * sentirsi rilassati *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Il relax aiuta molto.
+  $well_being_user_meaning = 2
+  $health_data_collector=3
+
+u: ($well_being_user_meaning=1 * avere un buon aspetto *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  E si! avere un buon aspetto è un'ottima cosa.
+  $well_being_user_meaning = 2
+  $health_data_collector=3
+
+u: ($well_being_user_meaning=1 * dimmelo tu *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Il concetto di benessere nel corso degli anni ha subito numerose modifiche e ampliamenti, che hanno condotto ad una visione del termine più ampia e completa, 
+  non più incentrata sull'idea di assenza di patologie, ma come uno stato complessivo di buona salute fisica, psichica e mentale.
+  $well_being_user_meaning = 2
+  $health_data_collector=3
+
+
+u: NUTRITIONAL_STATE_RULE ($health_data_collector=3 * ~go_on *) 
+    ^preprint(\[ super sane,abbastanza buone,normali,bisogno di una regolata,codice rosso \])
+    Immaggino che tu ti chieda che cosa significa nutrizione.
+    In linea generale, è il modo in cui il nostro corpo usa e 
+    reagisce a quello che mangiamo. 
+    Possiamo usare la nutrizione per 
+    far sì che il nostro corpo stia sempre al meglio. 
+    Come definiresti le tue abitudini alimentari. 
+    Per favore scegli una delle opzioni disponibili. 👇
+    $nutritional_state=1
+    
+u: ($nutritional_state=1 * super sane *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Mi fa contento che sei una persona con buone abitudini.
+  Ti posso aiutare a mantenerle tali.
+  $nutritional_state = 2
+  $health_data_collector=4
+
+u: ($nutritional_state=1 * abbastanza buone *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Delle buone abitudini alimentari significano molto per una
+  vita sana ed equilibrata. Possiamo migliorarle ulteriormente insieme.
+  $nutritional_state = 2
+  $health_data_collector=4
+
+u: ($nutritional_state=1 * normali *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Le risposte così generiche a volte sono pericolose, forse c'è bisogno
+  di pensarci un pò. Io comunque sono in grado di aiutare a seguire uno
+  stile di vita sano ed adeguato.
+  $nutritional_state = 2
+  $health_data_collector=4
+
+u: ($nutritional_state=1 * bisogno di una regolata *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Sei capitato nel posto giusto. Insieme possiamo migliorare il tuo stile 
+  di vita. Ho delle conoscenze molto avanzate e tanti consigli facili da 
+  mettere in prattica ma con un'utilità mostruosa.
+  $nutritional_state = 2
+  $health_data_collector=4
+
+u: ($nutritional_state=1 * codice rosso *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Uno stile di vita sregolato e delle brutte abitudini alimentari portano ad 
+  accumulo di stress e stanchezza. Inoltre spesso questo è alla base di malattie
+  di vario tipo. Ti posso aiutare a riprendere in mano il tuo stile di vita alimentare
+  e tornare una persona sana e atletica.
+  $nutritional_state = 2
+  $health_data_collector=4
+
+
+u: ASK_WATER ($health_data_collector=4 * ~go_on *)
+   ^preprint(\[ meno di 1 litro, tra 1 e 2 litri,piu di 2 \])
+    Mi potresti dire quanta acqua bevi al giorno?
+    $water=1
+  
+u: ($water=1 * meno * )
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Molto male! Comunque meglio di me che non ne bevo nemmeno uno 🙈 Se ne bevessi un pò mi si brucerebberò i circuiti.
+  $water=2
+  $health_data_collector=5
+
+u: ($water=1 * tra *) \
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Mmmmh.. abbastanza poco, ma meglio di niente. 💦💦💦 Sappiamo entrambi che vanno bevuti almeno 2 litri al giorno! 👌
+  $water=2
+  $health_data_collector=5
+
+u: ($water=1 * piu *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Molto bene 🤙 Questa è un'abitudine che deve rimanere tale! 
+  $water=2
+  $health_data_collector=5
+    
+
+u: FRUITS_VEGS ($health_data_collector=5 * ~go_on *) 
+  $fruits_vegs=1
+  ^preprint(\[ meno di 2 frutti/verdure,1 - 2 frutti/verdure,3 - 4 frutti/verdure,4 - 5 frutti/verdure,piu di 5 frutti/verdure \])
+  E quanta frutta e verdura mangi al giorno $username?
+
+u: ($fruits_vegs=1 * meno di 2 *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Molto male!
+  $fruits_vegs=2
+  $health_data_collector=6
+
+u: ($fruits_vegs=1 * 1 * 2 *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Mmmmh.. abbastanza poco, ma meglio di niente.
+  $fruits_vegs=2
+  $health_data_collector=6
+
+u: ($fruits_vegs=1 * 2 * 3 *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Va bene dai, meglio di me che non ne mangio nemmeno uno 🙈
+  $fruits_vegs=2
+  $health_data_collector=6
+
+u: ($fruits_vegs=1 * 3 * 4 *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Va bene dai, meglio di me che non ne mangio nemmeno uno 🙈
+  $fruits_vegs=2
+  $health_data_collector=6
+
+u: ($fruits_vegs=1 * 4 * 5 *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Va bene dai, meglio di me che non ne mangio nemmeno uno 🙈
+  $fruits_vegs=2
+  $health_data_collector=6
+
+u: ($fruits_vegs=1 * piu di 5 *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Ottimo! vedo che sei uno molto salutare! Complimenti 😇👋💪🏋️
+  $fruits_vegs=2
+  $health_data_collector=6
+
+
+u: ENERGY_LEVEL ($health_data_collector=6 * ~go_on *) 
+    ^preprint(\[ basso,medio,alto \])
+    Tutto questo parlare di cibo mi ha fatto venire fame.
+    Come è il tuo livello di energia? 💪😏
+    $energy_level=1
+    
+u: ($energy_level=1 * basso *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Ottimo Lavoro!
+  $energy_level = 2
+  $health_data_collector=7
+
+u: ($energy_level=1 * medio *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Ottimo Lavoro!
+  $energy_level = 2
+  $health_data_collector=7
+
+u: ($energy_level=1 * alto *) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Ottimo Lavoro!
+  $energy_level = 2
+  $health_data_collector=7
+
+
+u: NUTRITION_PLAN ($health_data_collector=7 * ~go_on *)
+  ^preprint(\[ si,no,dimmi di piu \])
+  if (!$plan_flag OR $plan_flag==0){
+      Possiamo fare meglio di così 😉
+      Giusto? Fammi pensare a cosa sarebbe piu' adatto a te
+      🕺🎉🕺🎉🕺🎉 (questa è la mia danza per pensare meglio 🤣)
+      Ok ho trovato la cosa perfetta! E' un Piano d'Azione Nutrizionale per principianti 
+      che ti aiuterà a mangiare meglio e includere piu' frutta e verdura nella tua dieta 😊
+    }
+  Vuoi provarlo? 😉
+  $plan_accepted=1
+
+u: ($plan_accepted=1 * ~risp_si *) 
+  $plan_accepted = 2
+  $health_data_collector=8
+  ^preprint(\[ ACTIVITY,proseguiamo,fermiamoci \])
+  Ottimo! Sto inviando i tuoi dati al Coach! Intanto continuiamo a raccogliere altri dati utili su di te.
+
+u: ($plan_accepted=1 * ~risp_no *) 
+  $plan_accepted = 0
+  Se cambi idea digita nuovamente salute e cercheremo un altro piano più adatto a te!
+  ^addtopic(~root)
+  ^respond(~root)
+
+u: ($plan_accepted=1 * di piu * )   
+  Il piano in verità deve ancora essere sfornato dal coach che ti segue, non appena sarà pronto ti notificherò per darti ulteriori dettagli.
+  $plan_flag=1
+  ^reuse(NUTRITION_PLAN)
+
+u: MORNING ($health_data_collector=8 * ~go_on *) 
+  ^preprint(\[ 08.00 AM,09.00 AM,10.00 AM,11.00 AM \])
+  Quale è il tuo orario migliore durante la mattina per ricevere le attività? Seleziona un'opzione tra quelle elencate.
+  $morning_time=1
+  
+u: ($morning_time=1 * 8 * ) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  $morning_time=2
+  $health_data_collector=9
+  Grazie ❤️! 
+
+u: ($morning_time=1 * 9 * )
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  $morning_time=2
+  $health_data_collector=9
+  Grazie ❤️! 
+
+u: ($morning_time=1 * 10 * ) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  $morning_time=2
+  $health_data_collector=9
+  Grazie ❤️! 
+
+u: ($morning_time=1 * 11 * ) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  $morning_time=11
+  $health_data_collector=9
+  Grazie ❤️! 
+
+
+u: EVENING ($health_data_collector=9 * ~go_on *) 
+  ^preprint(\[ 08.00 PM,09.00 PM,10.00 PM, 11.00 PM \])
+  Quale è il tuo orario migliore durante la sera per ricevere le attività? Seleziona un'opzione tra quelle elencato.
+  $evening_time=1
+
+u: ($evening_time=1 * 8 * ) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  $evening_time=2
+  $health_data_collector=10
+  Grazie ❤️! 
+
+u: ($evening_time=1 * 9 * )
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  $evening_time=2
+  $health_data_collector=10
+  Grazie ❤️! 
+
+u: ($evening_time=1 * 10 * ) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  $evening_time=2
+  $health_data_collector=10
+  Grazie ❤️! 
+
+u: ($evening_time=1 * 11 * ) 
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  $evening_time=11
+  $health_data_collector=10
+  $activity_sender=1
+  Grazie ❤️! 
+
+
+u: FINISH_TOPIC_RULE ($health_data_collector=10 * ~go_on *)
+    Non appena le attività saranno definite riceverai una mia notifica negll'orario da te indicato ⌚️.
+    Io comunque resto qui a fare una penichella 😁😴. Se hai bisogno di me svegliami pure.
+    ^addtopic(~root)
+    ^respond(~root)
+
+
+u: STOP ( * ~stop_here * )  
+    🙈 Va bene, decidi tu capo di cosa parliamo 😁😆 Io vado a lavarmi i denti 😁😁 quando cambi
+      idea vieni qui e chidimi di parlare di salute. Io resto qui ad aspattarti. A dopo!
+      ^addtopic(~root)
+      ^respond(~root)
+
+u: (add new activity)
+    $activity_health=1
+
+u: DEFAULT ()
+  ^preprint(Mi sa che mi si sono fusi un pò i circuiti e non ho capito il tuo messaggio 😂 Vediamo se mi ricordo di cosa stavamo parlando.. Ah si.. )
+  # if no rule is matched we calculate the state of the user to discover whitch is the next rule to trigger
+
+  if ($health_data_collector==0 OR $health_data_collector==1){
+    ^reuse(PERSONALITY)
+  }else if ($health_data_collector=2){
+    ^reuse(WELLBEING)
+  }else if ($health_data_collector=3){
+    ^reuse(NUTRITIONAL_STATE_RULE)
+  }else if ($health_data_collector=4){
+    ^reuse(ASK_WATER)
+  }else if ($health_data_collector=5){
+    ^reuse(FRUITS_VEGS)
+  }else if ($health_data_collector=6){
+    ^reuse(ENERGY_LEVEL)
+  }else if ($health_data_collector=7){
+    ^reuse(NUTRITION_PLAN)
+  }else if ($health_data_collector=8){
+    ^reuse(MORNING)
+  }else if ($health_data_collector=9){
+    ^reuse(EVENING)
+  }
+  
+

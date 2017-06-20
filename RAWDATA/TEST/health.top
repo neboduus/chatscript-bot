@@ -1,0 +1,69 @@
+topic: ~health repeat keep []
+
+# i topic di introduzione andranno visualizzati solo una volta oppure verranno scelte delle rule a caso 
+
+u: INTRO ($health=0 * ~topic_salute *) 
+    ^preprint(\[ si,no,un po \]) 
+    Sono qui per aiutare a migliorare il tuo benessere e farti sentire al meglio 💪 💪 💪 ! 
+    Pensa a me come ad un Personal Trainer 🏋️ Suona bene? 🎧
+      $health=1
+
+u: ($health=1 * ~risp_si *) 
+    ^preprint(\[ proseguiamo,fermiamoci qui per ora \]) 
+    Sono Contento che ti piaccia $username! 👋👊 
+    $health= 2
+
+u: ($health=1 * ~risp_no *) 
+    ^preprint(\[ proseguiamo,fermiamoci qui per ora \]) 
+    $username cercherò di mostrati la mia vera forza e dopo non potrai non amarmi 😘! 👋👊 
+    $health = 2
+
+u: ($health=1 *un po *) 
+    ^preprint(\[ proseguiamo,fermiamoci qui per ora \]) 
+    Piano piano inizierai ad amarmi $username! 👋👊 E' un fatto certo 😊😇
+    $health = 2
+
+
+u: ASK_TO_COLLECT_DATA ($health=2 * [~go_on ~topic_salute] *)
+
+    if ($activity_health==1){
+      # l'attivita e stata definita e quindi gli mostro i dettagli dell'attivita
+      $act_health=1
+      ^addtopic(~health_activity_viz)
+      ^respond(~health_activity_viz)
+    }else if ($health_data_collector==10){
+      Le tue attivita' sulla salute non sono ancora state definite dal coach! Ti notifichero' non appena arriveranno!
+      ^addtopic(~root)
+      ^respond(~root)
+    }else{
+      Adesso parleremo un po' di salute. Ti farò qualche domanda per capire meglio le tue
+      esigenze e bisogni. Questa cosa la faremo una sola volta. Promesso!
+      $health_data_collector=0
+      ^addtopic(~health_data_collector)
+      ^respond(~health_data_collector)
+    }
+
+u: STOP ( * ~stop_here * )
+    🙈 Va bene, decidi tu capo di cosa parliamo 😁😆 Io vado a lavarmi i denti 😁😁 quando cambi
+    idea vieni qui e chiedimi di parlare di salute. Io resto qui ad aspattarti. A dopo!
+    ^addtopic(~root)
+    ^respond(~root)
+
+
+# IMPLEMENTARE PARTE DINAMICA A SECONDA DELL ATTIVITA' RIGUARDANTE LA SALUTE CHE GLI E' STATA ASSEGNATA
+
+u: DEFAULT () 
+    ^preprint(Mi sa che mi si sono fusi un pò i circuiti e non ho capito il tuo messaggio 😂 Dovremo riprendere da dove siamo rimasti... )
+
+    # qui va controllato lo stato per vedere a che rule eravamo rimasti
+    # e se la rule non aveva ricevuto risposta va resettato il suo stato 
+    # e rimandato l'utente su quella rule
+    if ($health==0 Or $health==1){
+      $health=0
+      ^reuse(INTRO)
+    }else if ($health==2){
+      ^reuse(ASK_TO_COLLECT_DATA)
+    }
+
+
+

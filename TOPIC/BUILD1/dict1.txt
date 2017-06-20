@@ -1,0 +1,25 @@
+﻿+ activity PATTERN_WORD 
++ yea PATTERN_WORD 
++ fitness PATTERN_WORD 
++ harry 
++ defaultbot 
++ colleziona_dati_salute 
++ dati_salute 
++ inserisci_dati_salute 
++ inserisci_salute 
++ assolutamente_no 
++ eh_no 
++ n 
++ cosa_devo_fare 
++ dimmi_cosa_fare 
++ healthy_diet 
++ dieta_salutare 
++ mangiare_bene 
++ strategia_di_adattamento 
++ strategia_adattamento 
++ attivita_fisica 
++ benessere_mentale 
++ giornata_coldissima 
++ proseguiamo_pure 
++ stop_for_a_while 
++ fermiamoci_qui_per_ora 

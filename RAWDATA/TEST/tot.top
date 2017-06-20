@@ -1,0 +1,71 @@
+topic: ~tot keep repeat []
+
+t:  
+	# create user JSON infos
+	$info_JSON = ^jsoncreate(PERMANENT object)
+	$info_JSON.name = "Marian"
+	$info_JSON.phone = "3405124016"
+
+
+	Ciao $info_JSON.name ! Come stai ?? 
+	$starting=0
+
+u: (we)
+	    # create a phoneBook as an array of structured items (objects)
+    $_phoneBook = ^jsoncreate(array)
+
+    #
+    # add first object in the array
+    #
+    $_item = ^jsoncreate(object)
+
+    # assign values
+    $_item.name = "Todd Kuebler"
+    $_item.phone = "555-1212"
+
+    ^jsonarrayinsert($_phoneBook $_item)
+
+    #
+    # add a second object in the array
+    #
+    $_item = ^jsoncreate(object)
+
+    # assign values
+    $_item.name = "Giorgio Robino"
+    $_item.phone = "111-123456789"
+
+    ^jsonarrayinsert($_phoneBook $_item)    
+    
+    # display JSON tree
+    ^jsontree( $_phoneBook ) \n
+
+    #
+    # print formatted items in the phone book
+    #
+    phone book:\n
+    $_i = 0
+    $_size = ^length($_phoneBook)
+    loop($_size)
+    {
+      # print out formatted item
+      name: $_phoneBook[$_i].name, phone: $_phoneBook[$_i].phone\n
+      $_i += 1
+    }
+
+
+
+u: ($starting=0 * bene *) $starting=1 Sono contento di sentire questo $info_JSON.name . ^reuse(SECOND)
+u: ($starting=0 * male *) $starting=1 Mi spiace molto. ^reuse(SECOND)
+u: ($starting=0 * cosi cosi *) $starting=1 Dai su con la vita. ^reuse(SECOND)
+
+u: SECOND ($starting=1) $starting=2 E cosa che avrei dovuto chiederti prima.. Come ti chiami?
+
+u: ($starting=2 _* ) $starting=3 Quindi ti chiami _0?
+
+u: ($starting=3 * si *) $starting=4 Bene me lo ricorderò! E dove abiti?
+u: ($starting=3 * no *) $starting=2 E allora come ti chiami?
+
+u: ($starting=4 _* ) $starting=5 Vediamo se ho capito bene. Abiti a _0, giusto?
+
+u: ($starting=5 * si *) $starting=6 Ottimo me lo ricorderò. E quanti anni hai?
+u: ($starting=5 * no *) $starting=4 Mmm.. oggi ho poca memoria a disposizione e capisco poco o nulla.. Dove abiti quindi?

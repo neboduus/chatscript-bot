@@ -1,0 +1,63 @@
+topic: ~health_activity_viz keep repeat []
+
+u: INTRO ($act_health=1)
+	^preprint( \[ si,no grazie,dimmi di piu \] )
+	if ($act_f==1){
+		Cosa ne pensi ora?
+	}else{
+		Bene! Qui trovi l'attività che ho preparato per te poco fa.
+		-Piano Nutrizionale Principanti 🍎- che ti aiuta a mangiare 
+		meglio e ottenere le energie di cui hai bisogno per affrontare questo 2017!
+	}
+	 Ti va di provarlo?
+	 $act_health=2
+
+u: ($act_health=2 * ~risp_si *)
+	^preprint( \[ si,no \] )
+	Ottimo! il piano dura 4 settimane e all'inizio di ogni settimana ti notificherò
+	per ricordarti che dobbiamo fare il resoconto della settimana. Ti darò tanti consigli
+	utili per mangiare meglio e sentirti da favola 👯! Iniziamo 💃🏻? 
+	$act_health=3
+
+u: ($act_health=2 * ~risp_no *)
+	E' un peccato 😔! Il piano e' stato creato perfettamente per le tue specifiche. Ti avrebbe aiutato un sacco!
+	Se cambi idea torna in questa sezione!
+	^addtopic(~root)
+    ^respond(~root)
+	
+
+u: ($act_health=2 * di piu *)
+	Questo piano consiste nel seguire la "dieta del riso" che ti verra' inviata alla tua casella email.
+	Li trovi tutti i dettagli necessari per seguirla passo dopo passo. In piu' ci sono io disponibile
+	per qualsiasi tuo dubbio 👍.
+    $act_health=1
+	$act_f=1
+	^reuse(INTRO)
+
+u: START_PLAN ($act_health=3 * ~risp_si *)
+	Grazie per aver chiaccherato con me $username! Hai fatto la mia giornata brillare di piu' ☀️!
+	Ti notifichero' presto per chiederti come sta andando e per verificare la tua aderenza al piano.
+	$act_health=4
+	^addtopic(~root)
+    ^respond(~root)
+
+u: ($act_health=3 * ~risp_no *)
+	Capisco! Vorrai prima dare un occhiata a cosa ti è stato proposto e poi decidere! No problem👍!
+	Dopo che ci avrai pensato torna a farmelo sapere!
+	^addtopic(~root)
+    ^respond(~root)
+
+u: ($act_health=4)
+	Hai già accettato questo piano! Se non te lo ricordassi il piano si chiama -Piano Nutrizionale Principanti 🍎-
+	ed ha una durata di 4 settimane. Per tutto questo tempo io ti seguirò e ti notificherò per dirti quando e quali 
+	attività dovrai fare. Inoltro a tempi regolari ti chiederò il resoconto di come sta andando! Tutto molto semplice no 😊? 
+	^addtopic(~root)
+    ^respond(~root)
+
+u: ()
+	Non credo di aver capito bene cosa tu abbia detto 😅 Riprendiamo da dove eravamo rimasti... 
+	if ($act_health==2){
+		^reuse(INTRO)
+	}else if($act_health==3){
+		^reuse(START_PLAN)
+	}

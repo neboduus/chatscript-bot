@@ -1,0 +1,34 @@
+# NOTES
+
+		Communicating with the server
+
+If for some reason you need to maintain a permanent connection to a client, you can write an intermediary server program that has a permanent socket to the client, and relays messages back and forth between the client and the ChatScript server.
+
+This is also what you would do if you wanted ChatScript to "push" unsolicited messages to the client. Your intermediary server can use timeouts to decide to send a specific message to the ChatScript server, and then relay the result back to the client as an unsolicited output. Similarly, your intermediate server might receive various asynchronous events and signals, and can pass requests to ChatScript at that time and pass the result back to a permanently connected client.
+
+Each chat volley (incoming and outgoing message) is an entirely different connection. This means the Chatbot server is not devoting resources waiting for a user to reply and doesn't care how long it takes the user to come back again.
+
+
+DOMANDA DA FARE SUL FORUM APPENA RIESCO A REGISTRARMI
+
+I have this words defined in DICT\ITALIAN 
+	 avere ( )                  #Note! that avere is a verb
+	 hai ( ) lemma=avere 
+	 ho ( ) lemma=avere 
+	 abbia ( ) lemma=avere 
+So I thought <lemma> keyword will tell to Chatscript that these are all forms of the same verb so that if the user writes something like:
+	Hai 30 anni - which means <You are 30 years old> in italian
+Chatscript will understand that 
+	Hai == avere
+And it will transfor <hai> token into <avere>, so that I can write patterns like 
+	u: (* avere * _~number anni *) OUTPUT MSG
+And catch all the forms of the verb <avere>
+
+But this is not happening. Can I tell to Chatscript to do so? Or the <lemma> keyword is used for something else?
+
+Thank in advance for anyone who can give me an answer.
+
+
+#########################
+
+-Cercare come funzionano carousell e altre cose per telegram

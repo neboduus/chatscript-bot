@@ -1,0 +1,23 @@
+concept: ~risp_si (sì si certo ok certamente sisi yea yes S) 
+concept: ~risp_no (no nono "assolutamente no" "eh no" n "N")
+concept: ~help (aiuto help "cosa devo fare" "dimmi cosa fare" )
+
+
+concept: ~topic_salute (health salute healthy diet "healthy diet" dieta "dieta salutare" "mangiare bene" )
+concept: ~topic_adattamento (coping "strategia di adattamento" "strategia adattamento" adattamento)
+concept: ~topic_attivita_fisica ("attivita fisica" fisica "sport")
+concept: ~topic_benessere_mentale ("benessere mentale" mentale)
+
+concept: ~pioggia (piove pioggia acqua nuvoloso tuoni lampi fulmini piovoso)
+concept: ~soleggiato (sole soleggiato caldo caloroso "giornata coldissima" caldissimo)
+
+# go on concept
+concept: ~go_on ( "go on" avanti "proseguiamo pure" proseguiamo )
+
+# stop here concept
+concept: ~stop_here ( "stop for a while" stop "fermiamoci qui per ora" fermiamoci basta)
+
+# da definire concetti per nutrizione, fitness e mindfullness
+concept: ~nutrizione (nutrizione)
+concept: ~fitness (fitness)
+concept: ~consapevolezza (consapevolezza)

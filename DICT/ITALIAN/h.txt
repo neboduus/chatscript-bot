@@ -1,0 +1,190 @@
+﻿ H. ( ) 
+ Haider ( ) 
+ Haiti ( ) 
+ Hakkinen ( ) 
+ Hall ( ) 
+ Hamas ( ) 
+ Hammamet ( ) 
+ Hannover ( ) 
+ Hans ( ) 
+ Harold ( ) 
+ Harris ( ) 
+ Harrison ( ) 
+ Harry ( ) 
+ Harvard ( ) 
+ Hassan ( ) 
+ Havel ( ) 
+ Hebron ( ) 
+ Heidegger ( ) 
+ Helmut ( ) 
+ Helsinki ( ) 
+ Hemingway ( ) 
+ Henri ( ) 
+ Henry ( ) 
+ Herald ( ) 
+ Herbert ( ) 
+ Hezbollah ( ) 
+ Hill ( ) 
+ Hillary ( ) 
+ Hills ( ) 
+ Hitchcock ( ) 
+ Hitler ( ) 
+ Hodgson ( ) 
+ Holding ( ) 
+ Hollywood ( ) 
+ Honda ( ) 
+ Honecker ( ) 
+ Hong ( ) 
+ Hotel ( ) 
+ House ( ) 
+ Houston ( ) 
+ Howard ( ) 
+ Hugo ( ) 
+ Hussein ( ) 
+ ha ( ) lemma=avere 
+ habitat ( ) 
+ habitue' ( ) lemma=habitué 
+ habitué ( ) 
+ hacker ( ) 
+ hackers ( ) lemma=hacker 
+ hai ( ) lemma=avere 
+ haiderizzata ( ) lemma=haiderizzato 
+ haiderizzato ( ) 
+ haiderizzate ( ) lemma=haiderizzato 
+ haiderizzati ( ) lemma=haiderizzato 
+ haiderizzatissima ( ) lemma=haiderizzato 
+ haiderizzatissime ( ) lemma=haiderizzato 
+ haiderizzatissimi ( ) lemma=haiderizzato 
+ haiderizzatissimo ( ) lemma=haiderizzato 
+ haitiana ( ) lemma=haitiano 
+ haitiano ( ) 
+ haitiane ( ) lemma=haitiano 
+ haitiani ( ) lemma=haitiano 
+ haitianissima ( ) lemma=haitiano 
+ haitianissime ( ) lemma=haitiano 
+ haitianissimi ( ) lemma=haitiano 
+ haitianissimo ( ) lemma=haitiano 
+ hall ( ) 
+ hamburger ( ) 
+ han ( ) lemma=avere 
+ handicap ( ) 
+ handicappa ( ) lemma=handicappare 
+ handicappare ( ) 
+ handicappai ( ) lemma=handicappare 
+ handicappammo ( ) lemma=handicappare 
+ handicappan ( ) lemma=handicappare 
+ handicappando ( ) lemma=handicappare 
+ handicappano ( ) lemma=handicappare 
+ handicappante ( ) lemma=handicappare 
+ handicappanti ( ) lemma=handicappare 
+ handicappar ( ) lemma=handicappare 
+ handicapparon ( ) lemma=handicappare 
+ handicapparono ( ) lemma=handicappare 
+ handicappasse ( ) lemma=handicappare 
+ handicappasser ( ) lemma=handicappare 
+ handicappassero ( ) lemma=handicappare 
+ handicappassi ( ) lemma=handicappare 
+ handicappassimo ( ) lemma=handicappare 
+ handicappaste ( ) lemma=handicappare 
+ handicappasti ( ) lemma=handicappare 
+ handicappata ( ) lemma=handicappato 
+ handicappato ( ) 
+ handicappate ( ) lemma=handicappato 
+ handicappati ( ) lemma=handicappato 
+ handicappatissima ( ) lemma=handicappato 
+ handicappatissime ( ) lemma=handicappato 
+ handicappatissimi ( ) lemma=handicappato 
+ handicappatissimo ( ) lemma=handicappato 
+ handicappava ( ) lemma=handicappare 
+ handicappavamo ( ) lemma=handicappare 
+ handicappavan ( ) lemma=handicappare 
+ handicappavano ( ) lemma=handicappare 
+ handicappavate ( ) lemma=handicappare 
+ handicappavi ( ) lemma=handicappare 
+ handicappavo ( ) lemma=handicappare 
+ handicappera' ( ) lemma=handicappare 
+ handicapperai ( ) lemma=handicappare 
+ handicapperan ( ) lemma=handicappare 
+ handicapperanno ( ) lemma=handicappare 
+ handicapperebbe ( ) lemma=handicappare 
+ handicapperebber ( ) lemma=handicappare 
+ handicapperebbero ( ) lemma=handicappare 
+ handicapperei ( ) lemma=handicappare 
+ handicapperemmo ( ) lemma=handicappare 
+ handicapperemo ( ) lemma=handicappare 
+ handicappereste ( ) lemma=handicappare 
+ handicapperesti ( ) lemma=handicappare 
+ handicapperete ( ) lemma=handicappare 
+ handicappero' ( ) lemma=handicappare 
+ handicapperà ( ) lemma=handicappare 
+ handicapperò ( ) lemma=handicappare 
+ handicappi ( ) lemma=handicappare 
+ handicappiamo ( ) lemma=handicappare 
+ handicappiate ( ) lemma=handicappare 
+ handicappin ( ) lemma=handicappare 
+ handicappino ( ) lemma=handicappare 
+ handicappo ( ) lemma=handicappare 
+ handicappo' ( ) lemma=handicappare 
+ handicappò ( ) lemma=handicappare 
+ hangar ( ) 
+ hanno ( ) lemma=avere 
+ happening ( ) 
+ harakiri ( ) 
+ hard ( ) 
+ hard-rock ( ) 
+ hardware ( ) 
+ hardwares ( ) lemma=hardware 
+ harem ( ) 
+ hegeliana ( ) lemma=hegeliano 
+ hegeliano ( ) 
+ hegeliane ( ) lemma=hegeliano 
+ hegeliani ( ) lemma=hegeliano 
+ hegelianissima ( ) lemma=hegeliano 
+ hegelianissime ( ) lemma=hegeliano 
+ hegelianissimi ( ) lemma=hegeliano 
+ hegelianissimo ( ) lemma=hegeliano 
+ heiderian-lepenista ( ) 
+ heiderian-lepeniste ( ) lemma=heiderian-lepenista 
+ heiderian-lepenisti ( ) lemma=heiderian-lepenista 
+ heiderian-lepenistissima ( ) lemma=heiderian-lepenista 
+ heiderian-lepenistissime ( ) lemma=heiderian-lepenista 
+ heiderian-lepenistissimi ( ) lemma=heiderian-lepenista 
+ heiderian-lepenistissimo ( ) lemma=heiderian-lepenista 
+ hezbollah ( ) 
+ hi-tech ( ) 
+ hindu' ( ) lemma=hindù 
+ hindù ( ) 
+ hippies ( ) lemma=hippy 
+ hippy ( ) 
+ hit ( ) 
+ hit-parade ( ) 
+ hitleriana ( ) lemma=hitleriano 
+ hitleriano ( ) 
+ hitleriane ( ) lemma=hitleriano 
+ hitleriani ( ) lemma=hitleriano 
+ hitlerianissima ( ) lemma=hitleriano 
+ hitlerianissime ( ) lemma=hitleriano 
+ hitlerianissimi ( ) lemma=hitleriano 
+ hitlerianissimo ( ) lemma=hitleriano 
+ ho ( ) lemma=avere 
+ hobbies ( ) lemma=hobby 
+ hobby ( ) 
+ holding ( ) 
+ hollywoodiana ( ) lemma=hollywoodiano 
+ hollywoodiano ( ) 
+ hollywoodiane ( ) lemma=hollywoodiano 
+ hollywoodiani ( ) lemma=hollywoodiano 
+ hollywoodianissima ( ) lemma=hollywoodiano 
+ hollywoodianissime ( ) lemma=hollywoodiano 
+ hollywoodianissimi ( ) lemma=hollywoodiano 
+ hollywoodianissimo ( ) lemma=hollywoodiano 
+ home ( ) 
+ hooligan ( ) 
+ hooligans ( ) lemma=hooligan 
+ horror ( ) 
+ hotel ( ) 
+ house ( ) 
+ hub ( ) 
+ humor ( ) 
+ humour ( ) 
+ humus ( ) 

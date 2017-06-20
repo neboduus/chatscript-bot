@@ -1,0 +1,397 @@
+﻿ 7 ( ) 
+ 7,2 ( ) 
+ 7,4 ( ) 
+ 7,5 ( ) 
+ 7,5-Minuten-Takt ( ) 
+ 7,5-km-Sprint ( ) 
+ 7,5-km-Staffel ( ) 
+ 7,5-prozentigen ( ) lemma=7,5-prozentig 
+ 7,5-prozentig ( ) 
+ 7,5prozentige ( ) lemma=7,5prozentig 
+ 7,5prozentig ( ) 
+ 7,5prozentigen ( ) lemma=7,5prozentig 
+ 7,6 ( ) 
+ 7,8 ( ) 
+ 7,82-Meter-Behälter ( ) 
+ 7,84 ( ) 
+ 7,9-Milliarden-Etat ( ) 
+ 7- ( ) 
+ 7-Bildschirm ( ) 
+ 7-Chef ( ) 
+ 7-Eleven-Team ( ) 
+ 7-Entscheidung ( ) 
+ 7-Erweiterung ( ) 
+ 7-Fax ( ) 
+ 7-Geschäftsführer ( ) 
+ 7-Gipfel ( ) 
+ 7-Gruppe ( ) 
+ 7-Haltestelle ( ) 
+ 7-Jugend ( ) 
+ 7-Jugend-Gruppe ( ) 
+ 7-Konferenz ( ) 
+ 7-Lizenz ( ) 
+ 7-Länder ( ) lemma=7-Land 
+ 7-Land ( ) 
+ 7-Ländern ( ) lemma=7-Land 
+ 7-M ( ) 
+ 7-Nachrichten ( ) lemma=7-Nachricht 
+ 7-Nachricht ( ) 
+ 7-Punkte-Plan ( ) 
+ 7-Staaten ( ) lemma=7-Staat 
+ 7-Staat ( ) 
+ 7-Station ( ) 
+ 7-Tage-Fahrt ( ) 
+ 7-Tage-Woche ( ) 
+ 7-Teiler ( ) 
+ 7-Treffen ( ) 
+ 7-Treffens ( ) lemma=7-Treffen 
+ 7-Variante ( ) 
+ 7-Verlängerung ( ) 
+ 7-m-Schiessen ( ) 
+ 7-m-Schießen ( ) 
+ 7. ( ) 
+ 7.000-Seelen-Gemeinde ( ) 
+ 7.000köpfigen ( ) lemma=7.000köpfig 
+ 7.000köpfig ( ) 
+ 7.65er ( ) 
+ 7/1 ( ) 
+ 7/10/89 ( ) 
+ 7/100 ( ) 
+ 7/1990 ( ) 
+ 7/2 ( ) 
+ 7/3 ( ) 
+ 7/4 ( ) 
+ 7/5 ( ) 
+ 7/6 ( ) 
+ 7/7 ( ) 
+ 7/8 ( ) 
+ 7/8-Takte ( ) lemma=7/8-Takt 
+ 7/8-Takt ( ) 
+ 7/84 ( ) 
+ 7/88 ( ) 
+ 7/89 ( ) 
+ 7/90 ( ) 
+ 7/91 ( ) 
+ 7/92 ( ) 
+ 7/93 ( ) 
+ 70 ( ) 
+ 70- ( ) 
+ 70-Betten-Klinik ( ) 
+ 70-Hektar-Hof ( ) 
+ 70-Jahr-Feier ( ) 
+ 70-Jahre-Theorie ( ) 
+ 70-Kilometer-Strecke ( ) 
+ 70-Liter-Müllsack ( ) 
+ 70-Megawatt- ( ) 
+ 70-Megawatt-Reaktor ( ) 
+ 70-Millionen- ( ) 
+ 70-Millionen-DM-Auftrages ( ) lemma=70-Millionen-DM-Auftrag 
+ 70-Millionen-DM-Auftrag ( ) 
+ 70-Prozent-Marke ( ) 
+ 70-Prozent-Mehrheit ( ) 
+ 70-Prozent-Quote ( ) 
+ 70-Quadratmeter-Wohnung ( ) 
+ 70-Seiten-Papier ( ) 
+ 70-Stunden- ( ) 
+ 70-Stunden-Woche ( ) 
+ 70-Stunden-Wochen ( ) lemma=70-Stunden-Woche 
+ 70-Teiler ( ) 
+ 70-jährige ( ) lemma=70-jährig 
+ 70-jährig ( ) 
+ 70-jährigen ( ) lemma=70-jährig 
+ 70.000-Einwohner-Stadt ( ) 
+ 70/71 ( ) 
+ 70/87 ( ) 
+ 70/90 ( ) 
+ 700 ( ) 
+ 700-Einwohner-Gemeinde ( ) 
+ 700-Jahr- ( ) 
+ 700-Jahr-Feier ( ) 
+ 700-Jahr-Feierlichkeiten ( ) lemma=700-Jahr-Feierlichkeit 
+ 700-Jahr-Feierlichkeit ( ) 
+ 700-Jahr-Feiern ( ) lemma=700-Jahr-feier 
+ 700-Jahr-feier ( ) 
+ 700-Jahr-Jubiläum ( ) 
+ 700-Jahrfeier ( ) 
+ 700-Millionen- ( ) 
+ 700-Millionen-Dollar-Sofortprogramm ( ) 
+ 700-Seelen-Dorf ( ) 
+ 700-Seiten- ( ) 
+ 700-Seiten-Schwarte ( ) 
+ 700.000- ( ) 
+ 700.000-Mark-Kredits ( ) lemma=700.000-Mark-Kredit 
+ 700.000-Mark-Kredit ( ) 
+ 7000 ( ) 
+ 70000-Einwohner-Stadt ( ) 
+ 700000 ( ) 
+ 700000-Einwohner-Stadt ( ) 
+ 700er ( ) 
+ 700jährige ( ) lemma=700jährig 
+ 700jährig ( ) 
+ 700jährigen ( ) lemma=700jährig 
+ 700jähriges ( ) lemma=700jährig 
+ 700köpfigen ( ) lemma=700köpfig 
+ 700köpfig ( ) 
+ 702/703 ( ) 
+ 704mal ( ) 
+ 70er ( ) 
+ 70er- ( ) 
+ 70er-Jahre- ( ) 
+ 70er-Jahre-Band ( ) 
+ 70er-Reifen ( ) 
+ 70er-Runde ( ) 
+ 70ern ( ) lemma=70er 
+ 70fache ( ) lemma=70fach 
+ 70fach ( ) 
+ 70fachem ( ) lemma=70fach 
+ 70fachen ( ) lemma=70fach 
+ 70jährig ( ) 
+ 70jährige ( ) lemma=70jährig 
+ 70jährigen ( ) lemma=70jährig 
+ 70jähriger ( ) lemma=70jährig 
+ 70jähriges ( ) lemma=70jährig 
+ 70köpfige ( ) lemma=70köpfig 
+ 70köpfig ( ) 
+ 70köpfigen ( ) lemma=70köpfig 
+ 70prozentige ( ) lemma=70prozentig 
+ 70prozentig ( ) 
+ 70prozentigen ( ) lemma=70prozentig 
+ 70prozentiger ( ) lemma=70prozentig 
+ 70stündige ( ) lemma=70stündig 
+ 70stündig ( ) 
+ 71-R ( ) 
+ 71-Teiler ( ) 
+ 71/2 ( ) 
+ 71/2prozentige ( ) lemma=71/2prozentig 
+ 71/2prozentig ( ) 
+ 71/3 ( ) 
+ 71/5 ( ) 
+ 71/7 ( ) 
+ 717/718 ( ) 
+ 71er ( ) 
+ 71jährig ( ) 
+ 71jährige ( ) lemma=71jährig 
+ 71jährigen ( ) lemma=71jährig 
+ 71jähriger ( ) lemma=71jährig 
+ 71köpfigen ( ) lemma=71köpfig 
+ 71köpfig ( ) 
+ 72 ( ) 
+ 72-stündigen ( ) lemma=72-stündig 
+ 72-stündig ( ) 
+ 72/1,2 ( ) 
+ 72/12 ( ) 
+ 72/2 ( ) 
+ 72/69 ( ) 
+ 72/70/72/73 ( ) 
+ 72/73 ( ) 
+ 72/76/70/74 ( ) 
+ 72/8 ( ) 
+ 72/88 ( ) 
+ 720 ( ) 
+ 7200fache ( ) lemma=7200fach 
+ 7200fach ( ) 
+ 725 ( ) 
+ 725jährige ( ) lemma=725jährig 
+ 725jährig ( ) 
+ 72er ( ) 
+ 72er-Runde ( ) 
+ 72ern ( ) lemma=72er 
+ 72jährig ( ) 
+ 72jährige ( ) lemma=72jährig 
+ 72jährigen ( ) lemma=72jährig 
+ 72jähriger ( ) lemma=72jährig 
+ 72stündige ( ) lemma=72stündig 
+ 72stündig ( ) 
+ 72stündigen ( ) lemma=72stündig 
+ 73 ( ) 
+ 73/6 ( ) 
+ 73/7 ( ) 
+ 73/74 ( ) 
+ 73/75 ( ) 
+ 7300-Einwohner-Gemeinde ( ) 
+ 737/400 ( ) 
+ 73er ( ) 
+ 73jährig ( ) 
+ 73jährige ( ) lemma=73jährig 
+ 73jährigen ( ) lemma=73jährig 
+ 73jähriger ( ) lemma=73jährig 
+ 74 ( ) 
+ 74-Teiler ( ) 
+ 74/2 ( ) 
+ 74/68 ( ) 
+ 74/75 ( ) 
+ 74/83,5 ( ) 
+ 74/91 ( ) 
+ 7423/91 ( ) 
+ 747-Frachtmaschine ( ) 
+ 74er ( ) 
+ 74jährig ( ) 
+ 74jährige ( ) lemma=74jährig 
+ 74jährigem ( ) lemma=74jährig 
+ 74jährigen ( ) lemma=74jährig 
+ 74jähriger ( ) lemma=74jährig 
+ 74prozentigen ( ) lemma=74prozentig 
+ 74prozentig ( ) 
+ 75 ( ) 
+ 75- ( ) 
+ 75-Jahr-Feier ( ) 
+ 75-Jahr-Jubiläum ( ) 
+ 75-Jahrfeierlichkeiten ( ) lemma=75-Jahrfeierlichkeit 
+ 75-Jahrfeierlichkeit ( ) 
+ 75-Meter-Lauf ( ) 
+ 75-Meter-Zonen ( ) lemma=75-Meter-Zone 
+ 75-Meter-Zone ( ) 
+ 75-Minuten-Programm ( ) 
+ 75-Prozent-Beteiligung ( ) 
+ 75-Prozent-Hürde ( ) 
+ 75-Prozent-Marke ( ) 
+ 75-Punkte-Sofortprogramm ( ) 
+ 75/76 ( ) 
+ 75/79 ( ) 
+ 75/86 ( ) 
+ 75/87 ( ) 
+ 750 ( ) 
+ 750- ( ) 
+ 750-Feier ( ) 
+ 750-Gramm-Brot ( ) 
+ 750-Jahr ( ) 
+ 750-Jahr- ( ) 
+ 750-Jahr-Feier ( ) 
+ 750-Jahr-Feiern ( ) lemma=750-Jahr-feier 
+ 750-Jahr-feier ( ) 
+ 750-Jahr-Jubiläum ( ) 
+ 750-Jahre-Feier ( ) 
+ 750-Jahrfeier ( ) 
+ 750-Seelen-Gemeinde ( ) 
+ 750-jährigen ( ) lemma=750-jährig 
+ 750-jährig ( ) 
+ 7500-Einwohner-Gemeinde ( ) 
+ 750er ( ) 
+ 750jährige ( ) lemma=750jährig 
+ 750jährig ( ) 
+ 750jährigen ( ) lemma=750jährig 
+ 755/91 ( ) 
+ 75er ( ) 
+ 75fache ( ) lemma=75fach 
+ 75fach ( ) 
+ 75jährig ( ) 
+ 75jährige ( ) lemma=75jährig 
+ 75jährigen ( ) lemma=75jährig 
+ 75jähriger ( ) lemma=75jährig 
+ 75jähriges ( ) lemma=75jährig 
+ 75köpfige ( ) lemma=75köpfig 
+ 75köpfig ( ) 
+ 75maliges ( ) lemma=75malig 
+ 75malig ( ) 
+ 75prozentige ( ) lemma=75prozentig 
+ 75prozentig ( ) 
+ 75prozentigen ( ) lemma=75prozentig 
+ 75prozentiger ( ) lemma=75prozentig 
+ 76-Teiler ( ) 
+ 76-jährige ( ) lemma=76-jährig 
+ 76-jährig ( ) 
+ 76. ( ) 
+ 76/1 ( ) 
+ 76/68/71/74 ( ) 
+ 76/70/72/69 ( ) 
+ 76/78 ( ) 
+ 761/91 ( ) 
+ 767/300 ( ) 
+ 76er ( ) 
+ 76er-Denkmal ( ) 
+ 76er-Runde ( ) 
+ 76jährig ( ) 
+ 76jährige ( ) lemma=76jährig 
+ 76jährigen ( ) lemma=76jährig 
+ 76jähriger ( ) lemma=76jährig 
+ 77-Gruppe ( ) 
+ 77-Millionen-Mark-Projektes ( ) lemma=77-Millionen-Mark-Projekt 
+ 77-Millionen-Mark-Projekt ( ) 
+ 77-Staaten ( ) lemma=77-Staat 
+ 77-Staat ( ) 
+ 77/1 ( ) 
+ 77/78 ( ) 
+ 775-Jahr-Feier ( ) 
+ 776er ( ) 
+ 77er ( ) 
+ 77er-Runde ( ) 
+ 77jährig ( ) 
+ 77jährige ( ) lemma=77jährig 
+ 77jährigem ( ) lemma=77jährig 
+ 77jährigen ( ) lemma=77jährig 
+ 77jähriger ( ) lemma=77jährig 
+ 78 ( ) 
+ 78-Kilogramm-Kämpfer ( ) 
+ 78-Quadratmeter-Wohnung ( ) 
+ 78/79 ( ) 
+ 78/80 ( ) 
+ 78/89 ( ) 
+ 78/91 ( ) 
+ 78er ( ) 
+ 78er- ( ) 
+ 78er-Runde ( ) 
+ 78ern ( ) lemma=78er 
+ 78jährig ( ) 
+ 78jährige ( ) lemma=78jährig 
+ 78jährigen ( ) lemma=78jährig 
+ 78jähriger ( ) lemma=78jährig 
+ 79,6-Teiler ( ) 
+ 79/78 ( ) 
+ 79/80 ( ) 
+ 79/90 ( ) 
+ 79/91 ( ) 
+ 79er ( ) 
+ 79jährig ( ) 
+ 79jährige ( ) lemma=79jährig 
+ 79jährigen ( ) lemma=79jährig 
+ 79jähriger ( ) lemma=79jährig 
+ 7:0-Erfolg ( ) 
+ 7:0-Sieg ( ) 
+ 7:04,48 ( ) 
+ 7:06,21 ( ) 
+ 7:1-Erfolg ( ) 
+ 7:1-Punkte ( ) lemma=7:1-Punkt 
+ 7:1-Punkt ( ) 
+ 7:1-Punkten ( ) lemma=7:1-Punkt 
+ 7:1-Sieg ( ) 
+ 7:12-Rückstand ( ) 
+ 7:17-Packung ( ) 
+ 7:18,04 ( ) 
+ 7:18,47 ( ) 
+ 7:2-Erfolg ( ) 
+ 7:2-Halbzeitvorsprung ( ) 
+ 7:2-Sieg ( ) 
+ 7:20-Pleite ( ) 
+ 7:3-Erfolg ( ) 
+ 7:3-Führung ( ) 
+ 7:4-Erfolg ( ) 
+ 7:5- ( ) 
+ 7:5-Erfolg ( ) 
+ 7:5-Sieg ( ) 
+ 7:6-Erfolg ( ) 
+ 7:6-Führung ( ) 
+ 7:6-Halbfinalsieg ( ) 
+ 7:6-Sieg ( ) 
+ 7:6-Vorsprung ( ) 
+ 7:8-Niederlage ( ) 
+ 7:9-Heimniederlage ( ) 
+ 7:9-Niederlage ( ) 
+ 7:9-Rückstand ( ) 
+ 7er ( ) 
+ 7er- ( ) 
+ 7er-Ausschuss ( ) 
+ 7er-Ausschusses ( ) lemma=7er-Ausschuss 
+ 7er-Ausschuß ( ) lemma=7er-Ausschuss 
+ 7er-Reihe ( ) 
+ 7jährige ( ) lemma=7jährig 
+ 7jährig ( ) 
+ 7jährigem ( ) lemma=7jährig 
+ 7jährigen ( ) lemma=7jährig 
+ 7m-Schiessen ( ) 
+ 7m-Schießen ( ) 
+ 7mal ( ) 
+ 7prozentige ( ) lemma=7prozentig 
+ 7prozentig ( ) 
+ 7prozentigen ( ) lemma=7prozentig 
+ 7tägigen ( ) lemma=7tägig 
+ 7tägig ( ) 

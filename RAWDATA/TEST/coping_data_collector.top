@@ -1,0 +1,207 @@
+topic: ~coping_data_collector repeat keep []
+
+u: INTRO ($coping_data_collector=0)
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Ok! Ora ci occuperemo di chiederti qualche informazione per riuscire ad aiutarti nel miglior modo possibile a sentirti meglio, 
+  combattere lo stress e adirittura per dormire meglio 😴. Ti prometto che questa cosa la faremo una sola volta. Cosa ne pensi proseguiamo?
+  $coping_data_collector = 1
+
+u: FEELING_NOW ($coping_data_collector=1 * ~go_on *) 
+  ^preprint(\[ mega stressato,poco stressato,per niente stressato \]) 
+  Parlando di stress come ti senti ora? 
+  $feeling_now=1
+  $coping_data_collector=1
+
+u: ($feeling_now=1 * mega *)
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  $feeling_now = 2
+  $coping_data_collector=2
+  Mi sa che hai bisogno di un po' di aiuto per regolare questo stato d'animo.🤒
+
+u: ($feeling_now=1 * poco *)
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Si può arrivare a non essere stressati se si segue una routine sana.
+  $feeling_now = 2
+  $coping_data_collector=2
+
+u: ($feeling_now=1 * niente *)
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Se ti senti zero stressato si può migliorare comunque.
+  $feeling_now = 2
+  $coping_data_collector=2
+
+u: ASK_SLEEP ($coping_data_collector=2 * ~go_on *) 
+  ^preprint( \[ meno di 3 h,3 - 4 h,5 - 6 h, 7 - 9 h, piu di 9 h \] )
+  E quante ore dormi la notte? Puoi scegliere una delle opzioni disponibili se vuoi 👇
+  $sleep=1
+  $coping_data_collector=3
+
+u: ($sleep=1 * 3 *~3 4 * {ore h})
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Dormi pochissimo. Dormire poco non solo ti fa accumulare più stress
+  ma affatica i tuoi organi e può provocare malattie di vario tipo.
+  $sleep=2
+  $coping_data_collector=3
+
+u: ($sleep=1 * 4 *~3 5 * {ore h})
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Dormire poco non solo ti fa accumulare più stress
+  ma affatica i tuoi organi e può provocare malattie di vario tipo e tu non dormi abbastanza da quel che so io.
+  $sleep=2
+  $coping_data_collector=3
+
+u: ($sleep=1 * 5 *~3 6 * {ore h})
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Dormi abbastanza poco. Dovrei elencare tutti i benefici che
+  ci sono a dormire di più..
+  $sleep=2
+  $coping_data_collector=3
+
+u: ($sleep=1 * 6 *~3 7 * {ore h})
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Dormi abbastanza poco. Dovrei elencare tutti i benefici che
+  ci sono a dormire di più..
+  $sleep=2
+  $coping_data_collector=3
+
+u: ($sleep=1 * 7 *~3 8 * {ore h})
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Dormi relativamente il giusto, ma dovresti cercare di dormire 
+  sempre almeno 8 h al giorno.
+  $sleep=2
+  $coping_data_collector=3
+
+u: ($sleep=1 * {"più di", "piu di" più piu} 8 * {ore h})
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Perfetto! Anche io! I bot hanno sempre bisogno del loro sonnellino rinfrescante.
+  $sleep=2
+  $coping_data_collector=3
+
+u: ($sleep=1 * _~noun_number *)
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Quindi dormi circa _0 ore per notte.
+  $sleep_nr = '_0
+  if ($sleep_nr<0.0){
+    Spiritoso! 
+    ^reuse(ASK_SLEEP)
+  }
+  if($sleep_nr >= 0.0 AND $sleep_nr <= 3.0){
+    Molto male! Dormire poco non solo ti fa accumulare più stress
+    ma affatica i tuoi organi e può provocare malattie di vario tipo.
+    $sleep = 2
+    $coping_data_collector=3
+  }
+  if($sleep_nr > 3.0 AND $sleep_nr < 4.0){
+    Molto male! Dormire poco non solo ti fa accumulare più stress
+    ma affatica i tuoi organi e può provocare malattie di vario tipo.
+      $sleep = 2
+      $coping_data_collector=3
+  }
+  if($sleep_nr >= 4.0 AND $sleep_nr < 6.0){
+    Dormi abbastanza poco. Dovrei elencare tutti i benefici che
+     ci sono a dormire di più..
+     $sleep = 2
+     $coping_data_collector=3
+  }
+  if($sleep_nr >= 6.0 AND $sleep_nr < 7.0){
+    Dormi abbastanza poco. Dovrei elencare tutti i benefici che
+     ci sono a dormire di più..
+     $sleep = 2
+     $coping_data_collector=3
+  }
+  if($sleep_nr >= 7.0 AND $sleep_nr < 8.0){
+    Dormi relativamente il giusto, ma dovresti cercare di dormire 
+    sempre almeno 8 h al giorno.
+    $sleep = 2
+    $coping_data_collector=3
+  }
+  if($sleep_nr >= 8.0){
+    Perfetto! Anche io! I bot hanno sempre bisogno del loro sonnellino rinfrescante.
+    $sleep = 2
+    $coping_data_collector=3
+  }
+
+u: ENERGY_LEVEL_DAY ($coping_data_collector=3 * ~go_on * ) 
+  ^preprint( \[ tantissime energie, non tante energie, pochissime \] )
+  E quanto è il tuo livello di energia 💪 durante il giorno?
+  Puoi scegliere una delle opzioni disponibili se vuoi 👇  
+  $energy_level_during_day=1
+
+u: ($energy_level_during_day=1 * tantissime * {energie} *)
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Quindi sei sempre pimpante come me 🤗. 
+  Posso aiutarti a mantenere sempre questo stato di energia 😉
+  $energy_level_during_day = 2
+  $coping_data_collector=4
+
+u: ($energy_level_during_day=1 * non tante * {energie} * )
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Capisco! Io sono molto bravo a dare dei buoni consigli sul come migliorare questo
+  calo di energie 🕺. Dammi un po' di tempo per conoscerti meglio e ti diro' esattamente quello di cui hai bisogno. 👊
+  $energy_level_during_day = 2
+  $coping_data_collector=4
+
+u: ($energy_level_during_day=1 * pochissime * {energie} * )
+  ^preprint(\[ proseguiamo,fermiamoci \])
+  Capisco! 🤔 Io sono molto bravo a dare dei buoni consigli sul come migliorare questo
+  calo di energie 🕺. Dammi un po' di tempo per conoscerti meglio e ti diro' esattamente quello di cui hai bisogno. 👊
+  $energy_level_during_day = 2
+  $coping_data_collector=4
+
+
+u: ENERGY_PLAN ($coping_data_collector=4 * ~go_on *) 
+  ^preprint( \[ si, no, dimmi di piu \] ) 
+  if (!$plan_flag OR $plan_flag!=1){
+    Possiamo fare meglio di così. Giusto? Fammi pensare cosa sarebbe meglio per te... 
+    (🕺 🎊 🕺 🎉 🕺 questa e' la mia danza per pensare meglio 😆)
+    Ok, ho trovato!
+  }
+  Penso che tu saresti perfetto per il 'Piano Meditazione, Stress e Sonno'. 
+  Vuoi provarlo? 
+  $plan_energy_accepted=1
+
+u: ($plan_energy_accepted=1 * ~risp_si *)
+  Eccellente! Io credo in te 👌 e che riuscirai a cambiare in meglio molto presto. 
+  Se vuoi chattare nuovamente di benessere io saro' sempre qui, basta che mi dici \" ciao \" 🖐.
+  $plan_energy_accepted=2 
+  $coping_data_collector=5
+  ^addtopic(~root)
+  ^respond(~root)
+
+u: ($plan_energy_accepted=1 * ~risp_no *)
+  Mi spiace che non ti interessi, penso che ti avrebbe aiutato molto 👌. 
+  Se decidi di riprovare a fare un piano entra in questa sezione e chiedimi di creare il piano 🖐.
+  $plan_energy_accepted=2 
+  $coping_data_collector=5
+  ^addtopic(~root)
+  ^respond(~root)
+
+u: ($plan_energy_accepted=1 * di piu *)
+  Ho pensato a questo piano avendo in mente le tue caratteristiche. Grazie alla mia potentissima  
+  intelligenza artificiale ho trovato questo piano che ti aiuterà a migliorare il tuo benessere psico-fisico.
+  $plan_energy_accepted=2 
+  $coping_data_collector=5
+  $plan_flag=1
+  ^reuse(ENERGY_PLAN)
+
+u: STOP ( * ~stop_here * )  
+  🙈 Va bene, decidi tu capo di cosa parliamo 😁😆 Io vado a lavarmi i denti 😁😁 quando cambi
+  idea vieni qui e chiedimi di parlare di strategie di adattamento. Io resto qui ad aspattarti. A dopo!
+  ^addtopic(~root)
+  ^respond(~root)
+
+# gestione dello stato in caso di frasi che non matchano nessuno dei pattern
+u: DEFAULT ()
+  ^preprint(Mi sa che mi si sono fusi un pò i circuiti e non ho capito il tuo messaggio 😂 Vediamo se mi ricordo di cosa stavamo parlando.. Ah si.. )
+
+  if ($coping_data_collector=0){
+    ^reuse(INTRO)
+  }else if($coping_data_collector=1){
+    ^reuse(FEELING_NOW)
+  }else if($coping_data_collector=2){
+    ^reuse(ASK_SLEEP)
+  }else if($coping_data_collector=3){
+    ^reuse(ENERGY_LEVEL_DAY)
+  }else if($coping_data_collector=4){
+    ^reuse(ENERGY_PLAN)
+  }

@@ -1,0 +1,180 @@
+topic: ~mental_wellbeing repeat keep []
+
+u: START ($wellbeing=0 * ~topic_benessere_mentale *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Ooooook! Allora inizio a farti qualche domanda riguardante lo stato d'animo 
+	che hai avuto durante gli ultimi 30 giorni per farmi un'idea dello stato della tua salute
+	mentale 😇. Che ne dici andiamo avanti?
+	$wellbeing=1
+
+u: NERVOUS ($wellbeing=1 * ~go_on * )
+	^preprint(\[ sempre,quasi sempre,a volte,poche volte,mai \])
+	Bene $username! Per iniziare, quanto spesso ti sei sentito nervoso negli ultimi 30 giorni?
+	$nervous=1
+
+u: ($nervous=1 * sempre *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Mi spiace $username! 😥 Cercherò di pensare ad un rimedio!
+	$wellbeing=2
+	$nervous=2
+
+u: ($nervous=1 * quasi sempre *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	E' un peccato! 😞 Faremo qualcosa per migliorare, tieniti pronto!
+	$wellbeing=2
+	$nervous=2
+
+u: ($nervous=1 * a volte *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Piano piano spero di aiutarti ad allontanare del tutto questo stato d'animo! Sono fiducioso 🙃!
+	$wellbeing=2
+	$nervous=2
+
+u: ($nervous=1 * poche volte *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	E' un bene ma se lavoriamo sodo possiamo eliminare anche questo malessere 🙃!
+	$wellbeing=2
+	$nervous=2
+
+u: ($nervous=1 * mai *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Ottimo! Meglio così! Siamo sulla stessa barca, nemmeno io mi sono sentito nervoso ultimamente 🙂.
+	$wellbeing=2
+	$nervous=2
+
+u: DEPRESSED ($wellbeing=2 * ~go_on * )
+	^preprint(\[ sempre,quasi sempre,a volte,poche volte,mai \])
+	Quanto spesso ti sei sentito così depresso che niente ti poteva tirare su il morale?
+	$depressed=1
+
+u: ($depressed=1 * sempre *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Capisco! Mi attivero' i circuiti nella cerca di una soluzione immediatamente!
+	$wellbeing=3
+	$depressed=2
+
+u: ($depressed=1 * quasi sempre *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Capisco! Mi attivero' i circuiti nella cerca di una soluzione immediatamente!
+	$wellbeing=3
+	$depressed=2
+
+u: ($depressed=1 * a volte *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Dobbiamo lavorare su questa cosa 💪! 
+	$wellbeing=3
+	$depressed=2
+
+u: ($depressed=1 * poche volte *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Va anche bene ma l umore si puo' alzare piu' di cosi, qualche consiglio utile non ti guasterebbe 😁!
+	$wellbeing=3
+	$depressed=2
+
+u: ($depressed=1 * mai *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Ottima cosa, hai l umore alto quasi come un bot 🤣!
+	$wellbeing=3
+	$depressed=2
+
+u: EFFORT ($wellbeing=3 * ~go_on * )
+	^preprint(\[ sempre,quasi sempre,a volte,poche volte,mai \])
+	Durante gli ultimi 30 giorni, circa quanto spesso ti sei sentito come se tutto fosse una fatica?
+	$effort=1
+
+u: ($effort=1 * sempre *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Mi spiace! Dobbiamo lavorare su questo.
+	$wellbeing=4
+	$effort=2
+
+u: ($effort=1 * quasi sempre *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Mannaggia! Mi metto subito alla ricerca di qualche consiglio.
+	$wellbeing=4
+	$effort=2
+
+u: ($effort=1 * a volte *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Dobbiamo lavorare su questa cosa 💪! 
+	$wellbeing=4
+	$effort=2
+
+u: ($effort=1 * poche volte *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Possiamo arrivare ad evitare anche quelle poche volte 😁!
+	$wellbeing=4
+	$effort=2
+
+u: ($effort=1 * mai *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Ottimo, sei quasi perfetto come me 🤣!
+	$wellbeing=4
+	$effort=2
+
+u: WORTHLESS ($wellbeing=4 * ~go_on * )
+	^preprint(\[ sempre,quasi sempre,a volte,poche volte,mai \])
+	Quanto spesso ti sei sentito indegno o senza valore?
+	$worthless=1
+
+u: ($worthless=1 * sempre *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Non va per niente bene!
+	$wellbeing=5
+	$worthless=2
+
+u: ($worthless=1 * quasi sempre *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Capisco! Mi attivero' i circuiti nella cerca di una soluzione immediatamente!
+	$wellbeing=5
+	$worthless=2
+
+u: ($worthless=1 * a volte *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Dobbiamo lavorare su questa cosa 💪! 
+	$wellbeing=5
+	$worthless=2
+
+u: ($worthless=1 * poche volte *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Ti aiuterò a eliminare quelle situazioni o almeno farò di tutto per aiutarti 😁!
+	$wellbeing=5
+	$worthless=2
+
+u: ($worthless=1 * mai *)
+	^preprint( \[ proseguiamo,fermiamoci \] )
+	Molto bene 🤣!
+	$wellbeing=5
+	$worthless=2
+
+u: ($wellbeing=5 * ~go_on * )
+	Grazie per aver risposto a queste domande. Hai segnato in bassa gamma, 
+	indicando poche o nessuna difficoltà. Questo è buono, però dovresti 
+	continuare a prenderti cura, misurare e intervenire sulla tua salute mentale. 
+	Utilizzo questo punteggio come una base per andare avanti!
+	Tuttavia, questo risultato verrà inviato al tuo allenatore per informarlo della tua performance.
+	^addtopic(~root)
+    ^respond(~root)
+
+u: STOP ( * ~stop_here * )
+    🙈 Va bene, decidi tu capo di cosa parliamo 😁😆 Io vado a lavarmi i denti 😁😁 quando cambi
+    idea vieni qui e chiedimi di parlare di salute. Io resto qui ad aspattarti. A dopo!
+    ^addtopic(~root)
+    ^respond(~root)
+
+u: DEFAULT()
+	^preprint(Forse non ho capito bene.. dove eravamo rimasti? Ah si: )
+	# check user state
+	if ($wellbeing==0){
+		^reuse(START)
+	}else if($wellbeing==1){
+		# we don't reset nervous because NEROUS rule will do it
+		^reuse(NERVOUS)
+	}else if($wellbeing==2){
+		^reuse(DEPRESSED)
+	}else if($wellbeing==3){
+		^reuse(EFFORT)
+	}else if($wellbeing==4){
+		^reuse(WORTHLESS)
+	}
+

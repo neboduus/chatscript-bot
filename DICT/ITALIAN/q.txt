@@ -1,0 +1,1246 @@
+﻿ Q. ( ) 
+ Quercia ( ) 
+ Quinta ( ) 
+ Quirinale ( ) 
+ qua ( ) 
+ quaccheri ( ) lemma=quacchero 
+ quacchero ( ) 
+ quadernetti ( ) lemma=quadernetto 
+ quadernetto ( ) 
+ quaderni ( ) lemma=quaderno 
+ quaderno ( ) 
+ quadra ( ) lemma=quadro 
+ quadro ( ) 
+ quadrai ( ) lemma=quadrare 
+ quadrare ( ) 
+ quadrammo ( ) lemma=quadrare 
+ quadran ( ) lemma=quadrare 
+ quadrando ( ) lemma=quadrare 
+ quadrangolare ( ) 
+ quadrangolari ( ) lemma=quadrangolare 
+ quadrangolarissima ( ) lemma=quadrangolare 
+ quadrangolarissime ( ) lemma=quadrangolare 
+ quadrangolarissimi ( ) lemma=quadrangolare 
+ quadrangolarissimo ( ) lemma=quadrangolare 
+ quadrano ( ) lemma=quadrare 
+ quadrante ( ) 
+ quadranti ( ) lemma=quadrante 
+ quadrar ( ) lemma=quadrare 
+ quadraron ( ) lemma=quadrare 
+ quadrarono ( ) lemma=quadrare 
+ quadrasse ( ) lemma=quadrare 
+ quadrasser ( ) lemma=quadrare 
+ quadrassero ( ) lemma=quadrare 
+ quadrassi ( ) lemma=quadrare 
+ quadrassimo ( ) lemma=quadrare 
+ quadraste ( ) lemma=quadrare 
+ quadrasti ( ) lemma=quadrare 
+ quadrata ( ) lemma=quadrato 
+ quadrato ( ) 
+ quadrate ( ) lemma=quadrato 
+ quadrati ( ) lemma=quadrato 
+ quadratini ( ) lemma=quadratino 
+ quadratino ( ) 
+ quadratissima ( ) lemma=quadrato 
+ quadratissime ( ) lemma=quadrato 
+ quadratissimi ( ) lemma=quadrato 
+ quadratissimo ( ) lemma=quadrato 
+ quadratura ( ) 
+ quadrature ( ) lemma=quadratura 
+ quadrava ( ) lemma=quadrare 
+ quadravamo ( ) lemma=quadrare 
+ quadravan ( ) lemma=quadrare 
+ quadravano ( ) lemma=quadrare 
+ quadravate ( ) lemma=quadrare 
+ quadravi ( ) lemma=quadrare 
+ quadravo ( ) lemma=quadrare 
+ quadre ( ) lemma=quadro 
+ quadrera' ( ) lemma=quadrare 
+ quadrerai ( ) lemma=quadrare 
+ quadreran ( ) lemma=quadrare 
+ quadreranno ( ) lemma=quadrare 
+ quadrerebbe ( ) lemma=quadrare 
+ quadrerebber ( ) lemma=quadrare 
+ quadrerebbero ( ) lemma=quadrare 
+ quadrerei ( ) lemma=quadrare 
+ quadreremmo ( ) lemma=quadrare 
+ quadreremo ( ) lemma=quadrare 
+ quadrereste ( ) lemma=quadrare 
+ quadreresti ( ) lemma=quadrare 
+ quadrerete ( ) lemma=quadrare 
+ quadreria ( ) 
+ quadrerie ( ) lemma=quadreria 
+ quadrero' ( ) lemma=quadrare 
+ quadrerà ( ) lemma=quadrare 
+ quadrerò ( ) lemma=quadrare 
+ quadretta ( ) lemma=quadrettare 
+ quadrettare ( ) 
+ quadrettai ( ) lemma=quadrettare 
+ quadrettammo ( ) lemma=quadrettare 
+ quadrettan ( ) lemma=quadrettare 
+ quadrettando ( ) lemma=quadrettare 
+ quadrettano ( ) lemma=quadrettare 
+ quadrettante ( ) lemma=quadrettare 
+ quadrettanti ( ) lemma=quadrettare 
+ quadrettar ( ) lemma=quadrettare 
+ quadrettaron ( ) lemma=quadrettare 
+ quadrettarono ( ) lemma=quadrettare 
+ quadrettasse ( ) lemma=quadrettare 
+ quadrettasser ( ) lemma=quadrettare 
+ quadrettassero ( ) lemma=quadrettare 
+ quadrettassi ( ) lemma=quadrettare 
+ quadrettassimo ( ) lemma=quadrettare 
+ quadrettaste ( ) lemma=quadrettare 
+ quadrettasti ( ) lemma=quadrettare 
+ quadrettata ( ) lemma=quadrettato 
+ quadrettato ( ) 
+ quadrettate ( ) lemma=quadrettato 
+ quadrettati ( ) lemma=quadrettato 
+ quadrettatissima ( ) lemma=quadrettato 
+ quadrettatissime ( ) lemma=quadrettato 
+ quadrettatissimi ( ) lemma=quadrettato 
+ quadrettatissimo ( ) lemma=quadrettato 
+ quadrettava ( ) lemma=quadrettare 
+ quadrettavamo ( ) lemma=quadrettare 
+ quadrettavan ( ) lemma=quadrettare 
+ quadrettavano ( ) lemma=quadrettare 
+ quadrettavate ( ) lemma=quadrettare 
+ quadrettavi ( ) lemma=quadrettare 
+ quadrettavo ( ) lemma=quadrettare 
+ quadrettera' ( ) lemma=quadrettare 
+ quadretterai ( ) lemma=quadrettare 
+ quadretteran ( ) lemma=quadrettare 
+ quadretteranno ( ) lemma=quadrettare 
+ quadretterebbe ( ) lemma=quadrettare 
+ quadretterebber ( ) lemma=quadrettare 
+ quadretterebbero ( ) lemma=quadrettare 
+ quadretterei ( ) lemma=quadrettare 
+ quadretteremmo ( ) lemma=quadrettare 
+ quadretteremo ( ) lemma=quadrettare 
+ quadrettereste ( ) lemma=quadrettare 
+ quadretteresti ( ) lemma=quadrettare 
+ quadretterete ( ) lemma=quadrettare 
+ quadrettero' ( ) lemma=quadrettare 
+ quadretterà ( ) lemma=quadrettare 
+ quadretterò ( ) lemma=quadrettare 
+ quadretti ( ) lemma=quadretto 
+ quadretto ( ) 
+ quadrettiamo ( ) lemma=quadrettare 
+ quadrettiate ( ) lemma=quadrettare 
+ quadrettin ( ) lemma=quadrettare 
+ quadrettino ( ) lemma=quadrettare 
+ quadretto' ( ) lemma=quadrettare 
+ quadrettò ( ) lemma=quadrettare 
+ quadri ( ) lemma=quadro 
+ quadriamo ( ) lemma=quadrare 
+ quadriate ( ) lemma=quadrare 
+ quadricicli ( ) lemma=quadriciclo 
+ quadriciclo ( ) 
+ quadricipite ( ) 
+ quadricipiti ( ) lemma=quadricipite 
+ quadriennale ( ) 
+ quadriennali ( ) lemma=quadriennale 
+ quadriennalissima ( ) lemma=quadriennale 
+ quadriennalissime ( ) lemma=quadriennale 
+ quadriennalissimi ( ) lemma=quadriennale 
+ quadriennalissimo ( ) lemma=quadriennale 
+ quadrienni ( ) lemma=quadriennio 
+ quadriennio ( ) 
+ quadriennii ( ) lemma=quadriennio 
+ quadriglia ( ) 
+ quadriglie ( ) lemma=quadriglia 
+ quadrilateri ( ) lemma=quadrilatero 
+ quadrilatero ( ) 
+ quadrimestrale ( ) 
+ quadrimestrali ( ) lemma=quadrimestrale 
+ quadrimestralissima ( ) lemma=quadrimestrale 
+ quadrimestralissime ( ) lemma=quadrimestrale 
+ quadrimestralissimi ( ) lemma=quadrimestrale 
+ quadrimestralissimo ( ) lemma=quadrimestrale 
+ quadrimotore ( ) 
+ quadrimotori ( ) lemma=quadrimotore 
+ quadrin ( ) lemma=quadrare 
+ quadrino ( ) lemma=quadrare 
+ quadriparta ( ) lemma=quadripartire 
+ quadripartire ( ) 
+ quadripartan ( ) lemma=quadripartire 
+ quadripartano ( ) lemma=quadripartire 
+ quadriparte ( ) lemma=quadripartire 
+ quadripartendo ( ) lemma=quadripartire 
+ quadripartente ( ) lemma=quadripartire 
+ quadripartenti ( ) lemma=quadripartire 
+ quadriparti ( ) lemma=quadripartire 
+ quadriparti' ( ) lemma=quadripartire 
+ quadripartiamo ( ) lemma=quadripartire 
+ quadripartiate ( ) lemma=quadripartire 
+ quadripartii ( ) lemma=quadripartire 
+ quadripartimmo ( ) lemma=quadripartire 
+ quadripartir ( ) lemma=quadripartire 
+ quadripartira' ( ) lemma=quadripartire 
+ quadripartirai ( ) lemma=quadripartire 
+ quadripartiran ( ) lemma=quadripartire 
+ quadripartiranno ( ) lemma=quadripartire 
+ quadripartirebbe ( ) lemma=quadripartire 
+ quadripartirebber ( ) lemma=quadripartire 
+ quadripartirebbero ( ) lemma=quadripartire 
+ quadripartirei ( ) lemma=quadripartire 
+ quadripartiremmo ( ) lemma=quadripartire 
+ quadripartiremo ( ) lemma=quadripartire 
+ quadripartireste ( ) lemma=quadripartire 
+ quadripartiresti ( ) lemma=quadripartire 
+ quadripartirete ( ) lemma=quadripartire 
+ quadripartiro' ( ) lemma=quadripartire 
+ quadripartiron ( ) lemma=quadripartire 
+ quadripartirono ( ) lemma=quadripartire 
+ quadripartirà ( ) lemma=quadripartire 
+ quadripartirò ( ) lemma=quadripartire 
+ quadripartisse ( ) lemma=quadripartire 
+ quadripartisser ( ) lemma=quadripartire 
+ quadripartissero ( ) lemma=quadripartire 
+ quadripartissi ( ) lemma=quadripartire 
+ quadripartissimo ( ) lemma=quadripartire 
+ quadripartiste ( ) lemma=quadripartire 
+ quadripartisti ( ) lemma=quadripartire 
+ quadripartita ( ) lemma=quadripartito 
+ quadripartito ( ) 
+ quadripartite ( ) lemma=quadripartito 
+ quadripartiti ( ) lemma=quadripartito 
+ quadripartitissima ( ) lemma=quadripartito 
+ quadripartitissime ( ) lemma=quadripartito 
+ quadripartitissimi ( ) lemma=quadripartito 
+ quadripartitissimo ( ) lemma=quadripartito 
+ quadripartiva ( ) lemma=quadripartire 
+ quadripartivamo ( ) lemma=quadripartire 
+ quadripartivan ( ) lemma=quadripartire 
+ quadripartivano ( ) lemma=quadripartire 
+ quadripartivate ( ) lemma=quadripartire 
+ quadripartivi ( ) lemma=quadripartire 
+ quadripartivo ( ) lemma=quadripartire 
+ quadriparto ( ) lemma=quadripartire 
+ quadriparton ( ) lemma=quadripartire 
+ quadripartono ( ) lemma=quadripartire 
+ quadripartì ( ) lemma=quadripartire 
+ quadrissima ( ) lemma=quadro 
+ quadrissime ( ) lemma=quadro 
+ quadrissimi ( ) lemma=quadro 
+ quadrissimo ( ) lemma=quadro 
+ quadro' ( ) lemma=quadrare 
+ quadrumviri ( ) lemma=quadrumviro 
+ quadrumviro ( ) 
+ quadrupede ( ) 
+ quadrupedi ( ) lemma=quadrupede 
+ quadrupla ( ) lemma=quadruplo 
+ quadruplo ( ) 
+ quadruple ( ) lemma=quadruplo 
+ quadrupli ( ) lemma=quadruplo 
+ quadruplica ( ) lemma=quadruplicare 
+ quadruplicare ( ) 
+ quadruplicai ( ) lemma=quadruplicare 
+ quadruplicamenti ( ) lemma=quadruplicamento 
+ quadruplicamento ( ) 
+ quadruplicammo ( ) lemma=quadruplicare 
+ quadruplican ( ) lemma=quadruplicare 
+ quadruplicando ( ) lemma=quadruplicare 
+ quadruplicano ( ) lemma=quadruplicare 
+ quadruplicante ( ) lemma=quadruplicare 
+ quadruplicanti ( ) lemma=quadruplicare 
+ quadruplicar ( ) lemma=quadruplicare 
+ quadruplicaron ( ) lemma=quadruplicare 
+ quadruplicarono ( ) lemma=quadruplicare 
+ quadruplicasse ( ) lemma=quadruplicare 
+ quadruplicasser ( ) lemma=quadruplicare 
+ quadruplicassero ( ) lemma=quadruplicare 
+ quadruplicassi ( ) lemma=quadruplicare 
+ quadruplicassimo ( ) lemma=quadruplicare 
+ quadruplicaste ( ) lemma=quadruplicare 
+ quadruplicasti ( ) lemma=quadruplicare 
+ quadruplicata ( ) lemma=quadruplicare 
+ quadruplicate ( ) lemma=quadruplicare 
+ quadruplicati ( ) lemma=quadruplicare 
+ quadruplicato ( ) lemma=quadruplicare 
+ quadruplicava ( ) lemma=quadruplicare 
+ quadruplicavamo ( ) lemma=quadruplicare 
+ quadruplicavan ( ) lemma=quadruplicare 
+ quadruplicavano ( ) lemma=quadruplicare 
+ quadruplicavate ( ) lemma=quadruplicare 
+ quadruplicavi ( ) lemma=quadruplicare 
+ quadruplicavo ( ) lemma=quadruplicare 
+ quadruplice ( ) 
+ quadruplichera' ( ) lemma=quadruplicare 
+ quadruplicherai ( ) lemma=quadruplicare 
+ quadruplicheran ( ) lemma=quadruplicare 
+ quadruplicheranno ( ) lemma=quadruplicare 
+ quadruplicherebbe ( ) lemma=quadruplicare 
+ quadruplicherebber ( ) lemma=quadruplicare 
+ quadruplicherebbero ( ) lemma=quadruplicare 
+ quadruplicherei ( ) lemma=quadruplicare 
+ quadruplicheremmo ( ) lemma=quadruplicare 
+ quadruplicheremo ( ) lemma=quadruplicare 
+ quadruplichereste ( ) lemma=quadruplicare 
+ quadruplicheresti ( ) lemma=quadruplicare 
+ quadruplicherete ( ) lemma=quadruplicare 
+ quadruplichero' ( ) lemma=quadruplicare 
+ quadruplicherà ( ) lemma=quadruplicare 
+ quadruplicherò ( ) lemma=quadruplicare 
+ quadruplichi ( ) lemma=quadruplicare 
+ quadruplichiamo ( ) lemma=quadruplicare 
+ quadruplichiate ( ) lemma=quadruplicare 
+ quadruplichin ( ) lemma=quadruplicare 
+ quadruplichino ( ) lemma=quadruplicare 
+ quadruplici ( ) lemma=quadruplice 
+ quadruplicissima ( ) lemma=quadruplice 
+ quadruplicissime ( ) lemma=quadruplice 
+ quadruplicissimi ( ) lemma=quadruplice 
+ quadruplicissimo ( ) lemma=quadruplice 
+ quadruplico ( ) lemma=quadruplicare 
+ quadruplico' ( ) lemma=quadruplicare 
+ quadruplicò ( ) lemma=quadruplicare 
+ quadruplissima ( ) lemma=quadruplo 
+ quadruplissime ( ) lemma=quadruplo 
+ quadruplissimi ( ) lemma=quadruplo 
+ quadruplissimo ( ) lemma=quadruplo 
+ quadrò ( ) lemma=quadrare 
+ quaggiu' ( ) lemma=quaggiù 
+ quaggiù ( ) 
+ quaglia ( ) 
+ quaglie ( ) lemma=quaglia 
+ qual ( ) 
+ qualche ( ) 
+ qualcosa ( ) 
+ qualcun ( ) 
+ qualcuna ( ) 
+ qualcuno ( ) 
+ quale ( ) 
+ quali ( ) lemma=quale 
+ qualifica ( ) 
+ qualificai ( ) lemma=qualificare 
+ qualificare ( ) 
+ qualificammo ( ) lemma=qualificare 
+ qualifican ( ) lemma=qualificare 
+ qualificando ( ) lemma=qualificare 
+ qualificandole ( ) lemma=qualificare 
+ qualificandosi ( ) lemma=qualificare 
+ qualificano ( ) lemma=qualificare 
+ qualificante ( ) 
+ qualificanti ( ) lemma=qualificante 
+ qualificantissima ( ) lemma=qualificante 
+ qualificantissime ( ) lemma=qualificante 
+ qualificantissimi ( ) lemma=qualificante 
+ qualificantissimo ( ) lemma=qualificante 
+ qualificar ( ) lemma=qualificare 
+ qualificarci ( ) lemma=qualificare 
+ qualificarla ( ) lemma=qualificare 
+ qualificarli ( ) lemma=qualificare 
+ qualificarlo ( ) lemma=qualificare 
+ qualificaron ( ) lemma=qualificare 
+ qualificarono ( ) lemma=qualificare 
+ qualificarsi ( ) lemma=qualificare 
+ qualificasse ( ) lemma=qualificare 
+ qualificasser ( ) lemma=qualificare 
+ qualificassero ( ) lemma=qualificare 
+ qualificassi ( ) lemma=qualificare 
+ qualificassimo ( ) lemma=qualificare 
+ qualificaste ( ) lemma=qualificare 
+ qualificasti ( ) lemma=qualificare 
+ qualificata ( ) lemma=qualificato 
+ qualificato ( ) 
+ qualificate ( ) lemma=qualificato 
+ qualificati ( ) lemma=qualificato 
+ qualificatissima ( ) lemma=qualificato 
+ qualificatissime ( ) lemma=qualificato 
+ qualificatissimi ( ) lemma=qualificato 
+ qualificatissimo ( ) lemma=qualificato 
+ qualificava ( ) lemma=qualificare 
+ qualificavamo ( ) lemma=qualificare 
+ qualificavan ( ) lemma=qualificare 
+ qualificavano ( ) lemma=qualificare 
+ qualificavate ( ) lemma=qualificare 
+ qualificavi ( ) lemma=qualificare 
+ qualificavo ( ) lemma=qualificare 
+ qualificazione ( ) 
+ qualificazioni ( ) lemma=qualificazione 
+ qualifiche ( ) lemma=qualifica 
+ qualifichera' ( ) lemma=qualificare 
+ qualificherai ( ) lemma=qualificare 
+ qualificheran ( ) lemma=qualificare 
+ qualificheranno ( ) lemma=qualificare 
+ qualificherebbe ( ) lemma=qualificare 
+ qualificherebber ( ) lemma=qualificare 
+ qualificherebbero ( ) lemma=qualificare 
+ qualificherei ( ) lemma=qualificare 
+ qualificheremmo ( ) lemma=qualificare 
+ qualificheremo ( ) lemma=qualificare 
+ qualifichereste ( ) lemma=qualificare 
+ qualificheresti ( ) lemma=qualificare 
+ qualificherete ( ) lemma=qualificare 
+ qualifichero' ( ) lemma=qualificare 
+ qualificherà ( ) lemma=qualificare 
+ qualificherò ( ) lemma=qualificare 
+ qualifichi ( ) lemma=qualificare 
+ qualifichiamo ( ) lemma=qualificare 
+ qualifichiate ( ) lemma=qualificare 
+ qualifichin ( ) lemma=qualificare 
+ qualifichino ( ) lemma=qualificare 
+ qualifico ( ) lemma=qualificare 
+ qualifico' ( ) lemma=qualificare 
+ qualificò ( ) lemma=qualificare 
+ qualita' ( ) lemma=qualità 
+ qualità ( ) 
+ qualitativa ( ) lemma=qualitativo 
+ qualitativo ( ) 
+ qualitativamente ( ) 
+ qualitative ( ) lemma=qualitativo 
+ qualitativi ( ) lemma=qualitativo 
+ qualitativissima ( ) lemma=qualitativo 
+ qualitativissime ( ) lemma=qualitativo 
+ qualitativissimi ( ) lemma=qualitativo 
+ qualitativissimo ( ) lemma=qualitativo 
+ qualora ( ) 
+ qualsiasi ( ) 
+ qualsivoglia ( ) 
+ qualunque ( ) 
+ qualunquismi ( ) lemma=qualunquismo 
+ qualunquismo ( ) 
+ qualunquista ( ) 
+ qualunquiste ( ) lemma=qualunquista 
+ qualunquisti ( ) lemma=qualunquista 
+ qualunquistica ( ) lemma=qualunquistico 
+ qualunquistico ( ) 
+ qualunquistiche ( ) lemma=qualunquistico 
+ qualunquistici ( ) lemma=qualunquistico 
+ qualunquisticissima ( ) lemma=qualunquistico 
+ qualunquisticissime ( ) lemma=qualunquistico 
+ qualunquisticissimi ( ) lemma=qualunquistico 
+ qualunquisticissimo ( ) lemma=qualunquistico 
+ qualunquistissima ( ) lemma=qualunquista 
+ qualunquistissime ( ) lemma=qualunquista 
+ qualunquistissimi ( ) lemma=qualunquista 
+ qualunquistissimo ( ) lemma=qualunquista 
+ quand ( ) 
+ quando ( ) 
+ quanta ( ) lemma=quanto 
+ quanto ( ) 
+ quante ( ) lemma=quanto 
+ quanti ( ) lemma=quanto 
+ quantica ( ) lemma=quantico 
+ quantico ( ) 
+ quantiche ( ) lemma=quantico 
+ quantici ( ) lemma=quantico 
+ quanticissima ( ) lemma=quantico 
+ quanticissime ( ) lemma=quantico 
+ quanticissimi ( ) lemma=quantico 
+ quanticissimo ( ) lemma=quantico 
+ quantifica ( ) lemma=quantificare 
+ quantificare ( ) 
+ quantificabile ( ) 
+ quantificabili ( ) lemma=quantificabile 
+ quantificabilissima ( ) lemma=quantificabile 
+ quantificabilissime ( ) lemma=quantificabile 
+ quantificabilissimi ( ) lemma=quantificabile 
+ quantificabilissimo ( ) lemma=quantificabile 
+ quantificai ( ) lemma=quantificare 
+ quantificammo ( ) lemma=quantificare 
+ quantifican ( ) lemma=quantificare 
+ quantificando ( ) lemma=quantificare 
+ quantificano ( ) lemma=quantificare 
+ quantificante ( ) lemma=quantificare 
+ quantificanti ( ) lemma=quantificare 
+ quantificar ( ) lemma=quantificare 
+ quantificarla ( ) lemma=quantificare 
+ quantificarlo ( ) lemma=quantificare 
+ quantificarne ( ) lemma=quantificare 
+ quantificaron ( ) lemma=quantificare 
+ quantificarono ( ) lemma=quantificare 
+ quantificasse ( ) lemma=quantificare 
+ quantificasser ( ) lemma=quantificare 
+ quantificassero ( ) lemma=quantificare 
+ quantificassi ( ) lemma=quantificare 
+ quantificassimo ( ) lemma=quantificare 
+ quantificaste ( ) lemma=quantificare 
+ quantificasti ( ) lemma=quantificare 
+ quantificata ( ) lemma=quantificare 
+ quantificate ( ) lemma=quantificare 
+ quantificati ( ) lemma=quantificare 
+ quantificato ( ) lemma=quantificare 
+ quantificava ( ) lemma=quantificare 
+ quantificavamo ( ) lemma=quantificare 
+ quantificavan ( ) lemma=quantificare 
+ quantificavano ( ) lemma=quantificare 
+ quantificavate ( ) lemma=quantificare 
+ quantificavi ( ) lemma=quantificare 
+ quantificavo ( ) lemma=quantificare 
+ quantificazione ( ) 
+ quantificazioni ( ) lemma=quantificazione 
+ quantifichera' ( ) lemma=quantificare 
+ quantificherai ( ) lemma=quantificare 
+ quantificheran ( ) lemma=quantificare 
+ quantificheranno ( ) lemma=quantificare 
+ quantificherebbe ( ) lemma=quantificare 
+ quantificherebber ( ) lemma=quantificare 
+ quantificherebbero ( ) lemma=quantificare 
+ quantificherei ( ) lemma=quantificare 
+ quantificheremmo ( ) lemma=quantificare 
+ quantificheremo ( ) lemma=quantificare 
+ quantifichereste ( ) lemma=quantificare 
+ quantificheresti ( ) lemma=quantificare 
+ quantificherete ( ) lemma=quantificare 
+ quantifichero' ( ) lemma=quantificare 
+ quantificherà ( ) lemma=quantificare 
+ quantificherò ( ) lemma=quantificare 
+ quantifichi ( ) lemma=quantificare 
+ quantifichiamo ( ) lemma=quantificare 
+ quantifichiate ( ) lemma=quantificare 
+ quantifichin ( ) lemma=quantificare 
+ quantifichino ( ) lemma=quantificare 
+ quantifico ( ) lemma=quantificare 
+ quantifico' ( ) lemma=quantificare 
+ quantificò ( ) lemma=quantificare 
+ quantissima ( ) lemma=quanto 
+ quantissime ( ) lemma=quanto 
+ quantissimi ( ) lemma=quanto 
+ quantissimo ( ) lemma=quanto 
+ quantistica ( ) 
+ quantita' ( ) lemma=quantità 
+ quantità ( ) 
+ quantitativa ( ) lemma=quantitativo 
+ quantitativo ( ) 
+ quantitativamente ( ) 
+ quantitative ( ) lemma=quantitativo 
+ quantitativi ( ) lemma=quantitativo 
+ quantitativissima ( ) lemma=quantitativo 
+ quantitativissime ( ) lemma=quantitativo 
+ quantitativissimi ( ) lemma=quantitativo 
+ quantitativissimo ( ) lemma=quantitativo 
+ quantizza ( ) lemma=quantizzare 
+ quantizzare ( ) 
+ quantizzai ( ) lemma=quantizzare 
+ quantizzammo ( ) lemma=quantizzare 
+ quantizzan ( ) lemma=quantizzare 
+ quantizzando ( ) lemma=quantizzare 
+ quantizzano ( ) lemma=quantizzare 
+ quantizzante ( ) lemma=quantizzare 
+ quantizzanti ( ) lemma=quantizzare 
+ quantizzar ( ) lemma=quantizzare 
+ quantizzaron ( ) lemma=quantizzare 
+ quantizzarono ( ) lemma=quantizzare 
+ quantizzasse ( ) lemma=quantizzare 
+ quantizzasser ( ) lemma=quantizzare 
+ quantizzassero ( ) lemma=quantizzare 
+ quantizzassi ( ) lemma=quantizzare 
+ quantizzassimo ( ) lemma=quantizzare 
+ quantizzaste ( ) lemma=quantizzare 
+ quantizzasti ( ) lemma=quantizzare 
+ quantizzata ( ) lemma=quantizzare 
+ quantizzate ( ) lemma=quantizzare 
+ quantizzati ( ) lemma=quantizzare 
+ quantizzato ( ) lemma=quantizzare 
+ quantizzava ( ) lemma=quantizzare 
+ quantizzavamo ( ) lemma=quantizzare 
+ quantizzavan ( ) lemma=quantizzare 
+ quantizzavano ( ) lemma=quantizzare 
+ quantizzavate ( ) lemma=quantizzare 
+ quantizzavi ( ) lemma=quantizzare 
+ quantizzavo ( ) lemma=quantizzare 
+ quantizzera' ( ) lemma=quantizzare 
+ quantizzerai ( ) lemma=quantizzare 
+ quantizzeran ( ) lemma=quantizzare 
+ quantizzeranno ( ) lemma=quantizzare 
+ quantizzerebbe ( ) lemma=quantizzare 
+ quantizzerebber ( ) lemma=quantizzare 
+ quantizzerebbero ( ) lemma=quantizzare 
+ quantizzerei ( ) lemma=quantizzare 
+ quantizzeremmo ( ) lemma=quantizzare 
+ quantizzeremo ( ) lemma=quantizzare 
+ quantizzereste ( ) lemma=quantizzare 
+ quantizzeresti ( ) lemma=quantizzare 
+ quantizzerete ( ) lemma=quantizzare 
+ quantizzero' ( ) lemma=quantizzare 
+ quantizzerà ( ) lemma=quantizzare 
+ quantizzerò ( ) lemma=quantizzare 
+ quantizzi ( ) lemma=quantizzare 
+ quantizziamo ( ) lemma=quantizzare 
+ quantizziate ( ) lemma=quantizzare 
+ quantizzin ( ) lemma=quantizzare 
+ quantizzino ( ) lemma=quantizzare 
+ quantizzo ( ) lemma=quantizzare 
+ quantizzo' ( ) lemma=quantizzare 
+ quantizzò ( ) lemma=quantizzare 
+ quantomeno ( ) 
+ quantum ( ) 
+ quarant ( ) 
+ quarant' ( ) lemma=quaranta 
+ quaranta ( ) 
+ quarantacinque ( ) 
+ quarantacinquemila ( ) 
+ quarantacinquesima ( ) lemma=quarantacinquesimo 
+ quarantacinquesimo ( ) 
+ quarantacinquesime ( ) lemma=quarantacinquesimo 
+ quarantacinquesimi ( ) lemma=quarantacinquesimo 
+ quarantadue ( ) 
+ quarantaduesima ( ) lemma=quarantaduesimo 
+ quarantaduesimo ( ) 
+ quarantaduesime ( ) lemma=quarantaduesimo 
+ quarantaduesimi ( ) lemma=quarantaduesimo 
+ quarantamila ( ) 
+ quarantanove ( ) 
+ quarantanovesima ( ) lemma=quarantanovesimo 
+ quarantanovesimo ( ) 
+ quarantanovesime ( ) lemma=quarantanovesimo 
+ quarantanovesimi ( ) lemma=quarantanovesimo 
+ quarantaquattresima ( ) lemma=quarantaquattresimo 
+ quarantaquattresimo ( ) 
+ quarantaquattresime ( ) lemma=quarantaquattresimo 
+ quarantaquattresimi ( ) lemma=quarantaquattresimo 
+ quarantaquattro ( ) 
+ quarantasei ( ) 
+ quarantaseiesima ( ) lemma=quarantaseiesimo 
+ quarantaseiesimo ( ) 
+ quarantaseiesime ( ) lemma=quarantaseiesimo 
+ quarantaseiesimi ( ) lemma=quarantaseiesimo 
+ quarantasette ( ) 
+ quarantasettesima ( ) lemma=quarantasettesimo 
+ quarantasettesimo ( ) 
+ quarantasettesime ( ) lemma=quarantasettesimo 
+ quarantasettesimi ( ) lemma=quarantasettesimo 
+ quarantatre ( ) 
+ quarantatre' ( ) lemma=quarantatré 
+ quarantatré ( ) 
+ quarantatreesima ( ) lemma=quarantatreesimo 
+ quarantatreesimo ( ) 
+ quarantatreesime ( ) lemma=quarantatreesimo 
+ quarantatreesimi ( ) lemma=quarantatreesimo 
+ quarantena ( ) 
+ quarantene ( ) lemma=quarantena 
+ quarantennale ( ) 
+ quarantennali ( ) lemma=quarantennale 
+ quarantenne ( ) 
+ quarantenni ( ) lemma=quarantenne 
+ quarantennio ( ) 
+ quarantennissima ( ) lemma=quarantenne 
+ quarantennissime ( ) lemma=quarantenne 
+ quarantennissimi ( ) lemma=quarantenne 
+ quarantennissimo ( ) lemma=quarantenne 
+ quarantesima ( ) lemma=quarantesimo 
+ quarantesimo ( ) 
+ quarantesime ( ) lemma=quarantesimo 
+ quarantesimi ( ) lemma=quarantesimo 
+ quarantesimissima ( ) lemma=quarantesimo 
+ quarantesimissime ( ) lemma=quarantesimo 
+ quarantesimissimi ( ) lemma=quarantesimo 
+ quarantesimissimo ( ) lemma=quarantesimo 
+ quarantina ( ) 
+ quarantine ( ) lemma=quarantina 
+ quarantott' ( ) lemma=quarantotto 
+ quarantotto ( ) 
+ quarantottesima ( ) lemma=quarantottesimo 
+ quarantottesimo ( ) 
+ quarantottesime ( ) lemma=quarantottesimo 
+ quarantottesimi ( ) lemma=quarantottesimo 
+ quarantunesima ( ) lemma=quarantunesimo 
+ quarantunesimo ( ) 
+ quarantunesime ( ) lemma=quarantunesimo 
+ quarantunesimi ( ) lemma=quarantunesimo 
+ quarantuno ( ) 
+ quaresimale ( ) 
+ quaresimali ( ) lemma=quaresimale 
+ quaresimalissima ( ) lemma=quaresimale 
+ quaresimalissime ( ) lemma=quaresimale 
+ quaresimalissimi ( ) lemma=quaresimale 
+ quaresimalissimo ( ) lemma=quaresimale 
+ quart ( ) 
+ quarta ( ) lemma=quarto 
+ quarto ( ) 
+ quarte ( ) lemma=quarto 
+ quartetti ( ) lemma=quartetto 
+ quartetto ( ) 
+ quarti ( ) lemma=quarto 
+ quartier ( ) lemma=quartiere 
+ quartiere ( ) 
+ quartieri ( ) lemma=quartiere 
+ quartina ( ) 
+ quartine ( ) lemma=quartina 
+ quartissima ( ) lemma=quarto 
+ quartissime ( ) lemma=quarto 
+ quartissimi ( ) lemma=quarto 
+ quartissimo ( ) lemma=quarto 
+ quarzi ( ) lemma=quarzo 
+ quarzo ( ) 
+ quasi ( ) 
+ quassu' ( ) lemma=quassù 
+ quassù ( ) 
+ quatta ( ) lemma=quatto 
+ quatto ( ) 
+ quatte ( ) lemma=quatto 
+ quatti ( ) lemma=quatto 
+ quattissima ( ) lemma=quatto 
+ quattissime ( ) lemma=quatto 
+ quattissimi ( ) lemma=quatto 
+ quattissimo ( ) lemma=quatto 
+ quattordicenne ( ) 
+ quattordicenni ( ) lemma=quattordicenne 
+ quattordicennissima ( ) lemma=quattordicenne 
+ quattordicennissime ( ) lemma=quattordicenne 
+ quattordicennissimi ( ) lemma=quattordicenne 
+ quattordicennissimo ( ) lemma=quattordicenne 
+ quattordicesima ( ) lemma=quattordicesimo 
+ quattordicesimo ( ) 
+ quattordicesime ( ) lemma=quattordicesimo 
+ quattordicesimi ( ) lemma=quattordicesimo 
+ quattordicesimissima ( ) lemma=quattordicesimo 
+ quattordicesimissime ( ) lemma=quattordicesimo 
+ quattordicesimissimi ( ) lemma=quattordicesimo 
+ quattordicesimissimo ( ) lemma=quattordicesimo 
+ quattordici ( ) 
+ quattordicimila ( ) 
+ quattrini ( ) lemma=quattrino 
+ quattrino ( ) 
+ quattro ( ) 
+ quattro-cinque ( ) 
+ quattrocentesca ( ) lemma=quattrocentesco 
+ quattrocentesco ( ) 
+ quattrocentesche ( ) lemma=quattrocentesco 
+ quattrocenteschi ( ) lemma=quattrocentesco 
+ quattrocenteschissima ( ) lemma=quattrocentesco 
+ quattrocenteschissime ( ) lemma=quattrocentesco 
+ quattrocenteschissimi ( ) lemma=quattrocentesco 
+ quattrocenteschissimo ( ) lemma=quattrocentesco 
+ quattrocentesima ( ) lemma=quattrocentesimo 
+ quattrocentesimo ( ) 
+ quattrocentesime ( ) lemma=quattrocentesimo 
+ quattrocentesimi ( ) lemma=quattrocentesimo 
+ quattrocentista ( ) 
+ quattrocentisti ( ) lemma=quattrocentista 
+ quattrocento ( ) 
+ quattrocentocinquanta ( ) 
+ quattrocentocinquantesima ( ) lemma=quattrocentocinquantesimo 
+ quattrocentocinquantesimo ( ) 
+ quattrocentocinquantesime ( ) lemma=quattrocentocinquantesimo 
+ quattrocentocinquantesimi ( ) lemma=quattrocentocinquantesimo 
+ quattrocentodecima ( ) lemma=quattrocentodecimo 
+ quattrocentodecimo ( ) 
+ quattrocentodecime ( ) lemma=quattrocentodecimo 
+ quattrocentodecimi ( ) lemma=quattrocentodecimo 
+ quattrocentodieci ( ) 
+ quattrocentomila ( ) 
+ quattrocentonovanta ( ) 
+ quattrocentonovantesima ( ) lemma=quattrocentonovantesimo 
+ quattrocentonovantesimo ( ) 
+ quattrocentonovantesime ( ) lemma=quattrocentonovantesimo 
+ quattrocentonovantesimi ( ) lemma=quattrocentonovantesimo 
+ quattrocentoquaranta ( ) 
+ quattrocentoquarantesima ( ) lemma=quattrocentoquarantesimo 
+ quattrocentoquarantesimo ( ) 
+ quattrocentoquarantesime ( ) lemma=quattrocentoquarantesimo 
+ quattrocentoquarantesimi ( ) lemma=quattrocentoquarantesimo 
+ quattrocentosessanta ( ) 
+ quattrocentosessantesima ( ) lemma=quattrocentosessantesimo 
+ quattrocentosessantesimo ( ) 
+ quattrocentosessantesime ( ) lemma=quattrocentosessantesimo 
+ quattrocentosessantesimi ( ) lemma=quattrocentosessantesimo 
+ quattrocentosettanta ( ) 
+ quattrocentosettantesima ( ) lemma=quattrocentosettantesimo 
+ quattrocentosettantesimo ( ) 
+ quattrocentosettantesime ( ) lemma=quattrocentosettantesimo 
+ quattrocentosettantesimi ( ) lemma=quattrocentosettantesimo 
+ quattrocentotrenta ( ) 
+ quattrocentotrentesima ( ) lemma=quattrocentotrentesimo 
+ quattrocentotrentesimo ( ) 
+ quattrocentotrentesime ( ) lemma=quattrocentotrentesimo 
+ quattrocentotrentesimi ( ) lemma=quattrocentotrentesimo 
+ quattrocentottanta ( ) 
+ quattrocentottantesima ( ) lemma=quattrocentottantesimo 
+ quattrocentottantesimo ( ) 
+ quattrocentottantesime ( ) lemma=quattrocentottantesimo 
+ quattrocentottantesimi ( ) lemma=quattrocentottantesimo 
+ quattrocentoventesima ( ) lemma=quattrocentoventesimo 
+ quattrocentoventesimo ( ) 
+ quattrocentoventesime ( ) lemma=quattrocentoventesimo 
+ quattrocentoventesimi ( ) lemma=quattrocentoventesimo 
+ quattrocentoventi ( ) 
+ quattromila ( ) 
+ quattromillesima ( ) lemma=quattromillesimo 
+ quattromillesimo ( ) 
+ quattromillesime ( ) lemma=quattromillesimo 
+ quattromillesimi ( ) lemma=quattromillesimo 
+ quattroruote ( ) 
+ quegli ( ) lemma=quello 
+ quello ( ) 
+ quei ( ) lemma=quello 
+ quel ( ) lemma=quello 
+ quell' ( ) lemma=quello 
+ quella ( ) lemma=quello 
+ quelle ( ) lemma=quello 
+ quelli ( ) lemma=quello 
+ querce ( ) lemma=quercia 
+ quercia ( ) 
+ quercina ( ) lemma=quercino 
+ quercino ( ) 
+ quercine ( ) lemma=quercino 
+ quercini ( ) lemma=quercino 
+ quercinissima ( ) lemma=quercino 
+ quercinissime ( ) lemma=quercino 
+ quercinissimi ( ) lemma=quercino 
+ quercinissimo ( ) lemma=quercino 
+ querela ( ) 
+ querelai ( ) lemma=querelare 
+ querelare ( ) 
+ querelammo ( ) lemma=querelare 
+ querelan ( ) lemma=querelare 
+ querelando ( ) lemma=querelare 
+ querelandolo ( ) lemma=querelare 
+ querelano ( ) lemma=querelare 
+ querelante ( ) 
+ querelanti ( ) lemma=querelante 
+ querelar ( ) lemma=querelare 
+ querelarlo ( ) lemma=querelare 
+ querelaron ( ) lemma=querelare 
+ querelarono ( ) lemma=querelare 
+ querelasse ( ) lemma=querelare 
+ querelasser ( ) lemma=querelare 
+ querelassero ( ) lemma=querelare 
+ querelassi ( ) lemma=querelare 
+ querelassimo ( ) lemma=querelare 
+ querelaste ( ) lemma=querelare 
+ querelasti ( ) lemma=querelare 
+ querelata ( ) lemma=querelare 
+ querelate ( ) lemma=querelare 
+ querelati ( ) lemma=querelare 
+ querelato ( ) lemma=querelare 
+ querelava ( ) lemma=querelare 
+ querelavamo ( ) lemma=querelare 
+ querelavan ( ) lemma=querelare 
+ querelavano ( ) lemma=querelare 
+ querelavate ( ) lemma=querelare 
+ querelavi ( ) lemma=querelare 
+ querelavo ( ) lemma=querelare 
+ querele ( ) lemma=querela 
+ querelera' ( ) lemma=querelare 
+ querelerai ( ) lemma=querelare 
+ quereleran ( ) lemma=querelare 
+ quereleranno ( ) lemma=querelare 
+ querelerebbe ( ) lemma=querelare 
+ querelerebber ( ) lemma=querelare 
+ querelerebbero ( ) lemma=querelare 
+ querelerei ( ) lemma=querelare 
+ quereleremmo ( ) lemma=querelare 
+ quereleremo ( ) lemma=querelare 
+ querelereste ( ) lemma=querelare 
+ quereleresti ( ) lemma=querelare 
+ querelerete ( ) lemma=querelare 
+ querelero' ( ) lemma=querelare 
+ querelerà ( ) lemma=querelare 
+ querelerò ( ) lemma=querelare 
+ quereli ( ) lemma=querelare 
+ quereliamo ( ) lemma=querelare 
+ quereliate ( ) lemma=querelare 
+ querelin ( ) lemma=querelare 
+ querelino ( ) lemma=querelare 
+ querelle ( ) 
+ querelo ( ) lemma=querelare 
+ querelo' ( ) lemma=querelare 
+ querelò ( ) lemma=querelare 
+ querimonia ( ) 
+ querimonie ( ) lemma=querimonia 
+ querula ( ) lemma=querulo 
+ querulo ( ) 
+ querule ( ) lemma=querulo 
+ queruli ( ) lemma=querulo 
+ querulissima ( ) lemma=querulo 
+ querulissime ( ) lemma=querulo 
+ querulissimi ( ) lemma=querulo 
+ querulissimo ( ) lemma=querulo 
+ quesiti ( ) lemma=quesito 
+ quesito ( ) 
+ quest' ( ) lemma=questo 
+ questo ( ) 
+ questa ( ) lemma=questo 
+ queste ( ) lemma=questo 
+ questi ( ) lemma=questo 
+ questiona ( ) lemma=questionare 
+ questionare ( ) 
+ questionai ( ) lemma=questionare 
+ questionammo ( ) lemma=questionare 
+ questionan ( ) lemma=questionare 
+ questionando ( ) lemma=questionare 
+ questionano ( ) lemma=questionare 
+ questionante ( ) lemma=questionare 
+ questionanti ( ) lemma=questionare 
+ questionar ( ) lemma=questionare 
+ questionari ( ) lemma=questionario 
+ questionario ( ) 
+ questionaron ( ) lemma=questionare 
+ questionarono ( ) lemma=questionare 
+ questionasse ( ) lemma=questionare 
+ questionasser ( ) lemma=questionare 
+ questionassero ( ) lemma=questionare 
+ questionassi ( ) lemma=questionare 
+ questionassimo ( ) lemma=questionare 
+ questionaste ( ) lemma=questionare 
+ questionasti ( ) lemma=questionare 
+ questionata ( ) lemma=questionare 
+ questionate ( ) lemma=questionare 
+ questionati ( ) lemma=questionare 
+ questionato ( ) lemma=questionare 
+ questionava ( ) lemma=questionare 
+ questionavamo ( ) lemma=questionare 
+ questionavan ( ) lemma=questionare 
+ questionavano ( ) lemma=questionare 
+ questionavate ( ) lemma=questionare 
+ questionavi ( ) lemma=questionare 
+ questionavo ( ) lemma=questionare 
+ questione ( ) 
+ questionera' ( ) lemma=questionare 
+ questionerai ( ) lemma=questionare 
+ questioneran ( ) lemma=questionare 
+ questioneranno ( ) lemma=questionare 
+ questionerebbe ( ) lemma=questionare 
+ questionerebber ( ) lemma=questionare 
+ questionerebbero ( ) lemma=questionare 
+ questionerei ( ) lemma=questionare 
+ questioneremmo ( ) lemma=questionare 
+ questioneremo ( ) lemma=questionare 
+ questionereste ( ) lemma=questionare 
+ questioneresti ( ) lemma=questionare 
+ questionerete ( ) lemma=questionare 
+ questionero' ( ) lemma=questionare 
+ questionerà ( ) lemma=questionare 
+ questionerò ( ) lemma=questionare 
+ questioni ( ) lemma=questione 
+ questioniamo ( ) lemma=questionare 
+ questioniate ( ) lemma=questionare 
+ questionin ( ) lemma=questionare 
+ questionino ( ) lemma=questionare 
+ questiono ( ) lemma=questionare 
+ questiono' ( ) lemma=questionare 
+ questionò ( ) lemma=questionare 
+ questore ( ) 
+ questori ( ) lemma=questore 
+ questua ( ) 
+ questuai ( ) lemma=questuare 
+ questuare ( ) 
+ questuammo ( ) lemma=questuare 
+ questuan ( ) lemma=questuare 
+ questuando ( ) lemma=questuare 
+ questuano ( ) lemma=questuare 
+ questuante ( ) 
+ questuanti ( ) lemma=questuante 
+ questuantissima ( ) lemma=questuante 
+ questuantissime ( ) lemma=questuante 
+ questuantissimi ( ) lemma=questuante 
+ questuantissimo ( ) lemma=questuante 
+ questuar ( ) lemma=questuare 
+ questuaron ( ) lemma=questuare 
+ questuarono ( ) lemma=questuare 
+ questuasse ( ) lemma=questuare 
+ questuasser ( ) lemma=questuare 
+ questuassero ( ) lemma=questuare 
+ questuassi ( ) lemma=questuare 
+ questuassimo ( ) lemma=questuare 
+ questuaste ( ) lemma=questuare 
+ questuasti ( ) lemma=questuare 
+ questuata ( ) lemma=questuare 
+ questuate ( ) lemma=questuare 
+ questuati ( ) lemma=questuare 
+ questuato ( ) lemma=questuare 
+ questuava ( ) lemma=questuare 
+ questuavamo ( ) lemma=questuare 
+ questuavan ( ) lemma=questuare 
+ questuavano ( ) lemma=questuare 
+ questuavate ( ) lemma=questuare 
+ questuavi ( ) lemma=questuare 
+ questuavo ( ) lemma=questuare 
+ questue ( ) lemma=questua 
+ questuera' ( ) lemma=questuare 
+ questuerai ( ) lemma=questuare 
+ questueran ( ) lemma=questuare 
+ questueranno ( ) lemma=questuare 
+ questuerebbe ( ) lemma=questuare 
+ questuerebber ( ) lemma=questuare 
+ questuerebbero ( ) lemma=questuare 
+ questuerei ( ) lemma=questuare 
+ questueremmo ( ) lemma=questuare 
+ questueremo ( ) lemma=questuare 
+ questuereste ( ) lemma=questuare 
+ questueresti ( ) lemma=questuare 
+ questuerete ( ) lemma=questuare 
+ questuero' ( ) lemma=questuare 
+ questuerà ( ) lemma=questuare 
+ questuerò ( ) lemma=questuare 
+ questui ( ) lemma=questuare 
+ questuiamo ( ) lemma=questuare 
+ questuiate ( ) lemma=questuare 
+ questuin ( ) lemma=questuare 
+ questuino ( ) lemma=questuare 
+ questuo ( ) lemma=questuare 
+ questuo' ( ) lemma=questuare 
+ questura ( ) 
+ questure ( ) lemma=questura 
+ questurini ( ) lemma=questurino 
+ questurino ( ) 
+ questuò ( ) lemma=questuare 
+ qui ( ) 
+ quid ( ) 
+ quieta ( ) lemma=quieto 
+ quieto ( ) 
+ quietai ( ) lemma=quietare 
+ quietare ( ) 
+ quietammo ( ) lemma=quietare 
+ quietan ( ) lemma=quietare 
+ quietando ( ) lemma=quietare 
+ quietano ( ) lemma=quietare 
+ quietante ( ) lemma=quietare 
+ quietanti ( ) lemma=quietare 
+ quietanza ( ) 
+ quietanze ( ) lemma=quietanza 
+ quietar ( ) lemma=quietare 
+ quietaron ( ) lemma=quietare 
+ quietarono ( ) lemma=quietare 
+ quietarsi ( ) lemma=quietare 
+ quietasse ( ) lemma=quietare 
+ quietasser ( ) lemma=quietare 
+ quietassero ( ) lemma=quietare 
+ quietassi ( ) lemma=quietare 
+ quietassimo ( ) lemma=quietare 
+ quietaste ( ) lemma=quietare 
+ quietasti ( ) lemma=quietare 
+ quietata ( ) lemma=quietare 
+ quietate ( ) lemma=quietare 
+ quietati ( ) lemma=quietare 
+ quietato ( ) lemma=quietare 
+ quietava ( ) lemma=quietare 
+ quietavamo ( ) lemma=quietare 
+ quietavan ( ) lemma=quietare 
+ quietavano ( ) lemma=quietare 
+ quietavate ( ) lemma=quietare 
+ quietavi ( ) lemma=quietare 
+ quietavo ( ) lemma=quietare 
+ quiete ( ) lemma=quieto 
+ quietera' ( ) lemma=quietare 
+ quieterai ( ) lemma=quietare 
+ quieteran ( ) lemma=quietare 
+ quieteranno ( ) lemma=quietare 
+ quieterebbe ( ) lemma=quietare 
+ quieterebber ( ) lemma=quietare 
+ quieterebbero ( ) lemma=quietare 
+ quieterei ( ) lemma=quietare 
+ quieteremmo ( ) lemma=quietare 
+ quieteremo ( ) lemma=quietare 
+ quietereste ( ) lemma=quietare 
+ quieteresti ( ) lemma=quietare 
+ quieterete ( ) lemma=quietare 
+ quietero' ( ) lemma=quietare 
+ quieterà ( ) lemma=quietare 
+ quieterò ( ) lemma=quietare 
+ quieti ( ) lemma=quieto 
+ quietiamo ( ) lemma=quietare 
+ quietiate ( ) lemma=quietare 
+ quietin ( ) lemma=quietare 
+ quietino ( ) lemma=quietare 
+ quietissima ( ) lemma=quieto 
+ quietissime ( ) lemma=quieto 
+ quietissimi ( ) lemma=quieto 
+ quietissimo ( ) lemma=quieto 
+ quieto' ( ) lemma=quietare 
+ quietò ( ) lemma=quietare 
+ quindi ( ) 
+ quindicenne ( ) 
+ quindicenni ( ) lemma=quindicenne 
+ quindicennii ( ) lemma=quindicennio 
+ quindicennio ( ) 
+ quindicennissima ( ) lemma=quindicenne 
+ quindicennissime ( ) lemma=quindicenne 
+ quindicennissimi ( ) lemma=quindicenne 
+ quindicennissimo ( ) lemma=quindicenne 
+ quindicesima ( ) lemma=quindicesimo 
+ quindicesimo ( ) 
+ quindicesime ( ) lemma=quindicesimo 
+ quindicesimi ( ) lemma=quindicesimo 
+ quindicesimissima ( ) lemma=quindicesimo 
+ quindicesimissime ( ) lemma=quindicesimo 
+ quindicesimissimi ( ) lemma=quindicesimo 
+ quindicesimissimo ( ) lemma=quindicesimo 
+ quindici ( ) 
+ quindicimila ( ) 
+ quindicina ( ) 
+ quindicinale ( ) 
+ quindicinali ( ) lemma=quindicinale 
+ quindicinalissima ( ) lemma=quindicinale 
+ quindicinalissime ( ) lemma=quindicinale 
+ quindicinalissimi ( ) lemma=quindicinale 
+ quindicinalissimo ( ) lemma=quindicinale 
+ quindicine ( ) lemma=quindicina 
+ quinquennale ( ) 
+ quinquennali ( ) lemma=quinquennale 
+ quinquennalissima ( ) lemma=quinquennale 
+ quinquennalissime ( ) lemma=quinquennale 
+ quinquennalissimi ( ) lemma=quinquennale 
+ quinquennalissimo ( ) lemma=quinquennale 
+ quinquenni ( ) lemma=quinquennio 
+ quinquennio ( ) 
+ quinquennii ( ) lemma=quinquennio 
+ quinta ( ) lemma=quinto 
+ quinto ( ) 
+ quintale ( ) 
+ quintali ( ) lemma=quintale 
+ quinte ( ) lemma=quinto 
+ quintessenza ( ) 
+ quintessenze ( ) lemma=quintessenza 
+ quintetti ( ) lemma=quintetto 
+ quintetto ( ) 
+ quinti ( ) lemma=quinto 
+ quintissima ( ) lemma=quinto 
+ quintissime ( ) lemma=quinto 
+ quintissimi ( ) lemma=quinto 
+ quintissimo ( ) lemma=quinto 
+ quintultima ( ) lemma=quintultimo 
+ quintultimo ( ) 
+ quintultime ( ) lemma=quintultimo 
+ quintultimi ( ) lemma=quintultimo 
+ quintultimissima ( ) lemma=quintultimo 
+ quintultimissime ( ) lemma=quintultimo 
+ quintultimissimi ( ) lemma=quintultimo 
+ quintultimissimo ( ) lemma=quintultimo 
+ quintupla ( ) lemma=quintuplo 
+ quintuplo ( ) 
+ quintuple ( ) lemma=quintuplo 
+ quintupli ( ) lemma=quintuplo 
+ quintuplica ( ) lemma=quintuplicare 
+ quintuplicare ( ) 
+ quintuplicai ( ) lemma=quintuplicare 
+ quintuplicammo ( ) lemma=quintuplicare 
+ quintuplican ( ) lemma=quintuplicare 
+ quintuplicando ( ) lemma=quintuplicare 
+ quintuplicano ( ) lemma=quintuplicare 
+ quintuplicante ( ) lemma=quintuplicare 
+ quintuplicanti ( ) lemma=quintuplicare 
+ quintuplicar ( ) lemma=quintuplicare 
+ quintuplicaron ( ) lemma=quintuplicare 
+ quintuplicarono ( ) lemma=quintuplicare 
+ quintuplicasse ( ) lemma=quintuplicare 
+ quintuplicasser ( ) lemma=quintuplicare 
+ quintuplicassero ( ) lemma=quintuplicare 
+ quintuplicassi ( ) lemma=quintuplicare 
+ quintuplicassimo ( ) lemma=quintuplicare 
+ quintuplicaste ( ) lemma=quintuplicare 
+ quintuplicasti ( ) lemma=quintuplicare 
+ quintuplicata ( ) lemma=quintuplicare 
+ quintuplicate ( ) lemma=quintuplicare 
+ quintuplicati ( ) lemma=quintuplicare 
+ quintuplicato ( ) lemma=quintuplicare 
+ quintuplicava ( ) lemma=quintuplicare 
+ quintuplicavamo ( ) lemma=quintuplicare 
+ quintuplicavan ( ) lemma=quintuplicare 
+ quintuplicavano ( ) lemma=quintuplicare 
+ quintuplicavate ( ) lemma=quintuplicare 
+ quintuplicavi ( ) lemma=quintuplicare 
+ quintuplicavo ( ) lemma=quintuplicare 
+ quintuplichera' ( ) lemma=quintuplicare 
+ quintuplicherai ( ) lemma=quintuplicare 
+ quintuplicheran ( ) lemma=quintuplicare 
+ quintuplicheranno ( ) lemma=quintuplicare 
+ quintuplicherebbe ( ) lemma=quintuplicare 
+ quintuplicherebber ( ) lemma=quintuplicare 
+ quintuplicherebbero ( ) lemma=quintuplicare 
+ quintuplicherei ( ) lemma=quintuplicare 
+ quintuplicheremmo ( ) lemma=quintuplicare 
+ quintuplicheremo ( ) lemma=quintuplicare 
+ quintuplichereste ( ) lemma=quintuplicare 
+ quintuplicheresti ( ) lemma=quintuplicare 
+ quintuplicherete ( ) lemma=quintuplicare 
+ quintuplichero' ( ) lemma=quintuplicare 
+ quintuplicherà ( ) lemma=quintuplicare 
+ quintuplicherò ( ) lemma=quintuplicare 
+ quintuplichi ( ) lemma=quintuplicare 
+ quintuplichiamo ( ) lemma=quintuplicare 
+ quintuplichiate ( ) lemma=quintuplicare 
+ quintuplichin ( ) lemma=quintuplicare 
+ quintuplichino ( ) lemma=quintuplicare 
+ quintuplico ( ) lemma=quintuplicare 
+ quintuplico' ( ) lemma=quintuplicare 
+ quintuplicò ( ) lemma=quintuplicare 
+ quintuplissima ( ) lemma=quintuplo 
+ quintuplissime ( ) lemma=quintuplo 
+ quintuplissimi ( ) lemma=quintuplo 
+ quintuplissimo ( ) lemma=quintuplo 
+ quisquilia ( ) 
+ quisquilie ( ) lemma=quisquilia 
+ quiz ( ) 
+ quorum ( ) 
+ quota ( ) 
+ quotai ( ) lemma=quotare 
+ quotare ( ) 
+ quotammo ( ) lemma=quotare 
+ quotan ( ) lemma=quotare 
+ quotando ( ) lemma=quotare 
+ quotano ( ) lemma=quotare 
+ quotante ( ) lemma=quotare 
+ quotanti ( ) lemma=quotare 
+ quotar ( ) lemma=quotare 
+ quotarci ( ) lemma=quotare 
+ quotarla ( ) lemma=quotare 
+ quotarli ( ) lemma=quotare 
+ quotaron ( ) lemma=quotare 
+ quotarono ( ) lemma=quotare 
+ quotarsi ( ) lemma=quotare 
+ quotasse ( ) lemma=quotare 
+ quotasser ( ) lemma=quotare 
+ quotassero ( ) lemma=quotare 
+ quotassi ( ) lemma=quotare 
+ quotassimo ( ) lemma=quotare 
+ quotaste ( ) lemma=quotare 
+ quotasti ( ) lemma=quotare 
+ quotata ( ) lemma=quotato 
+ quotato ( ) 
+ quotate ( ) lemma=quotato 
+ quotati ( ) lemma=quotato 
+ quotatissima ( ) lemma=quotato 
+ quotatissime ( ) lemma=quotato 
+ quotatissimi ( ) lemma=quotato 
+ quotatissimo ( ) lemma=quotato 
+ quotava ( ) lemma=quotare 
+ quotavamo ( ) lemma=quotare 
+ quotavan ( ) lemma=quotare 
+ quotavano ( ) lemma=quotare 
+ quotavate ( ) lemma=quotare 
+ quotavi ( ) lemma=quotare 
+ quotavo ( ) lemma=quotare 
+ quotazione ( ) 
+ quotazioni ( ) lemma=quotazione 
+ quote ( ) lemma=quota 
+ quotera' ( ) lemma=quotare 
+ quoterai ( ) lemma=quotare 
+ quoteran ( ) lemma=quotare 
+ quoteranno ( ) lemma=quotare 
+ quoterebbe ( ) lemma=quotare 
+ quoterebber ( ) lemma=quotare 
+ quoterebbero ( ) lemma=quotare 
+ quoterei ( ) lemma=quotare 
+ quoteremmo ( ) lemma=quotare 
+ quoteremo ( ) lemma=quotare 
+ quotereste ( ) lemma=quotare 
+ quoteresti ( ) lemma=quotare 
+ quoterete ( ) lemma=quotare 
+ quotero' ( ) lemma=quotare 
+ quoterà ( ) lemma=quotare 
+ quoterò ( ) lemma=quotare 
+ quoti ( ) lemma=quotare 
+ quotiamo ( ) lemma=quotare 
+ quotiate ( ) lemma=quotare 
+ quotidiana ( ) lemma=quotidiano 
+ quotidiano ( ) 
+ quotidianamente ( ) 
+ quotidiane ( ) lemma=quotidiano 
+ quotidiani ( ) lemma=quotidiano 
+ quotidianissima ( ) lemma=quotidiano 
+ quotidianissime ( ) lemma=quotidiano 
+ quotidianissimi ( ) lemma=quotidiano 
+ quotidianissimo ( ) lemma=quotidiano 
+ quotidianita' ( ) lemma=quotidianità 
+ quotidianità ( ) 
+ quotin ( ) lemma=quotare 
+ quotino ( ) lemma=quotare 
+ quoto ( ) lemma=quotare 
+ quoto' ( ) lemma=quotare 
+ quotò ( ) lemma=quotare 
+ quoziente ( ) 
+ quozienti ( ) lemma=quoziente 

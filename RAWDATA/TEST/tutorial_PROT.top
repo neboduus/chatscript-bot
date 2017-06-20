@@ -1,0 +1,43 @@
+topic: ~root keep repeat []
+
+u: ASK_NAME (!$username) Come ti chiami?
+  
+  a: (_*)
+    Quindi ti chiami \" '_0 \". Ho capito bene?
+    $maybe_username = '_0
+    b: (~risp_si)
+      Bel nome, $maybe_username.
+      $username = $maybe_username
+    b: (~risp_no) 
+      ^reuse(ASK_NAME)
+    b: (*)
+      Penso di non aver capito bene.
+      ^reuse(ASK_NAME)
+
+
+u: (* avere * cane *) Ne vorrei uno anche io, ma non posso perché vivo nel tuo computer.
+  $fact = ^createfact($username possiede cane)
+
+u: (ho _~number anni) Quindi hai _0 anni?
+  
+  a: (~risp_si)
+    Ottimo $username! Me lo ricorderò.
+    $age = '_0
+  a: (~risp_no)
+    Perché spari cazzate?
+
+
+?: (animali) 
+  @0 = ^query(direct_v ? possiede ?)
+  $who = @0subject
+  $what = @0object
+  Ok! $who possiede $what
+
+?: (sai se possiedo un _*)
+  if (^query(direct_svo $username possiede _0)){
+    Sì possiedi un _0
+  }else{
+    No non possiedi un _0
+  }
+
+?: (!^query(direct_svo $username possiede gatto)sai se possiedo un gatto)  No non possiedi un gatto

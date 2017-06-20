@@ -1,0 +1,306 @@
+﻿ Yvon ( ) 
+ y ( ) 
+ Yang ( ) 
+ Yann ( ) 
+ Yannick ( ) 
+ Yasmina ( ) 
+ Yin ( ) 
+ York ( ) 
+ Yougoslavie ( ) 
+ Youssouf ( ) 
+ Ypres ( ) 
+ Yser ( ) 
+ Yvelines ( ) 
+ Yves ( ) 
+ Yvette ( ) 
+ Yvonne ( ) 
+ Yémen ( ) 
+ ya ( ) 
+ yachmak ( ) 
+ yachmaks ( ) lemma=yachmak 
+ yacht ( ) 
+ yacht-club ( ) 
+ yacht-clubs ( ) lemma=yacht-club 
+ yachting ( ) 
+ yachtings ( ) lemma=yachting 
+ yachtman ( ) 
+ yachtmans ( ) lemma=yachtman 
+ yachts ( ) lemma=yacht 
+ yack ( ) 
+ yacks ( ) lemma=yack 
+ yagé ( ) 
+ yagés ( ) lemma=yagé 
+ yak ( ) 
+ yaka ( ) 
+ yakas ( ) lemma=yaka 
+ yaks ( ) lemma=yak 
+ yamba ( ) 
+ yambas ( ) lemma=yamba 
+ yang ( ) 
+ yangs ( ) lemma=yang 
+ yankee ( ) 
+ yankees ( ) lemma=yankee 
+ yaouled ( ) 
+ yaouleds ( ) lemma=yaouled 
+ yaourt ( ) 
+ yaourtière ( ) 
+ yaourtières ( ) lemma=yaourtière 
+ yaourts ( ) lemma=yaourt 
+ yapok ( ) 
+ yapoks ( ) lemma=yapok 
+ yard ( ) 
+ yards ( ) lemma=yard 
+ yas ( ) lemma=ya 
+ yashiva ( ) 
+ yashivas ( ) lemma=yashiva 
+ yass ( ) 
+ yassa ( ) 
+ yassas ( ) lemma=yassa 
+ yatagan ( ) 
+ yatagans ( ) lemma=yatagan 
+ yawl ( ) 
+ yawls ( ) lemma=yawl 
+ yayamadou ( ) 
+ yayamadous ( ) lemma=yayamadou 
+ yddisch ( ) 
+ yearling ( ) 
+ yearlings ( ) lemma=yearling 
+ yen ( ) 
+ yen-min-piao ( ) 
+ yens ( ) lemma=yen 
+ yeoman ( ) 
+ yeomanry ( ) 
+ yeomanrys ( ) lemma=yeomanry 
+ yeomans ( ) lemma=yeoman 
+ yerkish ( ) 
+ yerkishs ( ) lemma=yerkish 
+ yes-man ( ) 
+ yes-mans ( ) lemma=yes-man 
+ yeti ( ) 
+ yetis ( ) lemma=yeti 
+ yeuse ( ) 
+ yeuses ( ) lemma=yeuse 
+ yeux ( ) lemma=œil 
+ yiddish ( ) 
+ yiddishs ( ) lemma=yiddish 
+ yin ( ) 
+ yins ( ) lemma=yin 
+ yippie ( ) 
+ yippies ( ) lemma=yippie 
+ yippy ( ) 
+ yippys ( ) lemma=yippy 
+ ylang-ylang ( ) 
+ ylang-ylangs ( ) lemma=ylang-ylang 
+ ylem ( ) 
+ ylems ( ) lemma=ylem 
+ ylia ( ) 
+ ylias ( ) lemma=ylia 
+ ylure ( ) 
+ ylures ( ) lemma=ylure 
+ yo-yo ( ) 
+ yo-yos ( ) lemma=yo-yo 
+ yod ( ) 
+ yodisa ( ) lemma=yodiser 
+ yodiser ( ) 
+ yodisai ( ) lemma=yodiser 
+ yodisaient ( ) lemma=yodiser 
+ yodisais ( ) lemma=yodiser 
+ yodisait ( ) lemma=yodiser 
+ yodisant ( ) lemma=yodiser 
+ yodisas ( ) lemma=yodiser 
+ yodisasse ( ) lemma=yodiser 
+ yodisassent ( ) lemma=yodiser 
+ yodisasses ( ) lemma=yodiser 
+ yodisassiez ( ) lemma=yodiser 
+ yodisassions ( ) lemma=yodiser 
+ yodise ( ) lemma=yodiser 
+ yodisent ( ) lemma=yodiser 
+ yodisera ( ) lemma=yodiser 
+ yodiserai ( ) lemma=yodiser 
+ yodiseraient ( ) lemma=yodiser 
+ yodiserais ( ) lemma=yodiser 
+ yodiserait ( ) lemma=yodiser 
+ yodiseras ( ) lemma=yodiser 
+ yodiserez ( ) lemma=yodiser 
+ yodiseriez ( ) lemma=yodiser 
+ yodiserions ( ) lemma=yodiser 
+ yodiserons ( ) lemma=yodiser 
+ yodiseront ( ) lemma=yodiser 
+ yodises ( ) lemma=yodiser 
+ yodisez ( ) lemma=yodiser 
+ yodisiez ( ) lemma=yodiser 
+ yodisions ( ) lemma=yodiser 
+ yodisons ( ) lemma=yodiser 
+ yodisâmes ( ) lemma=yodiser 
+ yodisât ( ) lemma=yodiser 
+ yodisâtes ( ) lemma=yodiser 
+ yodisèrent ( ) lemma=yodiser 
+ yodisé ( ) lemma=yodiser 
+ yodisée ( ) lemma=yodiser 
+ yodisées ( ) lemma=yodiser 
+ yodisés ( ) lemma=yodiser 
+ yodla ( ) lemma=yodler 
+ yodler ( ) 
+ yodlai ( ) lemma=yodler 
+ yodlaient ( ) lemma=yodler 
+ yodlais ( ) lemma=yodler 
+ yodlait ( ) lemma=yodler 
+ yodlant ( ) lemma=yodler 
+ yodlas ( ) lemma=yodler 
+ yodlasse ( ) lemma=yodler 
+ yodlassent ( ) lemma=yodler 
+ yodlasses ( ) lemma=yodler 
+ yodlassiez ( ) lemma=yodler 
+ yodlassions ( ) lemma=yodler 
+ yodle ( ) lemma=yodler 
+ yodlent ( ) lemma=yodler 
+ yodlera ( ) lemma=yodler 
+ yodlerai ( ) lemma=yodler 
+ yodleraient ( ) lemma=yodler 
+ yodlerais ( ) lemma=yodler 
+ yodlerait ( ) lemma=yodler 
+ yodleras ( ) lemma=yodler 
+ yodlerez ( ) lemma=yodler 
+ yodleriez ( ) lemma=yodler 
+ yodlerions ( ) lemma=yodler 
+ yodlerons ( ) lemma=yodler 
+ yodleront ( ) lemma=yodler 
+ yodles ( ) lemma=yodler 
+ yodleur ( ) 
+ yodleurs ( ) lemma=yodleur 
+ yodleuse ( ) lemma=yodleur 
+ yodleuses ( ) lemma=yodleur 
+ yodlez ( ) lemma=yodler 
+ yodliez ( ) lemma=yodler 
+ yodlions ( ) lemma=yodler 
+ yodlons ( ) lemma=yodler 
+ yodlâmes ( ) lemma=yodler 
+ yodlât ( ) lemma=yodler 
+ yodlâtes ( ) lemma=yodler 
+ yodlèrent ( ) lemma=yodler 
+ yodlé ( ) lemma=yodler 
+ yodlée ( ) 
+ yodlées ( ) lemma=yodlée 
+ yodlés ( ) lemma=yodler 
+ yods ( ) lemma=yod 
+ yoga ( ) 
+ yogas ( ) lemma=yoga 
+ yoghourt ( ) 
+ yoghourts ( ) lemma=yoghourt 
+ yogi ( ) 
+ yogique ( ) 
+ yogiques ( ) lemma=yogique 
+ yogis ( ) lemma=yogi 
+ yogisme ( ) 
+ yogismes ( ) lemma=yogisme 
+ yogourt ( ) 
+ yogourts ( ) lemma=yogourt 
+ yohimbehe ( ) 
+ yohimbehes ( ) lemma=yohimbehe 
+ yohimbine ( ) 
+ yohimbines ( ) lemma=yohimbine 
+ yole ( ) 
+ yoles ( ) lemma=yole 
+ yorkshire-terrier ( ) 
+ yorkshire-terriers ( ) lemma=yorkshire-terrier 
+ yoruba ( ) 
+ yorubas ( ) lemma=yoruba 
+ youde ( ) 
+ youdes ( ) lemma=youde 
+ yougoslave ( ) 
+ yougoslaves ( ) lemma=yougoslave 
+ youp ( ) 
+ youpi ( ) 
+ youpin ( ) 
+ youpine ( ) lemma=youpin 
+ youpines ( ) lemma=youpin 
+ youpins ( ) lemma=youpin 
+ yourte ( ) 
+ yourtes ( ) lemma=yourte 
+ youtre ( ) 
+ youtres ( ) lemma=youtre 
+ youyou ( ) 
+ youyous ( ) lemma=youyou 
+ yoyota ( ) lemma=yoyoter 
+ yoyoter ( ) 
+ yoyotai ( ) lemma=yoyoter 
+ yoyotaient ( ) lemma=yoyoter 
+ yoyotais ( ) lemma=yoyoter 
+ yoyotait ( ) lemma=yoyoter 
+ yoyotant ( ) lemma=yoyoter 
+ yoyotas ( ) lemma=yoyoter 
+ yoyotasse ( ) lemma=yoyoter 
+ yoyotassent ( ) lemma=yoyoter 
+ yoyotasses ( ) lemma=yoyoter 
+ yoyotassiez ( ) lemma=yoyoter 
+ yoyotassions ( ) lemma=yoyoter 
+ yoyote ( ) lemma=yoyoter 
+ yoyotent ( ) lemma=yoyoter 
+ yoyotera ( ) lemma=yoyoter 
+ yoyoterai ( ) lemma=yoyoter 
+ yoyoteraient ( ) lemma=yoyoter 
+ yoyoterais ( ) lemma=yoyoter 
+ yoyoterait ( ) lemma=yoyoter 
+ yoyoteras ( ) lemma=yoyoter 
+ yoyoterez ( ) lemma=yoyoter 
+ yoyoteriez ( ) lemma=yoyoter 
+ yoyoterions ( ) lemma=yoyoter 
+ yoyoterons ( ) lemma=yoyoter 
+ yoyoteront ( ) lemma=yoyoter 
+ yoyotes ( ) lemma=yoyoter 
+ yoyotez ( ) lemma=yoyoter 
+ yoyotiez ( ) lemma=yoyoter 
+ yoyotions ( ) lemma=yoyoter 
+ yoyotons ( ) lemma=yoyoter 
+ yoyotâmes ( ) lemma=yoyoter 
+ yoyotât ( ) lemma=yoyoter 
+ yoyotâtes ( ) lemma=yoyoter 
+ yoyotèrent ( ) lemma=yoyoter 
+ yoyoté ( ) lemma=yoyoter 
+ yoyotée ( ) lemma=yoyoter 
+ yoyotées ( ) lemma=yoyoter 
+ yoyotés ( ) lemma=yoyoter 
+ yponomeute ( ) 
+ yponomeutes ( ) lemma=yponomeute 
+ ypréau ( ) 
+ ypréaux ( ) lemma=ypréau 
+ ypérite ( ) 
+ ypérites ( ) lemma=ypérite 
+ ypérité ( ) 
+ ypéritée ( ) lemma=ypérité 
+ ypéritées ( ) lemma=ypérité 
+ ypérités ( ) lemma=ypérité 
+ ysopet ( ) 
+ ysopets ( ) lemma=ysopet 
+ ytterbine ( ) 
+ ytterbines ( ) lemma=ytterbine 
+ ytterbium ( ) 
+ ytterbiums ( ) lemma=ytterbium 
+ yttria ( ) 
+ yttrialite ( ) 
+ yttrialites ( ) lemma=yttrialite 
+ yttrias ( ) lemma=yttria 
+ yttrifère ( ) 
+ yttrifères ( ) lemma=yttrifère 
+ yttrique ( ) 
+ yttriques ( ) lemma=yttrique 
+ yttrium ( ) 
+ yttriums ( ) lemma=yttrium 
+ yttrié ( ) 
+ yttriée ( ) lemma=yttrié 
+ yttriées ( ) lemma=yttrié 
+ yttriés ( ) lemma=yttrié 
+ yu ( ) 
+ yuan ( ) 
+ yuans ( ) lemma=yuan 
+ yucca ( ) 
+ yuccas ( ) lemma=yucca 
+ yuppie ( ) 
+ yuppies ( ) lemma=yuppie 
+ yus ( ) lemma=yu 
+ yèble ( ) 
+ yèbles ( ) lemma=yèble 
+ yé-yé ( ) 
+ yé-yés ( ) lemma=yé-yé 
+ yéménite ( ) 
+ yéménites ( ) lemma=yéménite 

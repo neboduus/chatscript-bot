@@ -1,0 +1,142 @@
+topic: ~coping repeat keep []
+
+
+u: INTRO ($coping_f=0 * ~topic_adattamento *)
+	if ($coping_data_collector==5){
+		^preprint( \[ proseguiamo,fermiamoci \] )
+		Ti starai chiedendo cosa significa strategia di adattamento. La strategia di adattamento e' uno strumento usato
+		per aiutare le persone a sentirsi meglio, combattere lo stress e adirittura per dormire meglio 😴. E' molto importante per il tuo benessere. E sei molto fortunato,
+		perché sono molto bravo in questo! 🙂👍
+	}else{
+		# setto lo stato per la raccolta dati
+		# dovremo controllare se i dati sono stati gia' raccolti e se lo sono non ha senso di andare su 
+		# quel topic se non su esplicita richiesta dell'utente
+		$coping_data_collector=0
+		^addtopic(~coping_data_collector)
+		^respond(~coping_data_collector)
+	}
+
+
+u: MENU ($menu=0 * ~go_on *)
+	^preprint( \[ nutrizione,fitness,consapevolezza \] )
+	In questo topic sono in grado di darti consigli utili riguardanti 🌮 "Nutrizione", 🏋🏼️‍♀️ "Fitness" e 🤔 "Consapevolezza".
+	Su quale tra questi argomenti vorresti ricevere un consiglio?
+	$menu=1
+
+
+u: NUTRITION ($menu=1 * ~nutrizione * )
+	^preprint( \[ ancora,basta \] )
+	# qui si potrebbe semplicemente fare una chiamata a delle API che ti danno un consiglio sulla nutrizione
+	# oppure semplicemente dal nostro remote DB e raccogliere un consiglio in base alle sue caratteristiche
+
+	[Le fibre rallentano la digestione e ti fanno sentire sazio piu' a lungo. 
+	Adulti sani dobvrebbero mirare a mangiare 25 grammi di fibra al giorno]
+
+	[Evitare i carboidrati al mattino per prevenire rapidi cambiamenti di zucchero nel sangue]
+
+	[LO SAPEVI? Un bagel standard e' equivalente a 3-4 fette di pane.]
+
+	[Il tonno e' un'ottima fonte di vitamina B12, selenio, vitamina B3 (niacina) e proteine ​​- circa 20 grammi di proteine ​​per 3 once.]
+
+	[LO SAPEVI? Una lattina di Coca Cola ha 27 grammi di zucchero - che e' quasi di 
+	piu' della quantita' totale di zucchero che si dovrebbe assumere in un giorno!]
+
+	Ne vuoi sentire un'altro?
+	$menu=2
+
+
+u: FITNESS ($menu=1 * ~fitness * )
+	^preprint( \[ ancora,basta \] )
+	[Esercizi completi di corpo come la corsa o il burpee sono le forme piu' efficaci di esercizi 
+	perche' impegnano piu' muscoli contemporaneamente in poco tempo - piu' gruppi muscolari si 
+	impegnano, maggiore e' la bruciatura di calorie.]
+
+	[L'allenamento a intervalli ad alta intensita' (High intensity interval training - HIIT) induce il 
+	tuo corpo a continuare a bruciare calorie ben dopo l'allenamento. Cio' significa fino a 38 ore dopo 
+	l'esercizio si sta ancora bruciando piu' calorie!]
+
+	[Pensate di non avere il tempo di esercitare? Un breve esercizio fisico intenso che coinvolge intervalli 
+	di sprint corti e' piu' efficace per bruciare di grassi e per aumentare il metabolismo rispetto ad un lungo 
+	allenamento ad un ritmo costante. Dovresti iniziare subito!]
+
+	[L'esercizio della plancia e' uno dei modi migliori per ottenere uno stomaco tonico, ma migliora anche la 
+	postura e l'equilibrio, oltre a sparare i glutei e le ginocchia.]
+
+	[Fare 5.000 passi o meno e' considerato sedentario. Inizia a muoverti!]
+
+	[Evitare un allenamento duro prima del letto perché questo potrebbe rendere piu' difficile addormentarsi. 
+	Aspettare 2-3 ore dopo l'allenamento per dormire.]
+
+	Ne vuoi sentire un'altro?
+	$menu=3
+
+
+u: MINDFULLNESS ($menu=1 * ~consapevolezza *)
+	^preprint( \[ ancora,basta \] )
+	[Gli studi hanno dimostrato che solo brevi esercizi durante il giorno possono aiutare con l'attenzione. 
+	Poniti come obiettivo di fare una passeggiata di quindici minuti a pranzo per aumentare l'energia per il pomeriggio.]
+
+	[L'igiene del buon sonno include la limitazione dei pisolinidiurni a 20-30 minuti. Un sonno piu' a lungo puo' causare fastidio 
+	dopo la veglia e problemi di addormentarsi al momento di coricarsi.]
+
+	[Gli studi hanno scoperto che i livelli elevati di stress sul lavoro portano a una minore produttivita', 
+	un minor impegno e un maggior numero di assenti - un altro motivo per mantenere i livelli di stress in controllo soprattutto nel luogo di lavoro.]
+
+	[La consapevolezza ci permette di fare delle scelte migliori. Quando la mente comincia a vagare in situazioni stressanti, 
+	rende piu' difficile pensare chiaramente e teniamo a reagire piuttosto che a riflettere.]
+
+	[Quando pratichi la mente con il tuo allenamento e metti tutta la tua attenzione sul tuo movimento e forma, 
+	questo migliorera' la qualita' dell'esercitazione eseguita.]
+
+	[Il vero apprendimento consapevole sta nel ascoltare il nostro corpo per veri segnali di fame. 
+	Troppo spesso mangiamo da segnali emozionali piuttosto che dalla fame fisica reale.]
+
+	[Se durante la notte ti sei svegliato e dopo 15 minuti non riesci piu' ad addormentarti, alzati dal letto e vai in un'altra stanza. 
+	Cio' contribuira' a impedire l'associazione del letto con insonnia.]
+
+	Ne vuoi sentire ancora?
+	$menu=4
+
+u: ($menu=3 * ancora *)
+	$menu=1
+	^reuse(FITNESS)
+
+u: ($menu=2 * ancora * )
+	$menu=1
+	^reuse(NUTRITION)
+
+u: ($menu=2 * ancora * )
+	$menu=1
+	^reuse(MINDFULLNESS)
+
+
+# per il basta faccio un unica regola
+
+# devo fare in modo che lui possa richiedere altri consigli invece che uscire dal topic
+u: (* ~stop_here *)
+	$menu=0
+	🙈 Va bene, decidi tu capo di cosa parliamo 😁😆 Io vado a lavarmi i denti 😁😁 quando cambi
+    idea vieni qui e chidimi di parlare di \" strategie di adattamento \" . Io resto qui ad aspattarti. A dopo!
+    ^addtopic(~root)
+    ^respond(~root)
+
+u: DEFAULT ()
+	# controllo in che stato era rimasto l utente ed in base a questo lo rimando alla regola piu' adatta
+	# in questo caso lo stato non è altro che il menu al quale era rimasto in questo topic
+	Penso di non aver capito bene cosa intendevi.. Vediamo se mi ricordo dove eravamo rimasti..
+	if ($menu==0){
+		$coping_f=0
+		^reuse(INTRO)
+	}else if ($menu==1){
+		$menu=0
+		^reuse(MENU)
+	}else if ($menu==2){
+		Ah si stavamo parlando di "Nutrizione", vuoi sentire altri consigli?
+		^preprint( \[ ancora,basta \] )
+	}else if ($menu==3){
+		Ah si stavamo parlando di "Fitness", vuoi sentire altri consigli?
+		^preprint( \[ ancora,basta \] )
+	}else if ($menu==4){
+		Ah si stavamo parlando di "Consapevolezza", vuoi sentire altri consigli?
+		^preprint( \[ ancora,basta \] )
+	}

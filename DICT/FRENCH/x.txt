@@ -1,0 +1,293 @@
+﻿ XL ( ) 
+ XXVIIe ( ) 
+ XXXIII ( ) 
+ X ( ) 
+ XC ( ) 
+ XCI ( ) 
+ XCII ( ) 
+ XCIII ( ) 
+ XCIIIe ( ) 
+ XCIIe ( ) 
+ XCIV ( ) 
+ XCIVe ( ) 
+ XCIX ( ) 
+ XCIXe ( ) 
+ XCIe ( ) 
+ XCV ( ) 
+ XCVI ( ) 
+ XCVII ( ) 
+ XCVIII ( ) 
+ XCVIIIe ( ) 
+ XCVIIe ( ) 
+ XCVIe ( ) 
+ XCVe ( ) 
+ XCe ( ) 
+ XI ( ) 
+ XII ( ) 
+ XIII ( ) 
+ XIIIe ( ) 
+ XIIe ( ) 
+ XIV ( ) 
+ XIVe ( ) 
+ XIX ( ) 
+ XIXe ( ) 
+ XIe ( ) 
+ XLI ( ) 
+ XLII ( ) 
+ XLIII ( ) 
+ XLIIIe ( ) 
+ XLIIe ( ) 
+ XLIV ( ) 
+ XLIVe ( ) 
+ XLIX ( ) 
+ XLIXe ( ) 
+ XLIe ( ) 
+ XLV ( ) 
+ XLVI ( ) 
+ XLVII ( ) 
+ XLVIII ( ) 
+ XLVIIIe ( ) 
+ XLVIIe ( ) 
+ XLVIe ( ) 
+ XLVe ( ) 
+ XLe ( ) 
+ XV ( ) 
+ XVI ( ) 
+ XVII ( ) 
+ XVIII ( ) 
+ XVIIIe ( ) 
+ XVIIe ( ) 
+ XVIe ( ) 
+ XVe ( ) 
+ XX ( ) 
+ XXI ( ) 
+ XXII ( ) 
+ XXIII ( ) 
+ XXIIIe ( ) 
+ XXIIe ( ) 
+ XXIV ( ) 
+ XXIVe ( ) 
+ XXIX ( ) 
+ XXIXe ( ) 
+ XXIe ( ) 
+ XXV ( ) 
+ XXVI ( ) 
+ XXVII ( ) 
+ XXVIII ( ) 
+ XXVIIIe ( ) 
+ XXVIe ( ) 
+ XXVe ( ) 
+ XXX ( ) 
+ XXXI ( ) 
+ XXXII ( ) 
+ XXXIIIe ( ) 
+ XXXIIe ( ) 
+ XXXIV ( ) 
+ XXXIVe ( ) 
+ XXXIX ( ) 
+ XXXIXe ( ) 
+ XXXIe ( ) 
+ XXXV ( ) 
+ XXXVI ( ) 
+ XXXVII ( ) 
+ XXXVIII ( ) 
+ XXXVIIIe ( ) 
+ XXXVIIe ( ) 
+ XXXVIe ( ) 
+ XXXVe ( ) 
+ XXXe ( ) 
+ XXe ( ) 
+ Xavier ( ) 
+ Xavière ( ) 
+ Xe ( ) 
+ Xerxès ( ) 
+ Xii ( ) 
+ Xiv ( ) 
+ Xv ( ) 
+ Xvi ( ) 
+ Xviii ( ) 
+ x-ographie ( ) 
+ x-ographies ( ) lemma=x-ographie 
+ xancus ( ) 
+ xanthate ( ) 
+ xanthates ( ) lemma=xanthate 
+ xanthie ( ) 
+ xanthies ( ) lemma=xanthie 
+ xanthine ( ) 
+ xanthines ( ) lemma=xanthine 
+ xanthinique ( ) 
+ xanthiniques ( ) lemma=xanthinique 
+ xanthique ( ) 
+ xanthiques ( ) lemma=xanthique 
+ xanthochromie ( ) 
+ xanthochromies ( ) lemma=xanthochromie 
+ xanthogénate ( ) 
+ xanthogénates ( ) lemma=xanthogénate 
+ xanthogénique ( ) 
+ xanthogéniques ( ) lemma=xanthogénique 
+ xanthomatose ( ) 
+ xanthomatoses ( ) lemma=xanthomatose 
+ xanthome ( ) 
+ xanthomes ( ) lemma=xanthome 
+ xanthophylle ( ) 
+ xanthophylles ( ) lemma=xanthophylle 
+ xanthopsie ( ) 
+ xanthopsies ( ) lemma=xanthopsie 
+ xanthène ( ) 
+ xanthènes ( ) lemma=xanthène 
+ xanthélasma ( ) 
+ xanthélasmas ( ) lemma=xanthélasma 
+ xantiques ( ) 
+ xatardie ( ) 
+ xatardies ( ) lemma=xatardie 
+ xi ( ) 
+ ximénie ( ) 
+ ximénies ( ) lemma=ximénie 
+ xipho ( ) 
+ xiphodynie ( ) 
+ xiphodynies ( ) lemma=xiphodynie 
+ xiphophore ( ) 
+ xiphophores ( ) lemma=xiphophore 
+ xiphos ( ) lemma=xipho 
+ xiphoïde ( ) 
+ xiphoïdes ( ) lemma=xiphoïde 
+ xiphoïdien ( ) 
+ xiphoïdienne ( ) lemma=xiphoïdien 
+ xiphoïdiennes ( ) lemma=xiphoïdien 
+ xiphoïdiens ( ) lemma=xiphoïdien 
+ xiphoïdite ( ) 
+ xiphoïdites ( ) lemma=xiphoïdite 
+ xir ( ) 
+ xirs ( ) lemma=xir 
+ xis ( ) lemma=xi 
+ xième ( ) 
+ xièmes ( ) lemma=xième 
+ xoaniforme ( ) 
+ xoaniformes ( ) lemma=xoaniforme 
+ xoanisant ( ) 
+ xoanisante ( ) lemma=xoanisant 
+ xoanisantes ( ) lemma=xoanisant 
+ xoanisants ( ) lemma=xoanisant 
+ xoanon ( ) 
+ xoanons ( ) lemma=xoanon 
+ xylane ( ) 
+ xylanes ( ) lemma=xylane 
+ xylidine ( ) 
+ xylidines ( ) lemma=xylidine 
+ xylin ( ) 
+ xyline ( ) lemma=xylin 
+ xylines ( ) lemma=xylin 
+ xylins ( ) lemma=xylin 
+ xylite ( ) 
+ xylites ( ) lemma=xylite 
+ xylobie ( ) 
+ xylobies ( ) lemma=xylobie 
+ xylochimie ( ) 
+ xylochimies ( ) lemma=xylochimie 
+ xylocope ( ) 
+ xylocopes ( ) lemma=xylocope 
+ xylofer ( ) 
+ xylofers ( ) lemma=xylofer 
+ xylographe ( ) 
+ xylographes ( ) lemma=xylographe 
+ xylographie ( ) 
+ xylographies ( ) lemma=xylographie 
+ xylographique ( ) 
+ xylographiques ( ) lemma=xylographique 
+ xylol ( ) 
+ xylols ( ) lemma=xylol 
+ xylolâtrie ( ) 
+ xylolâtries ( ) lemma=xylolâtrie 
+ xylophage ( ) 
+ xylophages ( ) lemma=xylophage 
+ xylophagie ( ) 
+ xylophagies ( ) lemma=xylophagie 
+ xylophone ( ) 
+ xylophones ( ) lemma=xylophone 
+ xylophoniste ( ) 
+ xylophonistes ( ) lemma=xylophoniste 
+ xylophène ( ) 
+ xylophènes ( ) lemma=xylophène 
+ xylose ( ) 
+ xyloses ( ) lemma=xylose 
+ xylème ( ) 
+ xylèmes ( ) lemma=xylème 
+ xylène ( ) 
+ xylènes ( ) lemma=xylène 
+ xylénol ( ) 
+ xylénols ( ) lemma=xylénol 
+ xyste ( ) 
+ xystes ( ) lemma=xyste 
+ xénarthres ( ) 
+ xénie ( ) 
+ xénies ( ) lemma=xénie 
+ xénisme ( ) 
+ xénismes ( ) lemma=xénisme 
+ xéno-test ( ) 
+ xéno-tests ( ) lemma=xéno-test 
+ xénobiose ( ) 
+ xénobioses ( ) lemma=xénobiose 
+ xénobiotique ( ) 
+ xénobiotiques ( ) lemma=xénobiotique 
+ xénoglossie ( ) 
+ xénoglossies ( ) lemma=xénoglossie 
+ xénogreffe ( ) 
+ xénogreffes ( ) lemma=xénogreffe 
+ xénogénique ( ) 
+ xénogéniques ( ) lemma=xénogénique 
+ xénon ( ) 
+ xénons ( ) lemma=xénon 
+ xénoparasitisme ( ) 
+ xénoparasitismes ( ) lemma=xénoparasitisme 
+ xénophile ( ) 
+ xénophiles ( ) lemma=xénophile 
+ xénophilie ( ) 
+ xénophilies ( ) lemma=xénophilie 
+ xénophobe ( ) 
+ xénophobes ( ) lemma=xénophobe 
+ xénophobie ( ) 
+ xénophobies ( ) lemma=xénophobie 
+ xénophonie ( ) 
+ xénophonies ( ) lemma=xénophonie 
+ xénoplastique ( ) 
+ xénoplastiques ( ) lemma=xénoplastique 
+ xénopus ( ) 
+ xénotrope ( ) 
+ xénotropes ( ) lemma=xénotrope 
+ xénotropisme ( ) 
+ xénotropismes ( ) lemma=xénotropisme 
+ xénélasie ( ) 
+ xénélasies ( ) lemma=xénélasie 
+ xéranthème ( ) 
+ xéranthèmes ( ) lemma=xéranthème 
+ xérique ( ) 
+ xériques ( ) lemma=xérique 
+ xéro-radiographie ( ) 
+ xéro-radiographies ( ) lemma=xéro-radiographie 
+ xérocopie ( ) 
+ xérocopies ( ) lemma=xérocopie 
+ xérodermie ( ) 
+ xérodermies ( ) lemma=xérodermie 
+ xérographie ( ) 
+ xérographies ( ) lemma=xérographie 
+ xérographique ( ) 
+ xérographiques ( ) lemma=xérographique 
+ xérophagie ( ) 
+ xérophagies ( ) lemma=xérophagie 
+ xérophile ( ) 
+ xérophiles ( ) lemma=xérophile 
+ xérophtalmie ( ) 
+ xérophtalmies ( ) lemma=xérophtalmie 
+ xérophtalmique ( ) 
+ xérophtalmiques ( ) lemma=xérophtalmique 
+ xérophyte ( ) 
+ xérophytes ( ) lemma=xérophyte 
+ xérophytique ( ) 
+ xérophytiques ( ) lemma=xérophytique 
+ xérose ( ) 
+ xéroses ( ) lemma=xérose 
+ xérosis ( ) 
+ xérostomie ( ) 
+ xérostomies ( ) lemma=xérostomie 
+ xérus ( ) 
+ xérès ( ) 

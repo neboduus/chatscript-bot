@@ -1,0 +1,37 @@
+﻿ Yasser ( ) 
+ Yitzhak ( ) 
+ York ( ) 
+ Young ( ) 
+ Yves ( ) 
+ yacht ( ) 
+ yankee ( ) 
+ yankees ( ) lemma=yankee 
+ yeah ( ) 
+ yehhhhhhhh ( ) 
+ yemenita ( ) lemma=yemenito 
+ yemenito ( ) 
+ yemenite ( ) lemma=yemenito 
+ yemeniti ( ) lemma=yemenito 
+ yemenitissima ( ) lemma=yemenito 
+ yemenitissime ( ) lemma=yemenito 
+ yemenitissimi ( ) lemma=yemenito 
+ yemenitissimo ( ) lemma=yemenito 
+ yen ( ) 
+ yiddish ( ) 
+ yoga ( ) lemma=yogo 
+ yogo ( ) 
+ yoghe ( ) lemma=yogo 
+ yoghi ( ) lemma=yogo 
+ yoghissima ( ) lemma=yogo 
+ yoghissime ( ) lemma=yogo 
+ yoghissimi ( ) lemma=yogo 
+ yoghissimo ( ) lemma=yogo 
+ yogurt ( ) 
+ yuppi ( ) 
+ yuppie ( ) 
+ yuppies ( ) lemma=yuppy 
+ yuppy ( ) 
+ yuppismi ( ) lemma=yuppismo 
+ yuppismo ( ) 
+ yurta ( ) 
+ yurte ( ) lemma=yurta 

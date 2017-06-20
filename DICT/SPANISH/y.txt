@@ -1,0 +1,105 @@
+﻿ Y ( ) 
+ YY ( ) 
+ Yamagué ( ) 
+ Yeltsin ( ) 
+ Yemen ( ) 
+ Yens ( ) 
+ Yique ( ) 
+ Yiña ( ) 
+ Ymodem ( ) 
+ Yolanda ( ) 
+ Yompe ( ) 
+ Yonatán ( ) 
+ York ( ) 
+ Yosemite ( ) 
+ Young ( ) 
+ Yucatán ( ) 
+ Yugoslavia ( ) 
+ Yugov ( ) 
+ Yuri ( ) 
+ Yuvia ( ) 
+ Yvancho ( ) 
+ yo ( ) 
+ y ( ) 
+ y-carboxilación ( ) 
+ y-o ( ) 
+ ya ( ) 
+ ya_que ( ) lemma=ya~que 
+ ya~que ( ) 
+ yace ( ) lemma=yacer 
+ yacer ( ) 
+ yacen ( ) lemma=yacer 
+ yacimiento ( ) 
+ yacimientos ( ) lemma=yacimiento 
+ yacía ( ) lemma=yacer 
+ yacían ( ) lemma=yacer 
+ yanqui ( ) 
+ yanquilandia ( ) 
+ yanquis ( ) lemma=yanqui 
+ yapa ( ) 
+ yarda ( ) 
+ yardas ( ) lemma=yarda 
+ yate ( ) 
+ yates ( ) lemma=yate 
+ yatrogénico ( ) 
+ yatrógenos ( ) lemma=yatrógeno 
+ yatrógeno ( ) 
+ yay ( ) 
+ yayay ( ) 
+ yeah ( ) 
+ yema ( ) 
+ yemas ( ) lemma=yema 
+ yemenita ( ) 
+ yemenitas ( ) lemma=yemenita 
+ yemení ( ) 
+ yemeníes ( ) lemma=yemení 
+ yen ( ) 
+ yendo ( ) lemma=ir 
+ yenes ( ) lemma=yen 
+ yerba ( ) 
+ yerbas ( ) lemma=yerba 
+ yerma ( ) lemma=yermar 
+ yermar ( ) 
+ yermas ( ) lemma=yermar 
+ yermo ( ) 
+ yermos ( ) lemma=yermo 
+ yerno ( ) 
+ yernos ( ) lemma=yerno 
+ yerro ( ) lemma=errar 
+ yeso ( ) 
+ yesos ( ) lemma=yeso 
+ yeyunal ( ) 
+ yeyuno ( ) 
+ yiak ( ) 
+ yodado ( ) lemma=yodar 
+ yodar ( ) 
+ yodados ( ) lemma=yodar 
+ yodo ( ) 
+ yodurada ( ) lemma=yodurar 
+ yodurar ( ) 
+ yogur ( ) 
+ yogures ( ) lemma=yogur 
+ yola ( ) 
+ yorkvml ( ) 
+ you ( ) 
+ young ( ) 
+ yubarta ( ) 
+ yucateca ( ) lemma=yucateco 
+ yucateco ( ) 
+ yucatecos ( ) lemma=yucateco 
+ yugo ( ) 
+ yugoslava ( ) lemma=yugoslavo 
+ yugoslavo ( ) 
+ yugoslavas ( ) lemma=yugoslavo 
+ yugoslavos ( ) lemma=yugoslavo 
+ yugular ( ) 
+ yugulares ( ) lemma=yugular 
+ yunque ( ) 
+ yunyún ( ) 
+ yuxtacapilare ( ) 
+ yuxtaglomerular ( ) 
+ yuyo ( ) 
+ yéndome ( ) lemma=ir 
+ yéndonos ( ) lemma=ir 
+ yéndose ( ) lemma=ir 
+ yéndote ( ) lemma=ir 

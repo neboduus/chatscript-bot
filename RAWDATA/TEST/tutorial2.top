@@ -1,0 +1,224 @@
+topic: ~root keep repeat []
+
+t: Ciao sono un Bot. Se vuoi chattare con me digita una delle opzioni: salute, fitness, consapevolezza.
+u: ( * intro *) ^respond(~intro)
+u: ( * salute * ) ^respond(~HEALTH)
+u: ( * [fitness palestra] * ) ^respond(~FITNESS)
+u: ( * [consapevolezza mindfullness] * ) ^respond(~MINDFULLNESS)
+
+
+topic: ~introductions repeat keep []
+
+# welcome gambit
+t: [Ciao][Ola][Buongiorno], sono Blackmores Well Bot e sono qui 
+    per aiutarti con il tuo benessere e farti sentire al tuo meglio. 
+    Puoi pensare a me come ad un personal Trainer. 
+    $intro=done
+
+
+t: CHANCHE ()  [Ti va di sentire di più] [Ho da raccontarti un sacco di cose utili, Le vuoi sentire]
+                [Sono un bot potentissimo, vuoi sentire tutto quello che posso fare] ?
+  a: (~yes) 
+    Ottimo allora iniziamo.
+  a: (~no) 
+    Cosa non ti convince?
+    ^reuse(CHANCHE)
+
+t: Di cosa stavamo parlando? A si. Stavo dicendo.. 
+    Parlo anche 2 lingue diverse, Italiano ed Emoji. Prima di 
+    spiegarti di più su di me abbiamo bisogno che accetti i nostri 
+    termini e condizioni d'uso del servizio (http:\\www.bot.it\terms) 
+    e la nostra politica sulla riservatezza dei dati (http:\\www.bot.it\privacy) 
+
+t: AGREE_TERMS ()  Accetti le nostre condizioni?
+
+  a: (~yes) 
+    Ottimo! Allora possiamo andare oltre.
+  a: (~no) 
+    Se non accetti le nostre condizioni non potrai usufruire del servizio.
+    ^reuse(AGREE_TERMS)
+
+
+t: ASK_NAME () Come ti chiami?
+  
+  a: (_*)
+    Quindi ti chiami \" '_0 \". Ho capito bene?
+    $maybe_username = '_0
+    b: (~yes)
+      Bel nome, $maybe_username.
+      $username = $maybe_username
+    b: (~no) 
+      ^reuse(ASK_NAME)
+    b: (*)
+      ^reuse(ASK_NAME)
+
+t: ASK_EMAIL () [Mi diresti anche la tua mail] [Qual è il tuo indirizzo email]?
+  
+  a: (_*)
+    Quindi il tuo indirizzo email è \" '_0 \"?
+    $maybe_email = '_0
+    b: (~yes)
+      Ottimo, email salvata.
+      $email = $maybe_email
+    b: (~no) 
+      ^reuse(ASK_EMAIL)
+    b: (*)
+      ^reuse(ASK_EMAIL)
+
+t: ASK_CHATHEALTH () Fino a qui tutto bene! Chattare con te è uno spasso!
+  Io sono un allenatore della salute che ne dici di parlare di salute?
+
+  a: (~yes) 
+    ^respond(~HEALTH)
+  a: (~no) 
+    Quando vuoi parlare di salute basta che scrivi.. salute
+
+topic: ~HEALTH [salute "parliamo di salute"]
+
+t: Ti potrei aiutare con qualche consiglio utile. 
+    Cosa significano per te benessere e salute?
+    Scrivi una tra le opzioni: mangiare bene, essere attivi, sentirsi rilassati, 
+    avere un buon aspetto, dimmelo tu.
+    a: (mangiare bene) 
+      
+    a: (essere attivi) 
+      
+    a: (sentirsi rilassati)
+
+    a: (buon aspetto)
+      
+    a: (dimmelo tu)
+      
+
+t: Immaggino che tu ti chieda che cosa significa nutrizione.
+    In linea generale, è il modo in cui il nostro corpo usa e 
+    reagisce a quello che mangiamo. Possiamo usare la nutrizione per 
+    far sì che il nostro corpo stia sempre al meglio.
+
+t: $username, come definiresti le tue abitudini alimentari.
+  Scrivi un'opzione tra: super sane, abbastanza buone, normali, 
+  bisogno di una regolata, codice rosso.
+    
+    a: (super sane) 
+      Mi fa contento che sei una persona con buone abitudini.
+      Ti posso aiutare a mantenerle tali.
+      $nutritional_state = 1
+    a: (abbastanza buone) 
+      Delle buone abitudini alimentari significano molto per una
+      vita sana ed equilibrata. Possiamo migliorarle ulteriormente insieme.
+      $nutritional_state = 2
+    a: (normali)
+      Le risposte così generiche a volte sono pericolose, forse c'è bisogno
+      di pensarci un pò. Io comunque sono in grado di aiutare a seguire uno
+      stile di vita sano ed adeguato.
+      $nutritional_state = 3
+    a: (bisogno regolata)
+      Sei capitato nel posto giusto. Insieme possiamo migliorare il tuo stile 
+      di vita. Ho delle conoscenze molto avanzate e tanti consigli facili da 
+      mettere in prattica ma con un'utilità mostruosa.
+      $nutritional_state = 4
+    a: (codice rosso)
+      Uno stile di vita sregolato e delle brutte abitudini alimentari portano ad 
+      accumulo di stress e stanchezza. Inoltre spesso questo è alla base di malattie
+      di vario tipo. Ti posso aiutare a riprendere in mano il tuo stile di vita alimentare
+      e tornare una persona sana e atletica.
+      $nutritional_state = 5
+
+t: ASK_WATER () Mi potresti dire quanta acqua bevi al giorno? In litri.
+  
+  a: (_~noun_number)
+    $water = '_0
+    Quindi bevi _0 litri d'acqua al giorno.
+    if ($water<0.0){
+      Spiritoso! 
+      ^reuse(ASK_WATER)
+    }
+    if($water >= 0.0 AND $water <= 1.0){
+      Molto male! Dovresti bere almeno 2 litri.
+    }
+    if($water >= 1.0 AND $water <= 2.0){
+      Dovresti bere almeno 2 litri.
+    }
+    if($water >= 2.0 ){
+      Bene!
+    }
+    
+    
+t: FRUITS_VEGS () E quanta frutta e verdura mangi al giorno? 
+  
+  a: (_~noun_number)
+    $fruits_vegs = '_0
+    if(^isnumber($fruits_vegs)){
+      if($fruits_vegs < 0){
+        Ahah che burlone! Quindi mangi $fruits_vegs verdure/frutta
+        al giorno. Sei proprio simpatico! Adesso seriamente.
+        ^reuse(FRUITS_VEGS)
+      }else{
+        if($fruits_vegs == 0){
+          Mmmmh.. Lo sapiamo entrambi che questa non è una buona abitudine. 
+          Cercheremo di migliorarla!
+        }else{
+          Ok quindi mangi $fruits_vegs frutta/verdure al giorno. Io posso
+          aiutarti nel mantenerti sempre in forma e mangiare sempre bene.
+          Sopratutto la frutta e la verdura che è molto importante!
+        }
+      }
+    }else{
+      Per favore inserisci un numero!
+      ^reuse(FRUITS_VEGS)
+    }
+    
+
+t: Tutto questo parlare di cibo mi ha fatto venire fame.
+    Come è il tuo livello di energia? Scegli un opzione tra: 
+    basso, medio, alto.
+
+    a: (basso)
+      Ottimo Lavoro!
+      $energy_level = 0
+    a: (medio)
+      Ottimo Lavoro!
+      $energy_level = 1
+    a: (alto)
+      Ottimo Lavoro!
+      $energy_level = 2
+
+t: Possiamo fare meglio di così. Giusto? Fammi pensare cosa sarebbe meglio per te... 
+    Ok, ho trovato la cosa che fa al caso tuo, è un Piano d'Azione Nutrizionale per 
+    Principianti che ti aiuterà a mangiare meglio ed includere più frutta e verdura nella
+    tua dieta. Vuoi provarlo? 
+
+    a: (~yes)
+      Sto controllando i dati della tua email..
+    a: (~no)
+    a: (di più)
+
+t: Grazie! Ti farò sapere di più molto presto. Non dimenticare che puoi raccogliere degli extra 
+    al nostro negozio online Blackmoores. Fai delle buone spese \: \)
+    PS\: se vuoi chattare ancora sulla saute, basta che scrivi.. salute!
+    Adesso che abbiamo finito di parlare di salute possiamo parlare di qualsiasi cosa tu voglia.
+    Prova a scrivere qualcosa.
+
+topic: ~arguments_introduction  []
+
+t: Ti ho detto che sono un allenatore della salute??
+    Bhe lo sono \: \) . Che ne dici se ti dessi alcuni consigli
+    per tenere la tua salute sotto controllo?
+
+    a: (~yes)
+      L'ultima volta che abbiamo chattato abbiamo parlato di nutrizione, 
+      dovremmo parlare ancora di nutrizione? O preferisci parlare di qualcosa di nuovo?
+      b: ( * nutrizione * )
+        ^respond(HEALTH)
+      b: (["qualcosa di nuovo" nuovo altro "nuovo argomento" "di altro"])
+        Bene, ecco visto che sono un bot molto versatile \: \) con me puoi parlare
+        di varie cose, che sono: Fitness, Consapevolezza \( Mindfullness \), Salute \( Health \).
+        Scegli tu l'argomento.
+          c: ( * [ mindfullness consapevolezza] *)
+
+          c: ( * [fitness palestra] *)
+
+    a: (~no) 
+        ^respond(~arguments)
+
+  

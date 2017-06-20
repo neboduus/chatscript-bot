@@ -1,0 +1,540 @@
+﻿ 6 ( ) 
+ 6,2 ( ) 
+ 6,25 ( ) 
+ 6,3 ( ) 
+ 6,47 ( ) 
+ 6,5 ( ) 
+ 6,5fache ( ) lemma=6,5fach 
+ 6,5fach ( ) 
+ 6,6 ( ) 
+ 6,6-Millionen-Umbau ( ) 
+ 6,7 ( ) 
+ 6,7-Millionen-Projekt ( ) 
+ 6,71-m-Weitsprung ( ) 
+ 6- ( ) 
+ 6-Chef ( ) 
+ 6-Chefredakteur ( ) 
+ 6-Monoacetylmorphin ( ) 
+ 6-Motor ( ) 
+ 6-Stunden-Tag ( ) 
+ 6-TV ( ) 
+ 6-Tage ( ) lemma=6-Tag 
+ 6-Tag ( ) 
+ 6-Tage- ( ) 
+ 6-Tage-Krieg ( ) 
+ 6-Tage-Rennen ( ) 
+ 6-Tage-Rennens ( ) lemma=6-Tage-Rennen 
+ 6-Tage-Woche ( ) 
+ 6-Verlängerung ( ) 
+ 6-Zylinder ( ) 
+ 6-zu-0-Deckung ( ) 
+ 6. ( ) 
+ 6.000-Seelen- ( ) 
+ 6/1 ( ) 
+ 6/100 ( ) 
+ 6/101 ( ) 
+ 6/105 ( ) 
+ 6/106 ( ) 
+ 6/107 ( ) 
+ 6/109 ( ) 
+ 6/110 ( ) 
+ 6/111 ( ) 
+ 6/112 ( ) 
+ 6/115 ( ) 
+ 6/119 ( ) 
+ 6/120 ( ) 
+ 6/125 ( ) 
+ 6/129 ( ) 
+ 6/130 ( ) 
+ 6/132 ( ) 
+ 6/133 ( ) 
+ 6/135 ( ) 
+ 6/137 ( ) 
+ 6/140 ( ) 
+ 6/144 ( ) 
+ 6/145 ( ) 
+ 6/146 ( ) 
+ 6/150 ( ) 
+ 6/154 ( ) 
+ 6/155 ( ) 
+ 6/160 ( ) 
+ 6/161 ( ) 
+ 6/165 ( ) 
+ 6/170 ( ) 
+ 6/175 ( ) 
+ 6/180 ( ) 
+ 6/185 ( ) 
+ 6/187 ( ) 
+ 6/190 ( ) 
+ 6/194 ( ) 
+ 6/195 ( ) 
+ 6/1989 ( ) 
+ 6/1990 ( ) 
+ 6/1993 ( ) 
+ 6/2 ( ) 
+ 6/20 ( ) 
+ 6/200 ( ) 
+ 6/202 ( ) 
+ 6/205 ( ) 
+ 6/206 ( ) 
+ 6/207 ( ) 
+ 6/210 ( ) 
+ 6/215 ( ) 
+ 6/217 ( ) 
+ 6/218 ( ) 
+ 6/220 ( ) 
+ 6/224 ( ) 
+ 6/225 ( ) 
+ 6/227 ( ) 
+ 6/230 ( ) 
+ 6/233 ( ) 
+ 6/235 ( ) 
+ 6/240 ( ) 
+ 6/243 ( ) 
+ 6/245 ( ) 
+ 6/250 ( ) 
+ 6/253 ( ) 
+ 6/255 ( ) 
+ 6/260 ( ) 
+ 6/265 ( ) 
+ 6/270 ( ) 
+ 6/275 ( ) 
+ 6/279 ( ) 
+ 6/280 ( ) 
+ 6/284 ( ) 
+ 6/285 ( ) 
+ 6/288 ( ) 
+ 6/290 ( ) 
+ 6/295 ( ) 
+ 6/3 ( ) 
+ 6/300 ( ) 
+ 6/305 ( ) 
+ 6/309 ( ) 
+ 6/310 ( ) 
+ 6/315 ( ) 
+ 6/320 ( ) 
+ 6/325 ( ) 
+ 6/327 ( ) 
+ 6/330 ( ) 
+ 6/335 ( ) 
+ 6/340 ( ) 
+ 6/345 ( ) 
+ 6/350 ( ) 
+ 6/355 ( ) 
+ 6/360 ( ) 
+ 6/4 ( ) 
+ 6/40 ( ) 
+ 6/5 ( ) 
+ 6/50 ( ) 
+ 6/6 ( ) 
+ 6/60 ( ) 
+ 6/65 ( ) 
+ 6/7 ( ) 
+ 6/70 ( ) 
+ 6/75 ( ) 
+ 6/8 ( ) 
+ 6/80 ( ) 
+ 6/85 ( ) 
+ 6/86 ( ) 
+ 6/88 ( ) 
+ 6/89 ( ) 
+ 6/90 ( ) 
+ 6/91 ( ) 
+ 6/92 ( ) 
+ 6/93 ( ) 
+ 6/94 ( ) 
+ 6/95 ( ) 
+ 6/96 ( ) 
+ 6/97 ( ) 
+ 60 ( ) 
+ 60- ( ) 
+ 60-Grad-Regel ( ) 
+ 60-Jahr-Feier ( ) 
+ 60-Jahr-Feiern ( ) lemma=60-Jahr-feier 
+ 60-Jahr-feier ( ) 
+ 60-Jahr-Jubiläums ( ) lemma=60-Jahr-Jubiläum 
+ 60-Jahr-Jubiläum ( ) 
+ 60-Kilo-Mann ( ) 
+ 60-Kilometer-Radius ( ) 
+ 60-Liter- ( ) 
+ 60-Liter-Tonne ( ) 
+ 60-Liter-Variante ( ) 
+ 60-Meter- ( ) 
+ 60-Meter-Hürden ( ) lemma=60-Meter-Hürde 
+ 60-Meter-Hürde ( ) 
+ 60-Millionen- ( ) 
+ 60-Millionen-Mark-Projekt ( ) 
+ 60-Millionen-Mark-Projekts ( ) lemma=60-Millionen-Mark-Projekt 
+ 60-Millionen-Programm ( ) 
+ 60-Millionen-Projekt ( ) 
+ 60-Minuten- ( ) 
+ 60-Minuten-Sendung ( ) 
+ 60-Minuten-Takt ( ) 
+ 60-Pfennig-Marke ( ) 
+ 60-Pfennig-Sport-Briefmarke ( ) 
+ 60-Prozent-Marke ( ) 
+ 60-Prozent-Mehrheit ( ) 
+ 60-Prozent-Regelung ( ) 
+ 60-Quadratmeter- ( ) 
+ 60-Quadratmeter-Bühne ( ) 
+ 60-Quadratmeter-Dienstwohnung ( ) 
+ 60-Quadratmeter-Wohnung ( ) 
+ 60-Sekunden-Takt ( ) 
+ 60-Stunden-Woche ( ) 
+ 60-Stundenwoche ( ) 
+ 60-jährigen ( ) lemma=60-jährig 
+ 60-jährig ( ) 
+ 60-m-Bestmarke ( ) 
+ 60-m-Hürden ( ) lemma=60-m-Hürde 
+ 60-m-Hürde ( ) 
+ 60-m-Sieg ( ) 
+ 60.000/120.000 ( ) 
+ 60.000er ( ) 
+ 60/61 ( ) 
+ 60/89 ( ) 
+ 60/91 ( ) 
+ 600 ( ) 
+ 600- ( ) 
+ 600-Betten-Haus ( ) 
+ 600-Betten-Hotel ( ) 
+ 600-Jahr-Feier ( ) 
+ 600-Millionen- ( ) 
+ 600-Millionen-Investition ( ) 
+ 600-SEC-Coupé ( ) 
+ 600-SL-Sportwagen ( ) 
+ 600-Seelen-Dorf ( ) 
+ 600-Seelen-Gemeinde ( ) 
+ 600-Seelen-Ort ( ) 
+ 600.000-Einwohner-Stadt ( ) 
+ 600.000fach ( ) 
+ 6000 ( ) 
+ 6000-Einwohner-Gemeinde ( ) 
+ 6000-Einwohner-Kommune ( ) 
+ 6000-Seelen-Gemeinde ( ) 
+ 6000/12 ( ) 
+ 6000/12000 ( ) 
+ 60000 ( ) 
+ 60000-Einwohner-Stadt ( ) 
+ 60000-Mark-Grenze ( ) 
+ 600000 ( ) 
+ 600er ( ) 
+ 600jährige ( ) lemma=600jährig 
+ 600jährig ( ) 
+ 600jährigen ( ) lemma=600jährig 
+ 600jähriger ( ) lemma=600jährig 
+ 600köpfige ( ) lemma=600köpfig 
+ 600köpfig ( ) 
+ 600köpfigen ( ) lemma=600köpfig 
+ 604/90 ( ) 
+ 60er ( ) 
+ 60er- ( ) 
+ 60er-Jahre ( ) lemma=60er-Jahr 
+ 60er-Jahr ( ) 
+ 60er-Jahre- ( ) 
+ 60er-Jahre-Planungssünde ( ) 
+ 60ern ( ) lemma=60er 
+ 60fache ( ) lemma=60fach 
+ 60fach ( ) 
+ 60jährig ( ) 
+ 60jährige ( ) lemma=60jährig 
+ 60jährigem ( ) lemma=60jährig 
+ 60jährigen ( ) lemma=60jährig 
+ 60jähriger ( ) lemma=60jährig 
+ 60jähriges ( ) lemma=60jährig 
+ 60köpfige ( ) lemma=60köpfig 
+ 60köpfig ( ) 
+ 60köpfigen ( ) lemma=60köpfig 
+ 60köpfiger ( ) lemma=60köpfig 
+ 60köpfiges ( ) lemma=60köpfig 
+ 60prozentige ( ) lemma=60prozentig 
+ 60prozentig ( ) 
+ 60prozentigen ( ) lemma=60prozentig 
+ 60prozentiger ( ) lemma=60prozentig 
+ 60tägige ( ) lemma=60tägig 
+ 60tägig ( ) 
+ 60tägigen ( ) lemma=60tägig 
+ 61-jährige ( ) lemma=61-jährig 
+ 61-jährig ( ) 
+ 61/121 ( ) 
+ 61/2 ( ) 
+ 61/5 ( ) 
+ 61/63 ( ) 
+ 61/90 ( ) 
+ 6100/12 ( ) 
+ 612 ( ) 
+ 612/912 ( ) 
+ 6146/91 ( ) 
+ 61er ( ) 
+ 61er-Gruppe ( ) 
+ 61jährige ( ) lemma=61jährig 
+ 61jährig ( ) 
+ 61jährigen ( ) lemma=61jährig 
+ 61jähriger ( ) lemma=61jährig 
+ 62-Millionen-Mark-Komplex ( ) 
+ 62-Millionen-Mark-Objekt ( ) 
+ 62/91 ( ) 
+ 62/92 ( ) 
+ 622-Ringe ( ) lemma=622-Ring 
+ 622-Ring ( ) 
+ 624/33 ( ) 
+ 624/90 ( ) 
+ 62er ( ) 
+ 62jährig ( ) 
+ 62jährige ( ) lemma=62jährig 
+ 62jährigen ( ) lemma=62jährig 
+ 62jähriger ( ) lemma=62jährig 
+ 63 ( ) 
+ 63-Teiler ( ) 
+ 63-jährigen ( ) lemma=63-jährig 
+ 63-jährig ( ) 
+ 63/64 ( ) 
+ 63/92 ( ) 
+ 63000 ( ) 
+ 632 ( ) 
+ 63jährig ( ) 
+ 63jährige ( ) lemma=63jährig 
+ 63jährigen ( ) lemma=63jährig 
+ 63jähriger ( ) lemma=63jährig 
+ 64 ( ) 
+ 64- ( ) 
+ 64-Chefredakteur ( ) 
+ 64-Fans ( ) lemma=64-Fan 
+ 64-Fan ( ) 
+ 64-Frequenz ( ) 
+ 64-Frequenzen ( ) lemma=64-Frequenz 
+ 64-Freunde ( ) lemma=64-Freund 
+ 64-Freund ( ) 
+ 64-Freundeskreis ( ) 
+ 64-Hörern ( ) lemma=64-Hörer 
+ 64-Hörer ( ) 
+ 64-Kilobit-Leitung ( ) 
+ 64-Megabit-Chip ( ) 
+ 64-Megabit-Chip-Produktion ( ) 
+ 64-Megabit-Chips ( ) lemma=64-Megabit-Chip 
+ 64-Megabit-Speicherchips ( ) lemma=64-Megabit-Speicherchip 
+ 64-Megabit-Speicherchip ( ) 
+ 64-Redakteurin ( ) 
+ 64-Redaktion ( ) 
+ 64-Teiler ( ) 
+ 64/59 ( ) 
+ 64/65 ( ) 
+ 64/67 ( ) 
+ 64/90 ( ) 
+ 64/91 ( ) 
+ 644mal ( ) 
+ 645 ( ) 
+ 645/89 ( ) 
+ 64er ( ) 
+ 64er-Feld ( ) 
+ 64jährige ( ) lemma=64jährig 
+ 64jährig ( ) 
+ 64jährigen ( ) lemma=64jährig 
+ 64jähriger ( ) lemma=64jährig 
+ 64köpfigen ( ) lemma=64köpfig 
+ 64köpfig ( ) 
+ 64seitige ( ) lemma=64seitig 
+ 64seitig ( ) 
+ 65 ( ) 
+ 65- ( ) 
+ 65-Hektar-Betrieb ( ) 
+ 65-Quadratmeter-Wohnungen ( ) lemma=65-Quadratmeter-Wohnung 
+ 65-Quadratmeter-Wohnung ( ) 
+ 65-Rennen ( ) 
+ 65-Wette ( ) 
+ 65-kg-Klasse ( ) 
+ 65/66 ( ) 
+ 65/91 ( ) 
+ 65/92 ( ) 
+ 650 ( ) 
+ 650-Jahr-Feier ( ) 
+ 650000 ( ) 
+ 6572 ( ) 
+ 65er ( ) 
+ 65fache ( ) lemma=65fach 
+ 65fach ( ) 
+ 65jährig ( ) 
+ 65jährige ( ) lemma=65jährig 
+ 65jährigen ( ) lemma=65jährig 
+ 65jähriger ( ) lemma=65jährig 
+ 66,1-Teiler ( ) 
+ 66-Minuten-Stunde ( ) 
+ 66-jährige ( ) lemma=66-jährig 
+ 66-jährig ( ) 
+ 66-jährigen ( ) lemma=66-jährig 
+ 66/12 ( ) 
+ 66/661-Anschluss ( ) 
+ 66/661-Anschluß ( ) lemma=66/661-Anschluss 
+ 66/67 ( ) 
+ 661-Anschluss ( ) 
+ 661-Anschluß ( ) lemma=661-Anschluss 
+ 661-Trasse ( ) lemma=661-trasse 
+ 661-trasse ( ) 
+ 666-Jahr-Feier ( ) 
+ 666-Jahrfeier ( ) 
+ 666jährige ( ) lemma=666jährig 
+ 666jährig ( ) 
+ 66:32-Spiele ( ) lemma=66:32-Spiel 
+ 66:32-Spiel ( ) 
+ 66er ( ) 
+ 66jährig ( ) 
+ 66jährige ( ) lemma=66jährig 
+ 66jährigen ( ) lemma=66jährig 
+ 66jähriger ( ) lemma=66jährig 
+ 66köpfigen ( ) lemma=66köpfig 
+ 66köpfig ( ) 
+ 67-Teiler ( ) 
+ 67-Tonnen-Abrams-Panzer ( ) 
+ 67-jährigen ( ) lemma=67-jährig 
+ 67-jährig ( ) 
+ 67/68 ( ) 
+ 67/91 ( ) 
+ 670000 ( ) 
+ 6717/87 ( ) 
+ 672 ( ) 
+ 675-Jahr-Feier ( ) 
+ 676 ( ) 
+ 67er ( ) 
+ 67er-Runde ( ) 
+ 67jährig ( ) 
+ 67jährige ( ) lemma=67jährig 
+ 67jährigen ( ) lemma=67jährig 
+ 67jähriger ( ) lemma=67jährig 
+ 67prozentigen ( ) lemma=67prozentig 
+ 67prozentig ( ) 
+ 67tägiger ( ) lemma=67tägig 
+ 67tägig ( ) 
+ 68 ( ) 
+ 68-Generation ( ) 
+ 68-Millionen-Mark-Projekt ( ) 
+ 68-Teiler ( ) 
+ 68-jährige ( ) lemma=68-jährig 
+ 68-jährig ( ) 
+ 68. ( ) 
+ 68/63 ( ) 
+ 68/69 ( ) 
+ 68/70 ( ) 
+ 68000 ( ) 
+ 684/92 ( ) 
+ 686 ( ) 
+ 687 ( ) 
+ 68er ( ) 
+ 68er- ( ) 
+ 68er-Aktivist ( ) 
+ 68er-Aktivisten ( ) lemma=68er-Aktivist 
+ 68er-Aufbruch ( ) 
+ 68er-Bewegung ( ) 
+ 68er-Generation ( ) 
+ 68er-Ideen ( ) lemma=68er-Idee 
+ 68er-Idee ( ) 
+ 68er-Invasion ( ) 
+ 68er-Kollegen ( ) lemma=68er-Kollege 
+ 68er-Kollege ( ) 
+ 68er-Lehrer ( ) 
+ 68er-Linken ( ) lemma=68er-Linke 
+ 68er-Linke ( ) 
+ 68er-Proteste ( ) lemma=68er-Protest 
+ 68er-Protest ( ) 
+ 68er-Pädagogik ( ) 
+ 68er-Revolte ( ) 
+ 68er-Revolution ( ) 
+ 68er-Runde ( ) 
+ 68er-Studentenbewegung ( ) 
+ 68er-Studentenrevolte ( ) 
+ 68er-Themen ( ) lemma=68er-Thema 
+ 68er-Thema ( ) 
+ 68er-Utopien ( ) lemma=68er-Utopie 
+ 68er-Utopie ( ) 
+ 68er-Veteranen ( ) lemma=68er-Veteran 
+ 68er-Veteran ( ) 
+ 68er-Zeit ( ) 
+ 68ern ( ) lemma=68er 
+ 68jährig ( ) 
+ 68jährige ( ) lemma=68jährig 
+ 68jährigen ( ) lemma=68jährig 
+ 68jähriger ( ) lemma=68jährig 
+ 69 ( ) 
+ 69/5 ( ) 
+ 69/70 ( ) 
+ 69/72 ( ) 
+ 69/81 ( ) 
+ 69/91 ( ) 
+ 6900 ( ) 
+ 690000 ( ) 
+ 69er ( ) 
+ 69er-Runde ( ) 
+ 69jährig ( ) 
+ 69jährige ( ) lemma=69jährig 
+ 69jährigen ( ) lemma=69jährig 
+ 69jähriger ( ) lemma=69jährig 
+ 6:0- ( ) 
+ 6:0-Deckung ( ) 
+ 6:0-Deckungsvariante ( ) 
+ 6:0-Erfolg ( ) 
+ 6:0-Formation ( ) 
+ 6:0-Führung ( ) 
+ 6:0-Punkte ( ) lemma=6:0-Punkt 
+ 6:0-Punkt ( ) 
+ 6:0-Punkten ( ) lemma=6:0-Punkt 
+ 6:0-Sieg ( ) 
+ 6:0-Siege ( ) lemma=6:0-Sieg 
+ 6:0-Toren ( ) lemma=6:0-Tor 
+ 6:0-Tor ( ) 
+ 6:0-Zähler ( ) 
+ 6:1-Endstand ( ) 
+ 6:1-Erfolg ( ) 
+ 6:1-Führung ( ) 
+ 6:1-Sieg ( ) 
+ 6:1-Vorsprung ( ) 
+ 6:2- ( ) 
+ 6:2-Endstand ( ) 
+ 6:2-Erfolg ( ) 
+ 6:2-Finalsieg ( ) 
+ 6:2-Halbfinalsieg ( ) 
+ 6:2-Punkte ( ) lemma=6:2-Punkt 
+ 6:2-Punkt ( ) 
+ 6:2-Punkten ( ) lemma=6:2-Punkt 
+ 6:2-Sieg ( ) 
+ 6:2-Tore ( ) lemma=6:2-Tor 
+ 6:2-Tor ( ) 
+ 6:3,6:3-Sieg ( ) 
+ 6:3- ( ) 
+ 6:3-Erfolg ( ) 
+ 6:3-Satzgewinn ( ) 
+ 6:3-Sieg ( ) 
+ 6:4- ( ) 
+ 6:4-4:6-0:6-Niederlage ( ) 
+ 6:4-Erfolg ( ) 
+ 6:4-Finalsieg ( ) 
+ 6:4-Führung ( ) 
+ 6:4-Punkte ( ) lemma=6:4-Punkt 
+ 6:4-Punkt ( ) 
+ 6:4-Punkten ( ) lemma=6:4-Punkt 
+ 6:4-Satzgewinn ( ) 
+ 6:4-Sieg ( ) 
+ 6:4-Vorsprung ( ) 
+ 6:5-Sieg ( ) 
+ 6:5-Toren ( ) lemma=6:5-Tor 
+ 6:5-Tor ( ) 
+ 6:53,29 ( ) 
+ 6:53,75 ( ) 
+ 6:56,72 ( ) 
+ 6:6-Punkte ( ) lemma=6:6-Punkt 
+ 6:6-Punkt ( ) 
+ 6:6-Punkten ( ) lemma=6:6-Punkt 
+ 6:7-Niederlage ( ) 
+ 6:8-Niederlage ( ) 
+ 6:9-Heimniederlage ( ) 
+ 6:9-Niederlage ( ) 
+ 6:9-Rückstand ( ) 
+ 6er ( ) 
+ 6fach-Kombinations-Drogenschnelltest ( ) 
+ 6fach-Kombinations-Drogentest ( ) 
+ 6jährige ( ) lemma=6jährig 
+ 6jährig ( ) 
+ 6jährigen ( ) lemma=6jährig 
+ 6jähriger ( ) lemma=6jährig 
+ 6jähriges ( ) lemma=6jährig 
+ 6monatigen ( ) lemma=6monatig 
+ 6monatig ( ) 
+ 6prozentige ( ) lemma=6prozentig 
+ 6prozentig ( ) 

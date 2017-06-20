@@ -1,0 +1,66 @@
+topic: ~introductions repeat keep []
+
+# welcome gambit
+u: (!$intro) [Ciao][Ola][Buongiorno], sono Blackmores Well Bot e sono qui 
+    per aiutarti con il tuo benessere e farti sentire al tuo meglio. 
+    Puoi pensare a me come ad un personal Trainer. 
+    $intro=done
+
+
+u: CHANCHE (!$more)  [Ti va di sentire di più] [Ho da raccontarti un sacco di cose utili, Le vuoi sentire]
+                [Sono un bot potentissimo, vuoi sentire tutto quello che posso fare] ?
+  a: (~yes) 
+    Ottimo allora iniziamo.
+    $more=1
+  a: (~no) 
+    Cosa non ti convince?
+    ^reuse(CHANCHE)
+
+u: TERMS (!$terms_and_conditions) Di cosa stavamo parlando? A si. Stavo dicendo.. 
+    Parlo anche 2 lingue diverse, Italiano ed Emoji. Prima di 
+    spiegarti di più su di me abbiamo bisogno che accetti i nostri 
+    termini e condizioni d'uso del servizio (http:\\www.bot.it\terms) 
+    e la nostra politica sulla riservatezza dei dati (http:\\www.bot.it\privacy)
+    $terms_and_conditions=1
+
+u: AGREE_TERMS ($terms_and_conditions=1)  Accetti le nostre condizioni?
+
+  a: (~yes) 
+    Ottimo! Allora possiamo andare oltre.
+    $terms_and_conditions=2
+  a: (~no) 
+    Se non accetti le nostre condizioni non potrai usufruire del servizio.
+    ^reuse(AGREE_TERMS)
+
+
+u: ASK_NAME (!$username) Come ti chiami?
+  
+  a: (_*)
+    Quindi ti chiami \" '_0 \". Ho capito bene?
+    $maybe_username = '_0
+    b: (~yes)
+      Bel nome, $maybe_username.
+      $username = $maybe_username
+    b: (~no) 
+      ^reuse(ASK_NAME)
+    b: (*)
+      Penso di non aver capito bene.
+      ^reuse(ASK_NAME)
+
+u: ASK_EMAIL (!$email) [Mi diresti anche la tua mail] [Qual è il tuo indirizzo email]?
+  
+  a: (_*)
+    Quindi il tuo indirizzo email è \" '_0 \"?
+    $maybe_email = '_0
+    b: (~yes)
+      Ottimo, email salvata.
+      $email = $maybe_email
+    b: (~no) 
+      ^reuse(ASK_EMAIL)
+    b: (*)
+      ^reuse(ASK_EMAIL)
+
+u: (!$finished_intro)  Ok abbiamo finito con le introduzioni. Se vuoi chattare con me digita una tra le opzioni: 
+  salute, fitness, mindfullness.
+  ^addtopic(~root) ^respond(root)
+  $finished_intro=1

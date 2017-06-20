@@ -1,0 +1,1333 @@
+﻿file: C:/Users/neboduus/Documents/ChatScript-master/RAWDATA/TEST/simplecontrol.top 0
+    macro: ^harry 2
+          line: 3 0
+          line: 5 54
+          line: 8 79
+          line: 11 98
+          line: 20 125
+          line: 23 151
+          line: 25 171
+          line: 26 193
+          line: 27 218
+          Complexity of ^harry: 1
+          line: 31 0
+    topic: ~control 35
+        rule: ~control.0.0 u:  38
+          Complexity of rule ~control.0.0- u: 1
+        rule: ~control.1.0 u:  41
+          line: 41 0
+          Complexity of rule ~control.1.0- u: 1
+        rule: ~control.2.0 u:  42
+          line: 42 0
+          Complexity of rule ~control.2.0- u: 1
+        rule: ~control.3.0 u:  44
+          line: 44 0
+          Complexity of rule ~control.3.0- u: 1
+        rule: ~control.4.0 u:  45
+          line: 45 0
+          Complexity of rule ~control.4.0- u: 1
+        rule: ~control.5.0 u:  46
+          line: 46 0
+          Complexity of rule ~control.5.0- u: 1
+        rule: ~control.6.0 u:  47
+          line: 47 0
+          Complexity of rule ~control.6.0- u: 1
+        rule: ~control.7.0 u:  48
+          line: 48 0
+          Complexity of rule ~control.7.0- u: 1
+        rule: ~control.8.0 u:  49
+          line: 49 0
+          Complexity of rule ~control.8.0- u: 1
+        rule: ~control.9.0 u:  51
+          line: 52 0
+          line: 53 18
+          line: 55 80
+          line: 57 103
+          line: 59 188
+          line: 61 254
+          line: 64 301
+          line: 66 398
+          line: 68 447
+          line: 69 473
+          line: 71 490
+          line: 72 523
+          line: 73 562
+          line: 75 605
+          line: 77 621
+          line: 78 627
+          line: 81 629
+          line: 83 678
+          line: 89 724
+          line: 91 788
+          line: 95 834
+          line: 97 888
+          line: 101 905
+          line: 103 1030
+          line: 105 1079
+          line: 106 1105
+          line: 108 1122
+          line: 109 1155
+          line: 110 1193
+          line: 112 1236
+          line: 114 1252
+          line: 115 1258
+          line: 116 1260
+          line: 118 1355
+          line: 120 1404
+          line: 121 1429
+          line: 123 1446
+          line: 124 1478
+          line: 125 1516
+          line: 127 1559
+          line: 129 1575
+          line: 130 1581
+          line: 132 1583
+          line: 134 1632
+          line: 135 1646
+          line: 136 1667
+          Complexity of rule ~control.9.0- u: 17
+    topic: ~xpostprocess 139
+        rule: ~xpostprocess.0.0 t:  141
+          line: 142 0
+          line: 144 17
+          line: 145 47
+          line: 147 104
+          line: 148 114
+          line: 150 155
+          line: 152 214
+          line: 154 261
+          line: 155 267
+          Complexity of rule ~xpostprocess.0.0- t: 3
+file: C:/Users/neboduus/Documents/ChatScript-master/RAWDATA/TEST/root.top 0
+    topic: ~root 1
+        rule: ~root.0.0 u:  3
+          line: 5 0
+          Complexity of rule ~root.0.0- u: 1
+        rule: ~root.1.0 u:  7
+          line: 10 0
+          Complexity of rule ~root.1.0- u: 1
+        rule: ~root.2.0 u:  12
+          line: 15 0
+          line: 16 14
+          Complexity of rule ~root.2.0- u: 1
+        rule: ~root.3.0 u:  18
+          line: 22 0
+          Complexity of rule ~root.3.0- u: 1
+        rule: ~root.4.0 u:  24
+          line: 26 0
+          Complexity of rule ~root.4.0- u: 1
+        rule: ~root.5.0 u:  28
+          line: 28 0
+          line: 29 61
+          Complexity of rule ~root.5.0- u: 1
+        rule: ~root.6.0 u:  32
+          line: 33 0
+          line: 34 86
+          Complexity of rule ~root.6.0- u: 1
+        rule: ~root.7.0 u:  37
+          line: 38 0
+          line: 39 86
+          line: 40 212
+          line: 41 255
+          line: 42 293
+          Complexity of rule ~root.7.0- u: 1
+        rule: ~root.8.0 u:  44
+          line: 46 0
+          Complexity of rule ~root.8.0- u: 1
+file: C:/Users/neboduus/Documents/ChatScript-master/RAWDATA/TEST/health.top 0
+    topic: ~health 1
+        rule: ~health.0.0-INTRO u:  5
+          line: 6 0
+          line: 7 32
+          line: 8 124
+          line: 9 185
+          Complexity of rule ~health.0.0-INTRO u: 1
+        rule: ~health.1.0 u:  11
+          line: 12 0
+          line: 13 55
+          line: 14 96
+          Complexity of rule ~health.1.0- u: 1
+        rule: ~health.2.0 u:  16
+          line: 17 0
+          line: 18 55
+          line: 19 140
+          Complexity of rule ~health.2.0- u: 1
+        rule: ~health.3.0 u:  21
+          line: 22 0
+          line: 23 55
+          line: 24 126
+          Complexity of rule ~health.3.0- u: 1
+        rule: ~health.4.0-ASK_TO_COLLECT_DATA u:  27
+          line: 29 0
+          line: 31 36
+          line: 32 38
+          line: 33 89
+          line: 34 123
+          line: 35 173
+          line: 36 274
+          line: 37 307
+          line: 38 326
+          line: 39 347
+          line: 40 430
+          line: 41 492
+          line: 42 502
+          line: 43 566
+          Complexity of rule ~health.4.0-ASK_TO_COLLECT_DATA u: 3
+        rule: ~health.5.0-STOP u:  46
+          line: 47 0
+          line: 48 97
+          line: 49 181
+          line: 50 207
+          Complexity of rule ~health.5.0-STOP u: 1
+        rule: ~health.6.0-DEFAULT u:  55
+          line: 56 0
+          line: 61 140
+          line: 62 183
+          line: 63 185
+          line: 64 214
+          line: 65 248
+          line: 70 281
+          Complexity of rule ~health.6.0-DEFAULT u: 3
+file: C:/Users/neboduus/Documents/ChatScript-master/RAWDATA/TEST/physical_activity.top 0
+    topic: ~physical_activity 1
+        rule: ~physical_activity.0.0-INTRO u:  3
+          line: 4 0
+          line: 5 43
+          line: 6 111
+          line: 7 194
+          line: 8 247
+          Complexity of rule ~physical_activity.0.0-INTRO u: 1
+        rule: ~physical_activity.1.0-FITNESS_ACTIVITY u:  10
+          line: 11 0
+          line: 12 79
+          line: 14 145
+          Complexity of rule ~physical_activity.1.0-FITNESS_ACTIVITY u: 1
+        rule: ~physical_activity.2.0 u:  16
+          line: 17 0
+          line: 18 43
+          line: 19 128
+          line: 20 159
+          line: 21 165
+          Complexity of rule ~physical_activity.2.0- u: 1
+        rule: ~physical_activity.3.0 u:  23
+          line: 24 0
+          line: 25 43
+          line: 26 128
+          line: 27 138
+          Complexity of rule ~physical_activity.3.0- u: 1
+        rule: ~physical_activity.4.0 u:  29
+          line: 30 0
+          line: 31 43
+          line: 32 114
+          line: 33 120
+          Complexity of rule ~physical_activity.4.0- u: 1
+        rule: ~physical_activity.5.0 u:  35
+          line: 36 0
+          line: 37 43
+          line: 38 125
+          line: 39 135
+          Complexity of rule ~physical_activity.5.0- u: 1
+        rule: ~physical_activity.6.0 u:  41
+          line: 42 0
+          line: 43 43
+          line: 44 137
+          line: 45 182
+          Complexity of rule ~physical_activity.6.0- u: 1
+        rule: ~physical_activity.7.0 u:  47
+          line: 48 0
+          line: 49 43
+          line: 50 146
+          line: 51 162
+          Complexity of rule ~physical_activity.7.0- u: 1
+        rule: ~physical_activity.8.0 u:  53
+          line: 54 0
+          line: 55 43
+          line: 56 169
+          line: 57 180
+          Complexity of rule ~physical_activity.8.0- u: 1
+        rule: ~physical_activity.9.0 u:  59
+          line: 60 0
+          line: 61 26
+          Complexity of rule ~physical_activity.9.0- u: 1
+        rule: ~physical_activity.9.1 a:  63
+          line: 64 0
+          line: 65 43
+          line: 66 160
+          line: 67 167
+          Complexity of rule ~physical_activity.9.1- a: 1
+        rule: ~physical_activity.9.2 a:  68
+          line: 69 0
+          Complexity of rule ~physical_activity.9.2- a: 1
+        rule: ~physical_activity.10.0-OFTEN u:  72
+          line: 73 0
+          line: 74 82
+          line: 75 152
+          Complexity of rule ~physical_activity.10.0-OFTEN u: 1
+        rule: ~physical_activity.11.0 u:  77
+          line: 78 0
+          line: 79 43
+          line: 80 74
+          line: 81 80
+          Complexity of rule ~physical_activity.11.0- u: 1
+        rule: ~physical_activity.12.0 u:  83
+          line: 84 0
+          line: 85 43
+          line: 86 74
+          line: 87 80
+          Complexity of rule ~physical_activity.12.0- u: 1
+        rule: ~physical_activity.13.0 u:  89
+          line: 90 0
+          line: 91 43
+          line: 92 86
+          line: 93 96
+          Complexity of rule ~physical_activity.13.0- u: 1
+        rule: ~physical_activity.14.0-INTENSITY u:  96
+          line: 97 0
+          line: 98 69
+          line: 99 91
+          Complexity of rule ~physical_activity.14.0-INTENSITY u: 1
+        rule: ~physical_activity.15.0 u:  101
+          line: 102 0
+          line: 103 43
+          line: 104 109
+          line: 105 117
+          Complexity of rule ~physical_activity.15.0- u: 1
+        rule: ~physical_activity.16.0 u:  107
+          line: 108 0
+          line: 109 43
+          line: 110 55
+          line: 111 60
+          Complexity of rule ~physical_activity.16.0- u: 1
+        rule: ~physical_activity.17.0 u:  113
+          line: 114 0
+          line: 115 43
+          line: 116 90
+          line: 117 96
+          Complexity of rule ~physical_activity.17.0- u: 1
+        rule: ~physical_activity.18.0-FITNESS_OBJ u:  119
+          line: 120 0
+          line: 121 94
+          line: 122 126
+          line: 123 181
+          line: 124 259
+          Complexity of rule ~physical_activity.18.0-FITNESS_OBJ u: 1
+        rule: ~physical_activity.19.0 u:  126
+          line: 127 0
+          line: 128 43
+          line: 129 134
+          line: 130 144
+          Complexity of rule ~physical_activity.19.0- u: 1
+        rule: ~physical_activity.20.0 u:  132
+          line: 133 0
+          line: 134 43
+          line: 135 134
+          line: 136 144
+          Complexity of rule ~physical_activity.20.0- u: 1
+        rule: ~physical_activity.21.0 u:  138
+          line: 139 0
+          line: 140 43
+          line: 141 134
+          line: 142 144
+          Complexity of rule ~physical_activity.21.0- u: 1
+        rule: ~physical_activity.22.0 u:  144
+          line: 145 0
+          line: 146 43
+          line: 147 134
+          line: 148 144
+          Complexity of rule ~physical_activity.22.0- u: 1
+        rule: ~physical_activity.23.0 u:  150
+          line: 151 0
+          line: 152 108
+          line: 153 135
+          Complexity of rule ~physical_activity.23.0- u: 1
+        rule: ~physical_activity.24.0-STOP u:  155
+          line: 156 0
+          line: 157 97
+          line: 158 181
+          line: 159 207
+          Complexity of rule ~physical_activity.24.0-STOP u: 1
+        rule: ~physical_activity.25.0-DEFAULT u:  161
+          line: 162 0
+          line: 165 103
+          line: 166 141
+          line: 167 160
+          line: 168 205
+          line: 169 235
+          line: 170 280
+          line: 171 299
+          line: 172 344
+          line: 173 367
+          line: 174 412
+          line: 179 437
+          Complexity of rule ~physical_activity.25.0-DEFAULT u: 6
+file: C:/Users/neboduus/Documents/ChatScript-master/RAWDATA/TEST/coping.top 0
+    topic: ~coping 1
+        rule: ~coping.0.0-INTRO u:  4
+          line: 5 0
+          line: 6 42
+          line: 7 87
+          line: 8 193
+          line: 9 354
+          line: 10 401
+          line: 14 431
+          line: 15 433
+          line: 16 497
+          Complexity of rule ~coping.0.0-INTRO u: 2
+        rule: ~coping.1.0-MENU u:  20
+          line: 21 0
+          line: 22 54
+          line: 23 195
+          line: 24 248
+          Complexity of rule ~coping.1.0-MENU u: 1
+        rule: ~coping.2.0-NUTRITION u:  27
+          line: 28 0
+          line: 32 33
+          line: 33 101
+          line: 35 179
+          line: 37 272
+          line: 39 341
+          line: 41 488
+          line: 42 568
+          line: 44 650
+          line: 45 668
+          Complexity of rule ~coping.2.0-NUTRITION u: 1
+        rule: ~coping.3.0-FITNESS u:  48
+          line: 49 0
+          line: 50 33
+          line: 51 119
+          line: 52 216
+          line: 54 268
+          line: 55 369
+          line: 56 467
+          line: 58 522
+          line: 59 619
+          line: 60 732
+          line: 62 798
+          line: 63 904
+          line: 65 972
+          line: 67 1046
+          line: 68 1141
+          line: 70 1206
+          line: 71 1224
+          Complexity of rule ~coping.3.0-FITNESS u: 1
+        rule: ~coping.4.0-MINDFULLNESS u:  74
+          line: 75 0
+          line: 76 33
+          line: 77 124
+          line: 79 255
+          line: 80 376
+          line: 82 453
+          line: 83 546
+          line: 85 707
+          line: 86 820
+          line: 88 921
+          line: 89 1025
+          line: 91 1092
+          line: 92 1184
+          line: 94 1274
+          line: 95 1401
+          line: 97 1477
+          line: 98 1495
+          Complexity of rule ~coping.4.0-MINDFULLNESS u: 1
+        rule: ~coping.5.0 u:  100
+          line: 102 0
+          Complexity of rule ~coping.5.0- u: 1
+        rule: ~coping.6.0 u:  104
+          line: 106 0
+          Complexity of rule ~coping.6.0- u: 1
+        rule: ~coping.7.0 u:  108
+          line: 110 0
+          Complexity of rule ~coping.7.0- u: 1
+        rule: ~coping.8.0 u:  116
+          line: 118 0
+          line: 119 107
+          line: 120 215
+          line: 121 241
+          Complexity of rule ~coping.8.0- u: 1
+        rule: ~coping.9.0-DEFAULT u:  123
+          line: 126 0
+          line: 127 82
+          line: 128 117
+          line: 129 119
+          line: 130 150
+          line: 131 182
+          line: 132 184
+          line: 133 210
+          line: 134 242
+          line: 135 304
+          line: 136 347
+          line: 137 379
+          line: 138 438
+          line: 139 481
+          line: 140 513
+          line: 141 579
+          line: 143 622
+          Complexity of rule ~coping.9.0-DEFAULT u: 6
+file: C:/Users/neboduus/Documents/ChatScript-master/RAWDATA/TEST/mental_wellbeing.top 0
+    topic: ~mental_wellbeing 1
+        rule: ~mental_wellbeing.0.0-START u:  3
+          line: 4 0
+          line: 5 43
+          line: 6 111
+          line: 7 202
+          line: 8 243
+          Complexity of rule ~mental_wellbeing.0.0-START u: 1
+        rule: ~mental_wellbeing.1.0-NERVOUS u:  10
+          line: 11 0
+          line: 12 64
+          line: 13 148
+          Complexity of rule ~mental_wellbeing.1.0-NERVOUS u: 1
+        rule: ~mental_wellbeing.2.0 u:  15
+          line: 16 0
+          line: 17 43
+          line: 18 97
+          line: 19 106
+          Complexity of rule ~mental_wellbeing.2.0- u: 1
+        rule: ~mental_wellbeing.3.0 u:  21
+          line: 22 0
+          line: 23 43
+          line: 24 103
+          line: 25 111
+          Complexity of rule ~mental_wellbeing.3.0- u: 1
+        rule: ~mental_wellbeing.4.0 u:  27
+          line: 28 0
+          line: 29 43
+          line: 30 135
+          line: 31 141
+          Complexity of rule ~mental_wellbeing.4.0- u: 1
+        rule: ~mental_wellbeing.5.0 u:  33
+          line: 34 0
+          line: 35 43
+          line: 36 117
+          line: 37 123
+          Complexity of rule ~mental_wellbeing.5.0- u: 1
+        rule: ~mental_wellbeing.6.0 u:  39
+          line: 40 0
+          line: 41 43
+          line: 42 138
+          line: 43 144
+          Complexity of rule ~mental_wellbeing.6.0- u: 1
+        rule: ~mental_wellbeing.7.0-DEPRESSED u:  45
+          line: 46 0
+          line: 47 64
+          line: 48 142
+          Complexity of rule ~mental_wellbeing.7.0-DEPRESSED u: 1
+        rule: ~mental_wellbeing.8.0 u:  50
+          line: 51 0
+          line: 52 43
+          line: 53 105
+          line: 54 121
+          Complexity of rule ~mental_wellbeing.8.0- u: 1
+        rule: ~mental_wellbeing.9.0 u:  56
+          line: 57 0
+          line: 58 43
+          line: 59 105
+          line: 60 121
+          Complexity of rule ~mental_wellbeing.9.0- u: 1
+        rule: ~mental_wellbeing.10.0 u:  62
+          line: 63 0
+          line: 64 43
+          line: 65 76
+          line: 66 82
+          Complexity of rule ~mental_wellbeing.10.0- u: 1
+        rule: ~mental_wellbeing.11.0 u:  68
+          line: 69 0
+          line: 70 43
+          line: 71 140
+          line: 72 146
+          Complexity of rule ~mental_wellbeing.11.0- u: 1
+        rule: ~mental_wellbeing.12.0 u:  74
+          line: 75 0
+          line: 76 43
+          line: 77 91
+          line: 78 97
+          Complexity of rule ~mental_wellbeing.12.0- u: 1
+        rule: ~mental_wellbeing.13.0-EFFORT u:  80
+          line: 81 0
+          line: 82 64
+          line: 83 153
+          Complexity of rule ~mental_wellbeing.13.0-EFFORT u: 1
+        rule: ~mental_wellbeing.14.0 u:  85
+          line: 86 0
+          line: 87 43
+          line: 88 75
+          line: 89 83
+          Complexity of rule ~mental_wellbeing.14.0- u: 1
+        rule: ~mental_wellbeing.15.0 u:  91
+          line: 92 0
+          line: 93 43
+          line: 94 94
+          line: 95 105
+          Complexity of rule ~mental_wellbeing.15.0- u: 1
+        rule: ~mental_wellbeing.16.0 u:  97
+          line: 98 0
+          line: 99 43
+          line: 100 76
+          line: 101 82
+          Complexity of rule ~mental_wellbeing.16.0- u: 1
+        rule: ~mental_wellbeing.17.0 u:  103
+          line: 104 0
+          line: 105 43
+          line: 106 97
+          line: 107 103
+          Complexity of rule ~mental_wellbeing.17.0- u: 1
+        rule: ~mental_wellbeing.18.0 u:  109
+          line: 110 0
+          line: 111 43
+          line: 112 78
+          line: 113 84
+          Complexity of rule ~mental_wellbeing.18.0- u: 1
+        rule: ~mental_wellbeing.19.0-WORTHLESS u:  115
+          line: 116 0
+          line: 117 64
+          line: 118 109
+          Complexity of rule ~mental_wellbeing.19.0-WORTHLESS u: 1
+        rule: ~mental_wellbeing.20.0 u:  120
+          line: 121 0
+          line: 122 43
+          line: 123 61
+          line: 124 67
+          Complexity of rule ~mental_wellbeing.20.0- u: 1
+        rule: ~mental_wellbeing.21.0 u:  126
+          line: 127 0
+          line: 128 43
+          line: 129 105
+          line: 130 121
+          Complexity of rule ~mental_wellbeing.21.0- u: 1
+        rule: ~mental_wellbeing.22.0 u:  132
+          line: 133 0
+          line: 134 43
+          line: 135 76
+          line: 136 82
+          Complexity of rule ~mental_wellbeing.22.0- u: 1
+        rule: ~mental_wellbeing.23.0 u:  138
+          line: 139 0
+          line: 140 43
+          line: 141 122
+          line: 142 128
+          Complexity of rule ~mental_wellbeing.23.0- u: 1
+        rule: ~mental_wellbeing.24.0 u:  144
+          line: 145 0
+          line: 146 43
+          line: 147 54
+          line: 148 60
+          Complexity of rule ~mental_wellbeing.24.0- u: 1
+        rule: ~mental_wellbeing.25.0 u:  150
+          line: 151 0
+          line: 152 64
+          line: 153 133
+          line: 154 211
+          line: 155 271
+          line: 156 364
+          line: 157 397
+          Complexity of rule ~mental_wellbeing.25.0- u: 1
+        rule: ~mental_wellbeing.26.0-STOP u:  159
+          line: 160 0
+          line: 161 97
+          line: 162 181
+          line: 163 207
+          Complexity of rule ~mental_wellbeing.26.0-STOP u: 1
+        rule: ~mental_wellbeing.27.0-DEFAULT u:  165
+          line: 166 0
+          line: 168 70
+          line: 169 100
+          line: 170 119
+          line: 172 156
+          line: 173 177
+          line: 174 214
+          line: 175 237
+          line: 176 274
+          line: 177 294
+          line: 178 331
+          line: 181 354
+          Complexity of rule ~mental_wellbeing.27.0-DEFAULT u: 6
+file: C:/Users/neboduus/Documents/ChatScript-master/RAWDATA/TEST/health_data_collector.top 0
+    topic: ~health_data_collector 1
+        rule: ~health_data_collector.0.0-PERSONALITY u:  4
+          line: 5 0
+          line: 6 86
+          line: 7 157
+          line: 8 208
+          line: 9 305
+          line: 10 310
+          Complexity of rule ~health_data_collector.0.0-PERSONALITY u: 1
+        rule: ~health_data_collector.1.0 u:  12
+          line: 13 0
+          line: 15 43
+          line: 16 169
+          Complexity of rule ~health_data_collector.1.0- u: 1
+        rule: ~health_data_collector.2.0 u:  19
+          line: 20 0
+          line: 21 43
+          line: 22 119
+          line: 23 153
+          Complexity of rule ~health_data_collector.2.0- u: 1
+        rule: ~health_data_collector.3.0 u:  25
+          line: 26 0
+          line: 27 43
+          line: 28 123
+          line: 29 147
+          Complexity of rule ~health_data_collector.3.0- u: 1
+        rule: ~health_data_collector.4.0 u:  31
+          line: 32 0
+          line: 33 43
+          line: 34 151
+          line: 35 185
+          Complexity of rule ~health_data_collector.4.0- u: 1
+        rule: ~health_data_collector.5.0 u:  37
+          line: 38 0
+          line: 39 43
+          line: 40 184
+          line: 41 205
+          Complexity of rule ~health_data_collector.5.0- u: 1
+        rule: ~health_data_collector.6.0-WELLBEING u:  44
+          line: 45 0
+          line: 46 99
+          line: 47 145
+          line: 48 186
+          line: 49 243
+          Complexity of rule ~health_data_collector.6.0-WELLBEING u: 1
+        rule: ~health_data_collector.7.0 u:  53
+          line: 54 0
+          line: 55 43
+          line: 56 142
+          line: 57 176
+          Complexity of rule ~health_data_collector.7.0- u: 1
+        rule: ~health_data_collector.8.0 u:  59
+          line: 60 0
+          line: 61 43
+          line: 62 56
+          line: 63 96
+          Complexity of rule ~health_data_collector.8.0- u: 1
+        rule: ~health_data_collector.9.0 u:  65
+          line: 66 0
+          line: 67 43
+          line: 68 58
+          line: 69 92
+          Complexity of rule ~health_data_collector.9.0- u: 1
+        rule: ~health_data_collector.10.0 u:  71
+          line: 72 0
+          line: 73 43
+          line: 74 84
+          line: 75 117
+          Complexity of rule ~health_data_collector.10.0- u: 1
+        rule: ~health_data_collector.11.0 u:  77
+          line: 78 0
+          line: 79 43
+          line: 80 192
+          line: 81 322
+          line: 82 358
+          Complexity of rule ~health_data_collector.11.0- u: 1
+        rule: ~health_data_collector.12.0-NUTRITIONAL_STATE_RULE u:  85
+          line: 86 0
+          line: 87 93
+          line: 88 139
+          line: 89 208
+          line: 90 232
+          line: 91 271
+          line: 92 318
+          line: 93 360
+          line: 94 421
+          Complexity of rule ~health_data_collector.12.0-NUTRITIONAL_STATE_RULE u: 1
+        rule: ~health_data_collector.13.0 u:  96
+          line: 97 0
+          line: 98 43
+          line: 99 88
+          line: 100 129
+          line: 101 156
+          Complexity of rule ~health_data_collector.13.0- u: 1
+        rule: ~health_data_collector.14.0 u:  103
+          line: 104 0
+          line: 105 43
+          line: 106 98
+          line: 107 163
+          line: 108 193
+          Complexity of rule ~health_data_collector.14.0- u: 1
+        rule: ~health_data_collector.15.0 u:  110
+          line: 111 0
+          line: 112 43
+          line: 113 107
+          line: 114 182
+          line: 115 208
+          line: 116 239
+          Complexity of rule ~health_data_collector.15.0- u: 1
+        rule: ~health_data_collector.16.0 u:  118
+          line: 119 0
+          line: 120 43
+          line: 121 109
+          line: 122 183
+          line: 123 225
+          line: 124 257
+          Complexity of rule ~health_data_collector.16.0- u: 1
+        rule: ~health_data_collector.17.0 u:  126
+          line: 127 0
+          line: 128 43
+          line: 129 115
+          line: 130 189
+          line: 131 272
+          line: 132 312
+          line: 133 343
+          Complexity of rule ~health_data_collector.17.0- u: 1
+        rule: ~health_data_collector.18.0-ASK_WATER u:  136
+          line: 137 0
+          line: 138 62
+          line: 139 100
+          Complexity of rule ~health_data_collector.18.0-ASK_WATER u: 1
+        rule: ~health_data_collector.19.0 u:  141
+          line: 142 0
+          line: 143 43
+          line: 144 153
+          line: 145 163
+          Complexity of rule ~health_data_collector.19.0- u: 1
+        rule: ~health_data_collector.20.0 u:  147
+          line: 148 0
+          line: 149 45
+          line: 150 165
+          line: 151 170
+          Complexity of rule ~health_data_collector.20.0- u: 1
+        rule: ~health_data_collector.21.0 u:  153
+          line: 154 0
+          line: 155 43
+          line: 156 100
+          line: 157 106
+          Complexity of rule ~health_data_collector.21.0- u: 1
+        rule: ~health_data_collector.22.0-FRUITS_VEGS u:  160
+          line: 162 0
+          line: 163 149
+          Complexity of rule ~health_data_collector.22.0-FRUITS_VEGS u: 1
+        rule: ~health_data_collector.23.0 u:  165
+          line: 166 0
+          line: 167 43
+          line: 168 49
+          line: 169 55
+          Complexity of rule ~health_data_collector.23.0- u: 1
+        rule: ~health_data_collector.24.0 u:  171
+          line: 172 0
+          line: 173 43
+          line: 174 81
+          line: 175 89
+          Complexity of rule ~health_data_collector.24.0- u: 1
+        rule: ~health_data_collector.25.0 u:  177
+          line: 178 0
+          line: 179 43
+          line: 180 99
+          line: 181 104
+          Complexity of rule ~health_data_collector.25.0- u: 1
+        rule: ~health_data_collector.26.0 u:  183
+          line: 184 0
+          line: 185 43
+          line: 186 99
+          line: 187 104
+          Complexity of rule ~health_data_collector.26.0- u: 1
+        rule: ~health_data_collector.27.0 u:  189
+          line: 190 0
+          line: 191 43
+          line: 192 99
+          line: 193 104
+          Complexity of rule ~health_data_collector.27.0- u: 1
+        rule: ~health_data_collector.28.0 u:  195
+          line: 196 0
+          line: 197 43
+          line: 198 96
+          line: 199 116
+          Complexity of rule ~health_data_collector.28.0- u: 1
+        rule: ~health_data_collector.29.0-ENERGY_LEVEL u:  202
+          line: 203 0
+          line: 204 37
+          line: 205 85
+          line: 206 126
+          Complexity of rule ~health_data_collector.29.0-ENERGY_LEVEL u: 1
+        rule: ~health_data_collector.30.0 u:  208
+          line: 209 0
+          line: 210 43
+          line: 211 50
+          line: 212 74
+          Complexity of rule ~health_data_collector.30.0- u: 1
+        rule: ~health_data_collector.31.0 u:  214
+          line: 215 0
+          line: 216 43
+          line: 217 50
+          line: 218 74
+          Complexity of rule ~health_data_collector.31.0- u: 1
+        rule: ~health_data_collector.32.0 u:  220
+          line: 221 0
+          line: 222 43
+          line: 223 50
+          line: 224 74
+          Complexity of rule ~health_data_collector.32.0- u: 1
+        rule: ~health_data_collector.33.0-NUTRITION_PLAN u:  227
+          line: 228 0
+          line: 229 39
+          line: 230 85
+          line: 231 117
+          line: 232 173
+          line: 233 250
+          line: 234 322
+          line: 235 419
+          line: 236 424
+          line: 237 445
+          Complexity of rule ~health_data_collector.33.0-NUTRITION_PLAN u: 2
+        rule: ~health_data_collector.34.0 u:  239
+          line: 240 0
+          line: 241 17
+          line: 242 19
+          line: 243 98
+          Complexity of rule ~health_data_collector.34.0- u: 1
+        rule: ~health_data_collector.35.0 u:  245
+          line: 246 0
+          line: 247 17
+          line: 248 100
+          line: 249 124
+          Complexity of rule ~health_data_collector.35.0- u: 1
+        rule: ~health_data_collector.36.0 u:  251
+          line: 252 0
+          line: 253 132
+          line: 254 142
+          Complexity of rule ~health_data_collector.36.0- u: 1
+        rule: ~health_data_collector.37.0-MORNING u:  256
+          line: 257 0
+          line: 258 56
+          line: 259 166
+          Complexity of rule ~health_data_collector.37.0-MORNING u: 1
+        rule: ~health_data_collector.38.0 u:  261
+          line: 262 0
+          line: 264 43
+          line: 265 61
+          Complexity of rule ~health_data_collector.38.0- u: 1
+        rule: ~health_data_collector.39.0 u:  267
+          line: 268 0
+          line: 270 43
+          line: 271 61
+          Complexity of rule ~health_data_collector.39.0- u: 1
+        rule: ~health_data_collector.40.0 u:  273
+          line: 274 0
+          line: 276 43
+          line: 277 61
+          Complexity of rule ~health_data_collector.40.0- u: 1
+        rule: ~health_data_collector.41.0 u:  279
+          line: 280 0
+          line: 282 43
+          line: 283 62
+          Complexity of rule ~health_data_collector.41.0- u: 1
+        rule: ~health_data_collector.42.0-EVENING u:  286
+          line: 287 0
+          line: 288 57
+          line: 289 164
+          Complexity of rule ~health_data_collector.42.0-EVENING u: 1
+        rule: ~health_data_collector.43.0 u:  291
+          line: 292 0
+          line: 294 43
+          line: 295 61
+          Complexity of rule ~health_data_collector.43.0- u: 1
+        rule: ~health_data_collector.44.0 u:  297
+          line: 298 0
+          line: 300 43
+          line: 301 61
+          Complexity of rule ~health_data_collector.44.0- u: 1
+        rule: ~health_data_collector.45.0 u:  303
+          line: 304 0
+          line: 306 43
+          line: 307 61
+          Complexity of rule ~health_data_collector.45.0- u: 1
+        rule: ~health_data_collector.46.0 u:  309
+          line: 310 0
+          line: 312 43
+          line: 313 62
+          line: 314 90
+          Complexity of rule ~health_data_collector.46.0- u: 1
+        rule: ~health_data_collector.47.0-FINISH_TOPIC_RULE u:  317
+          line: 318 0
+          line: 319 96
+          line: 320 189
+          line: 321 215
+          Complexity of rule ~health_data_collector.47.0-FINISH_TOPIC_RULE u: 1
+        rule: ~health_data_collector.48.0-STOP u:  324
+          line: 325 0
+          line: 326 97
+          line: 327 180
+          line: 328 206
+          Complexity of rule ~health_data_collector.48.0-STOP u: 1
+        rule: ~health_data_collector.49.0 u:  330
+          Complexity of rule ~health_data_collector.49.0- u: 1
+        rule: ~health_data_collector.50.0-DEFAULT u:  333
+          line: 334 0
+          line: 337 153
+          line: 338 226
+          line: 339 251
+          line: 340 299
+          line: 341 322
+          line: 342 370
+          line: 343 406
+          line: 344 454
+          line: 345 477
+          line: 346 525
+          line: 347 550
+          line: 348 598
+          line: 349 624
+          line: 350 672
+          line: 351 700
+          line: 352 748
+          line: 353 769
+          line: 354 817
+          line: 358 838
+          Complexity of rule ~health_data_collector.50.0-DEFAULT u: 10
+file: C:/Users/neboduus/Documents/ChatScript-master/RAWDATA/TEST/coping_data_collector.top 0
+    topic: ~coping_data_collector 1
+        rule: ~coping_data_collector.0.0-INTRO u:  3
+          line: 4 0
+          line: 5 43
+          line: 6 162
+          line: 7 297
+          Complexity of rule ~coping_data_collector.0.0-INTRO u: 1
+        rule: ~coping_data_collector.1.0-FEELING_NOW u:  9
+          line: 10 0
+          line: 11 71
+          line: 12 104
+          line: 13 109
+          Complexity of rule ~coping_data_collector.1.0-FEELING_NOW u: 1
+        rule: ~coping_data_collector.2.0 u:  15
+          line: 16 0
+          line: 17 43
+          line: 18 58
+          line: 19 60
+          Complexity of rule ~coping_data_collector.2.0- u: 1
+        rule: ~coping_data_collector.3.0 u:  21
+          line: 22 0
+          line: 23 43
+          line: 24 107
+          line: 25 128
+          Complexity of rule ~coping_data_collector.3.0- u: 1
+        rule: ~coping_data_collector.4.0 u:  27
+          line: 28 0
+          line: 29 43
+          line: 30 89
+          line: 31 114
+          Complexity of rule ~coping_data_collector.4.0- u: 1
+        rule: ~coping_data_collector.5.0-ASK_SLEEP u:  33
+          line: 34 0
+          line: 35 69
+          line: 36 151
+          line: 37 156
+          Complexity of rule ~coping_data_collector.5.0-ASK_SLEEP u: 1
+        rule: ~coping_data_collector.6.0 u:  39
+          line: 40 0
+          line: 41 43
+          line: 42 105
+          line: 43 173
+          line: 44 179
+          Complexity of rule ~coping_data_collector.6.0- u: 1
+        rule: ~coping_data_collector.7.0 u:  46
+          line: 47 0
+          line: 48 43
+          line: 49 87
+          line: 50 201
+          line: 51 205
+          Complexity of rule ~coping_data_collector.7.0- u: 1
+        rule: ~coping_data_collector.8.0 u:  53
+          line: 54 0
+          line: 55 43
+          line: 56 99
+          line: 57 124
+          line: 58 131
+          Complexity of rule ~coping_data_collector.8.0- u: 1
+        rule: ~coping_data_collector.9.0 u:  60
+          line: 61 0
+          line: 62 43
+          line: 63 99
+          line: 64 124
+          line: 65 131
+          Complexity of rule ~coping_data_collector.9.0- u: 1
+        rule: ~coping_data_collector.10.0 u:  67
+          line: 68 0
+          line: 69 43
+          line: 70 97
+          line: 71 126
+          line: 72 134
+          Complexity of rule ~coping_data_collector.10.0- u: 1
+        rule: ~coping_data_collector.11.0 u:  74
+          line: 75 0
+          line: 76 43
+          line: 77 110
+          line: 78 124
+          Complexity of rule ~coping_data_collector.11.0- u: 1
+        rule: ~coping_data_collector.12.0 u:  80
+          line: 81 0
+          line: 82 43
+          line: 83 73
+          line: 84 92
+          line: 85 126
+          line: 86 128
+          line: 88 160
+          line: 89 218
+          line: 90 276
+          line: 91 344
+          line: 92 359
+          line: 93 361
+          line: 94 388
+          line: 95 444
+          line: 96 502
+          line: 97 570
+          line: 98 585
+          line: 99 587
+          line: 100 614
+          line: 101 671
+          line: 102 729
+          line: 103 754
+          line: 104 770
+          line: 105 772
+          line: 106 799
+          line: 107 856
+          line: 108 914
+          line: 109 939
+          line: 110 955
+          line: 111 957
+          line: 112 984
+          line: 113 1041
+          line: 114 1097
+          line: 115 1126
+          line: 116 1143
+          line: 117 1145
+          line: 118 1172
+          line: 119 1209
+          line: 120 1278
+          line: 121 1301
+          line: 122 1303
+          Complexity of rule ~coping_data_collector.12.0- u: 8
+        rule: ~coping_data_collector.13.0-ENERGY_LEVEL_DAY u:  124
+          line: 125 0
+          line: 126 70
+          line: 127 124
+          line: 128 185
+          Complexity of rule ~coping_data_collector.13.0-ENERGY_LEVEL_DAY u: 1
+        rule: ~coping_data_collector.14.0 u:  130
+          line: 131 0
+          line: 132 43
+          line: 133 78
+          line: 134 142
+          line: 135 174
+          Complexity of rule ~coping_data_collector.14.0- u: 1
+        rule: ~coping_data_collector.15.0 u:  137
+          line: 138 0
+          line: 139 43
+          line: 140 118
+          line: 141 241
+          line: 142 273
+          Complexity of rule ~coping_data_collector.15.0- u: 1
+        rule: ~coping_data_collector.16.0 u:  144
+          line: 145 0
+          line: 146 43
+          line: 147 123
+          line: 148 246
+          line: 149 278
+          Complexity of rule ~coping_data_collector.16.0- u: 1
+        rule: ~coping_data_collector.17.0-ENERGY_PLAN u:  152
+          line: 153 0
+          line: 154 41
+          line: 155 87
+          line: 156 166
+          line: 157 246
+          line: 158 255
+          line: 159 264
+          line: 160 336
+          line: 161 349
+          Complexity of rule ~coping_data_collector.17.0-ENERGY_PLAN u: 2
+        rule: ~coping_data_collector.18.0 u:  163
+          line: 164 0
+          line: 165 75
+          line: 166 174
+          line: 167 180
+          line: 168 206
+          line: 169 253
+          Complexity of rule ~coping_data_collector.18.0- u: 1
+        rule: ~coping_data_collector.19.0 u:  171
+          line: 172 0
+          line: 173 67
+          line: 174 166
+          line: 175 172
+          line: 176 198
+          line: 177 245
+          Complexity of rule ~coping_data_collector.19.0- u: 1
+        rule: ~coping_data_collector.20.0 u:  179
+          line: 180 0
+          line: 181 82
+          line: 182 190
+          line: 183 204
+          line: 184 230
+          line: 185 257
+          Complexity of rule ~coping_data_collector.20.0- u: 1
+        rule: ~coping_data_collector.21.0-STOP u:  187
+          line: 188 0
+          line: 189 97
+          line: 190 199
+          line: 191 225
+          Complexity of rule ~coping_data_collector.21.0-STOP u: 1
+        rule: ~coping_data_collector.22.0-DEFAULT u:  194
+          line: 195 0
+          line: 197 153
+          line: 198 194
+          line: 199 213
+          line: 200 261
+          line: 201 286
+          line: 202 334
+          line: 203 357
+          line: 204 405
+          line: 205 435
+          line: 206 483
+          line: 208 508
+          Complexity of rule ~coping_data_collector.22.0-DEFAULT u: 6
+file: C:/Users/neboduus/Documents/ChatScript-master/RAWDATA/TEST/introductions.top 0
+    topic: ~introductions 1
+        rule: ~introductions.0.0 u:  4
+          line: 4 0
+          line: 5 66
+          line: 6 127
+          line: 7 173
+          Complexity of rule ~introductions.0.0- u: 1
+        rule: ~introductions.1.0-CHANCHE u:  10
+          line: 10 0
+          line: 11 89
+          Complexity of rule ~introductions.1.0-CHANCHE u: 1
+        rule: ~introductions.1.1 a:  12
+          line: 13 0
+          line: 14 14
+          Complexity of rule ~introductions.1.1- a: 1
+        rule: ~introductions.1.2 a:  15
+          line: 16 0
+          line: 17 12
+          Complexity of rule ~introductions.1.2- a: 1
+        rule: ~introductions.2.0-TERMS u:  19
+          line: 19 0
+          line: 20 38
+          line: 21 103
+          line: 22 163
+          line: 23 236
+          line: 24 315
+          Complexity of rule ~introductions.2.0-TERMS u: 1
+        rule: ~introductions.3.0-AGREE_TERMS u:  26
+          line: 26 0
+          Complexity of rule ~introductions.3.0-AGREE_TERMS u: 1
+        rule: ~introductions.3.1 a:  28
+          line: 29 0
+          line: 30 31
+          Complexity of rule ~introductions.3.1- a: 1
+        rule: ~introductions.3.2 a:  31
+          line: 32 0
+          line: 33 61
+          Complexity of rule ~introductions.3.2- a: 1
+        rule: ~introductions.4.0-ASK_NAME u:  36
+          line: 36 0
+          Complexity of rule ~introductions.4.0-ASK_NAME u: 1
+        rule: ~introductions.4.1 a:  38
+          line: 39 0
+          line: 40 38
+          Complexity of rule ~introductions.4.1- a: 1
+        rule: ~introductions.4.2 b:  41
+          line: 42 0
+          line: 43 26
+          Complexity of rule ~introductions.4.2- b: 1
+        rule: ~introductions.4.3 b:  44
+          line: 45 0
+          Complexity of rule ~introductions.4.3- b: 1
+        rule: ~introductions.4.4 b:  46
+          line: 47 0
+          line: 48 25
+          Complexity of rule ~introductions.4.4- b: 1
+        rule: ~introductions.5.0-ASK_EMAIL u:  50
+          line: 50 0
+          Complexity of rule ~introductions.5.0-ASK_EMAIL u: 1
+        rule: ~introductions.5.1 a:  52
+          line: 53 0
+          line: 54 40
+          Complexity of rule ~introductions.5.1- a: 1
+        rule: ~introductions.5.2 b:  55
+          line: 56 0
+          line: 57 14
+          Complexity of rule ~introductions.5.2- b: 1
+        rule: ~introductions.5.3 b:  58
+          line: 59 0
+          Complexity of rule ~introductions.5.3- b: 1
+        rule: ~introductions.5.4 b:  60
+          line: 61 0
+          Complexity of rule ~introductions.5.4- b: 1
+        rule: ~introductions.6.0 u:  63
+          line: 63 0
+          line: 64 81
+          line: 65 107
+          line: 67 159
+          line: 68 175
+          line: 69 177
+          Complexity of rule ~introductions.6.0- u: 1
+file: C:/Users/neboduus/Documents/ChatScript-master/RAWDATA/TEST/concepts.top 0
+    concept: ~risp_si 1
+    concept: ~risp_no 2
+    concept: ~help 3
+    concept: ~topic_salute 6
+    concept: ~topic_adattamento 7
+    concept: ~topic_attivita_fisica 8
+    concept: ~topic_benessere_mentale 9
+    concept: ~pioggia 11
+    concept: ~soleggiato 12
+    concept: ~go_on 15
+    concept: ~stop_here 18
+    concept: ~nutrizione 21
+    concept: ~fitness 22
+    concept: ~consapevolezza 23
+file: C:/Users/neboduus/Documents/ChatScript-master/RAWDATA/TEST/tot.top 0
+    topic: ~tot 1
+        rule: ~tot.0.0- t:  5
+          line: 5 0
+          line: 6 46
+          line: 7 64
+          line: 10 92
+          line: 11 138
+          Complexity of rule ~tot.0.0- t: 1
+        rule: ~tot.1.0 u:  13
+          line: 15 0
+          line: 20 36
+          line: 23 68
+          line: 24 82
+          line: 26 112
+          line: 31 163
+          line: 34 195
+          line: 35 209
+          line: 37 241
+          line: 40 297
+          line: 45 323
+          line: 46 332
+          line: 47 346
+          line: 48 381
+          line: 51 402
+          line: 52 441
+          line: 53 473
+          Complexity of rule ~tot.1.0- u: 1
+        rule: ~tot.2.0 u:  57
+          line: 57 0
+          Complexity of rule ~tot.2.0- u: 1
+        rule: ~tot.3.0 u:  58
+          line: 58 0
+          Complexity of rule ~tot.3.0- u: 1
+        rule: ~tot.4.0 u:  59
+          line: 59 0
+          Complexity of rule ~tot.4.0- u: 1
+        rule: ~tot.5.0-SECOND u:  61
+          line: 61 0
+          Complexity of rule ~tot.5.0-SECOND u: 1
+        rule: ~tot.6.0 u:  63
+          line: 63 0
+          Complexity of rule ~tot.6.0- u: 1
+        rule: ~tot.7.0 u:  65
+          line: 65 0
+          Complexity of rule ~tot.7.0- u: 1
+        rule: ~tot.8.0 u:  66
+          line: 66 0
+          Complexity of rule ~tot.8.0- u: 1
+        rule: ~tot.9.0 u:  68
+          line: 68 0
+          Complexity of rule ~tot.9.0- u: 1
+        rule: ~tot.10.0 u:  70
+          line: 70 0
+          Complexity of rule ~tot.10.0- u: 1
+        rule: ~tot.11.0 u:  71
+          line: 71 0
+          line: 72 92
+          Complexity of rule ~tot.11.0- u: 1

@@ -1,0 +1,315 @@
+﻿ 9 ( ) 
+ 9,3 ( ) 
+ 9,4-Prozent-Kreisergebnis ( ) 
+ 9,5 ( ) 
+ 9,5prozentigen ( ) lemma=9,5prozentig 
+ 9,5prozentig ( ) 
+ 9,7/11,8 ( ) 
+ 9,9 ( ) 
+ 9- ( ) 
+ 9-Abschuss ( ) lemma=9-Abschuß 
+ 9-Abschuß ( ) 
+ 9-Beamten ( ) lemma=9-Beamter 
+ 9-Beamter ( ) 
+ 9-Fluges ( ) lemma=9-Flug 
+ 9-Flug ( ) 
+ 9-M ( ) 
+ 9-Mann ( ) 
+ 9-Punkte-Vorschlag ( ) 
+ 9-THC-Ergebnisse ( ) lemma=9-THC-Ergebnis 
+ 9-THC-Ergebnis ( ) 
+ 9-THC-Nachweises ( ) lemma=9-THC-Nachweis 
+ 9-THC-Nachweis ( ) 
+ 9-Uhr- ( ) 
+ 9-Uhr-Gottesdienst ( ) 
+ 9-Uhr-Nachrichten ( ) lemma=9-Uhr-Nachricht 
+ 9-Uhr-Nachricht ( ) 
+ 9-mm ( ) 
+ 9-mm- ( ) 
+ 9-mm-Autonome ( ) 
+ 9-mm-Kugel ( ) 
+ 9-mm-Pistole ( ) 
+ 9. ( ) 
+ 9.30 ( ) 
+ 9.30- ( ) 
+ 9.30-Uhr-Gottesdienst ( ) 
+ 9.45- ( ) 
+ 9/1 ( ) 
+ 9/10 ( ) 
+ 9/11 ( ) 
+ 9/1990 ( ) 
+ 9/1991 ( ) 
+ 9/2 ( ) 
+ 9/3 ( ) 
+ 9/4 ( ) 
+ 9/5 ( ) 
+ 9/6 ( ) 
+ 9/7 ( ) 
+ 9/8 ( ) 
+ 9/88 ( ) 
+ 9/89 ( ) 
+ 9/90 ( ) 
+ 9/91 ( ) 
+ 9/92 ( ) 
+ 9/93 ( ) 
+ 90 ( ) 
+ 90- ( ) 
+ 90-A ( ) 
+ 90-Abgeordnete ( ) 
+ 90-Abgeordneter ( ) lemma=90-Abgeordnete 
+ 90-Bundestagsabgeordnete ( ) 
+ 90-Fraktion ( ) 
+ 90-Grad-Winkel ( ) 
+ 90-Jahr-Feier ( ) 
+ 90-Jahr-Jubiläum ( ) 
+ 90-Kilometer-Transfer ( ) 
+ 90-Landtagsfraktion ( ) 
+ 90-Liter-Kunststoffsäcke ( ) lemma=90-Liter-Kunststoffsack 
+ 90-Liter-Kunststoffsack ( ) 
+ 90-Liter-Säcken ( ) lemma=90-Liter-Sack 
+ 90-Liter-Sack ( ) 
+ 90-Meter-Schanze ( ) 
+ 90-Minuten ( ) lemma=90-Minute 
+ 90-Minute ( ) 
+ 90-Minuten- ( ) 
+ 90-Minuten-Film ( ) 
+ 90-Minuten-Filme ( ) lemma=90-Minuten-Film 
+ 90-Minuten-Show ( ) 
+ 90-PS-Motor ( ) 
+ 90-Produktion ( ) 
+ 90-Projekt ( ) 
+ 90-Prozent-Finanzierung ( ) 
+ 90-Prozent-Marke ( ) 
+ 90-Seite ( ) 
+ 90-Sekunden-Regel ( ) 
+ 90-Sekunden-Regelung ( ) 
+ 90-m-Schanze ( ) 
+ 90-nah ( ) 
+ 90-prozentige ( ) lemma=90-prozentig 
+ 90-prozentig ( ) 
+ 90.000-Mark-Spende ( ) 
+ 90/313 ( ) 
+ 90/91 ( ) 
+ 900 ( ) 
+ 900-Einwohner-Dorf ( ) 
+ 900-Jahr ( ) 
+ 900-Jahr-Feier ( ) 
+ 900-Jahr-Jubiläum ( ) 
+ 900-Megawatt ( ) 
+ 900-Megawatt-Reaktoren ( ) lemma=900-Megawatt-Reaktor 
+ 900-Megawatt-Reaktor ( ) 
+ 900-Millionen-Mark-Etat ( ) 
+ 900-Seelen-Gemeinde ( ) 
+ 9000-Einwohner-Städtchen ( ) 
+ 90000-Einwohner-Stadt ( ) 
+ 900000-Einwohner-Stadt ( ) 
+ 900er ( ) 
+ 900jährigen ( ) lemma=900jährig 
+ 900jährig ( ) 
+ 900jähriges ( ) lemma=900jährig 
+ 900tägigen ( ) lemma=900tägig 
+ 900tägig ( ) 
+ 901er ( ) 
+ 902/85 ( ) 
+ 90er ( ) 
+ 90er- ( ) 
+ 90ern ( ) lemma=90er 
+ 90fache ( ) lemma=90fach 
+ 90fach ( ) 
+ 90fachen ( ) lemma=90fach 
+ 90jährig ( ) 
+ 90jährige ( ) lemma=90jährig 
+ 90jährigen ( ) lemma=90jährig 
+ 90jähriger ( ) lemma=90jährig 
+ 90jähriges ( ) lemma=90jährig 
+ 90köpfige ( ) lemma=90köpfig 
+ 90köpfig ( ) 
+ 90mal ( ) 
+ 90minütigen ( ) lemma=90minütig 
+ 90minütig ( ) 
+ 90prozentig ( ) 
+ 90prozentige ( ) lemma=90prozentig 
+ 90prozentigen ( ) lemma=90prozentig 
+ 90prozentiger ( ) lemma=90prozentig 
+ 90prozentiges ( ) lemma=90prozentig 
+ 90tägige ( ) lemma=90tägig 
+ 90tägig ( ) 
+ 90tägigen ( ) lemma=90tägig 
+ 91 ( ) 
+ 91/2 ( ) 
+ 91/92 ( ) 
+ 91/97 ( ) 
+ 911er ( ) 
+ 918er ( ) 
+ 91er ( ) 
+ 91er- ( ) 
+ 91jährige ( ) lemma=91jährig 
+ 91jährig ( ) 
+ 91jährigen ( ) lemma=91jährig 
+ 91jähriger ( ) lemma=91jährig 
+ 91köpfige ( ) lemma=91köpfig 
+ 91köpfig ( ) 
+ 92 ( ) 
+ 92,4 ( ) 
+ 92,5-Teiler ( ) 
+ 92- ( ) 
+ 92/12 ( ) 
+ 92/91 ( ) 
+ 92/93 ( ) 
+ 923/90 ( ) 
+ 924/944 ( ) 
+ 925/1000 ( ) 
+ 929 ( ) 
+ 92er ( ) 
+ 92er-Defizit ( ) 
+ 92er-Ergebnis ( ) 
+ 92jährig ( ) 
+ 92jährige ( ) lemma=92jährig 
+ 92jährigen ( ) lemma=92jährig 
+ 92jähriger ( ) lemma=92jährig 
+ 92köpfigen ( ) lemma=92köpfig 
+ 92köpfig ( ) 
+ 93 ( ) 
+ 93/94 ( ) 
+ 936-Mark-Gesetz ( ) 
+ 93er ( ) 
+ 93fache ( ) lemma=93fach 
+ 93fach ( ) 
+ 93fachen ( ) lemma=93fach 
+ 93jährig ( ) 
+ 93jährige ( ) lemma=93jährig 
+ 93jährigen ( ) lemma=93jährig 
+ 93jähriger ( ) lemma=93jährig 
+ 93prozentigen ( ) lemma=93prozentig 
+ 93prozentig ( ) 
+ 94/89,5 ( ) 
+ 94/91 ( ) 
+ 94/95 ( ) 
+ 94er ( ) 
+ 94ern ( ) lemma=94er 
+ 94jährige ( ) lemma=94jährig 
+ 94jährig ( ) 
+ 94jährigen ( ) lemma=94jährig 
+ 94jähriger ( ) lemma=94jährig 
+ 94köpfigen ( ) lemma=94köpfig 
+ 94köpfig ( ) 
+ 94prozentige ( ) lemma=94prozentig 
+ 94prozentig ( ) 
+ 95,0/97,0 ( ) 
+ 95,5/98,0 ( ) 
+ 95,5/99,0 ( ) 
+ 95-Prozent-Mehrheit ( ) 
+ 95/6 ( ) 
+ 95/96 ( ) 
+ 950 ( ) 
+ 950-Jahr-Feier ( ) 
+ 9500 ( ) 
+ 9500-Einwohner-Kommune ( ) 
+ 954er ( ) 
+ 955mal ( ) 
+ 95er ( ) 
+ 95jährige ( ) lemma=95jährig 
+ 95jährig ( ) 
+ 95jährigen ( ) lemma=95jährig 
+ 95jähriger ( ) lemma=95jährig 
+ 95jähriges ( ) lemma=95jährig 
+ 95prozentige ( ) lemma=95prozentig 
+ 95prozentig ( ) 
+ 95prozentigen ( ) lemma=95prozentig 
+ 95prozentiger ( ) lemma=95prozentig 
+ 96 ( ) 
+ 96,5/95,5 ( ) 
+ 96/4 ( ) 
+ 96000-Tonnen-Tanker ( ) 
+ 961/86 ( ) 
+ 963er ( ) 
+ 965mal ( ) 
+ 968er ( ) 
+ 968er-Baureihe ( ) 
+ 96er ( ) 
+ 96ern ( ) lemma=96er 
+ 96jährige ( ) lemma=96jährig 
+ 96jährig ( ) 
+ 96jährigen ( ) lemma=96jährig 
+ 96mal ( ) 
+ 97 ( ) 
+ 97,0/86,5 ( ) 
+ 97,5/87,0 ( ) 
+ 97/88 ( ) 
+ 97fache ( ) lemma=97fach 
+ 97fach ( ) 
+ 97jährige ( ) lemma=97jährig 
+ 97jährig ( ) 
+ 97jährigen ( ) lemma=97jährig 
+ 97prozentige ( ) lemma=97prozentig 
+ 97prozentig ( ) 
+ 98 ( ) 
+ 98-A ( ) 
+ 98/99 ( ) 
+ 986/91 ( ) 
+ 98er ( ) 
+ 98ern ( ) lemma=98er 
+ 98prozentige ( ) lemma=98prozentig 
+ 98prozentig ( ) 
+ 98prozentiger ( ) lemma=98prozentig 
+ 99 ( ) 
+ 99,0/96,0 ( ) 
+ 99,5/94,0 ( ) 
+ 99,5/97,0 ( ) 
+ 99-Records ( ) lemma=99-Record 
+ 99-Record ( ) 
+ 99/3 ( ) 
+ 9918 ( ) 
+ 9971 ( ) 
+ 998/1000 ( ) 
+ 999er ( ) 
+ 99er ( ) 
+ 99fachen ( ) lemma=99fach 
+ 99fach ( ) 
+ 99jährige ( ) lemma=99jährig 
+ 99jährig ( ) 
+ 99jährigen ( ) lemma=99jährig 
+ 99jähriges ( ) lemma=99jährig 
+ 99prozentige ( ) lemma=99prozentig 
+ 99prozentig ( ) 
+ 99prozentigen ( ) lemma=99prozentig 
+ 99prozentiger ( ) lemma=99prozentig 
+ 9:0-Erfolg ( ) 
+ 9:0-Sieg ( ) 
+ 9:0-Triumph ( ) 
+ 9:1-Erfolg ( ) 
+ 9:1-Punkte ( ) lemma=9:1-Punkt 
+ 9:1-Punkt ( ) 
+ 9:1-Punkten ( ) lemma=9:1-Punkt 
+ 9:1-Sieg ( ) 
+ 9:12-Auswärtsniederlage ( ) 
+ 9:19-Punkten ( ) lemma=9:19-Punkt 
+ 9:19-Punkt ( ) 
+ 9:2-Erfolg ( ) 
+ 9:2-Sieg ( ) 
+ 9:3-Erfolg ( ) 
+ 9:3-Sieg ( ) 
+ 9:4-Arbeitssieg ( ) 
+ 9:4-Erfolg ( ) 
+ 9:4-Sieg ( ) 
+ 9:5-Erfolg ( ) 
+ 9:5-Sieg ( ) 
+ 9:5-Tore ( ) lemma=9:5-Tor 
+ 9:5-Tor ( ) 
+ 9:6-Erfolg ( ) 
+ 9:6-Sieg ( ) 
+ 9:7-Erfolg ( ) 
+ 9:7-Punkten ( ) lemma=9:7-Punkt 
+ 9:7-Punkt ( ) 
+ 9:7-Sieg ( ) 
+ 9:7-Vorsprunges ( ) lemma=9:7-Vorsprung 
+ 9:7-Vorsprung ( ) 
+ 9:8-Erfolg ( ) 
+ 9er ( ) 
+ 9er-Ball ( ) 
+ 9jährige ( ) lemma=9jährig 
+ 9jährig ( ) 
+ 9jährigen ( ) lemma=9jährig 
+ 9jähriger ( ) lemma=9jährig 
+ 9jähriges ( ) lemma=9jährig 
+ 9mal ( ) 
